@@ -3,690 +3,136 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Gilead-System Karte</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Cormorant+Garamond:wght@400;600&display=swap" rel="stylesheet">
+  <title>Gilead System 40k – Mini Apps</title>
   <style>
     :root {
-      --paper-texture: url("https://cdn.midjourney.com/a8fbb3e3-1881-4afd-8e26-e25dd5cbc576/0_0.png");
-      --ink: #2f2315;
-      --ink-soft: rgba(47, 35, 21, 0.72);
-      --line: rgba(74, 54, 27, 0.38);
-      --panel: rgba(242, 232, 206, 0.84);
-      --panel-border: rgba(84, 61, 29, 0.32);
-      --shadow: hsla(26, 64%, 4%, 0.16);
-      --link: rgba(18, 96, 132, 0.82);
-      --selection: rgba(24, 106, 142, 0.95);
+      --bg: #0f1115;
+      --panel: #181c24;
+      --panel-2: #212734;
+      --text: #edf1f8;
+      --muted: #adb7cc;
+      --accent: #79a7ff;
+      --border: #31384a;
     }
 
     * { box-sizing: border-box; }
 
-    
-
-    html, body {
+    body {
       margin: 0;
-      width: 100%;
-      height: 100%;
-      overflow: hidden;
-      background: #d9c8a2;
-      color: var(--ink);
-      font-family: "Cormorant Garamond", Georgia, serif;
+      min-height: 100vh;
+      font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      color: var(--text);
+      background: radial-gradient(circle at top, #1a2130 0%, var(--bg) 55%);
+      padding: 8px;
     }
 
-    body::before {
-      content: "";
-      position: fixed;
-      inset: 0;
-      background-image: var(--paper-texture);
-      background-size: cover;
-      background-position: center;
-      background-repeat: no-repeat;
-      filter: sepia(0.28) saturate(0.8) brightness(1.02) contrast(1.03);
-      opacity: 0.3;
-      pointer-events: none;
-      z-index: 0;
+    .shell {
+      max-width: 1400px;
+      margin: 0 auto;
+      display: grid;
+      gap: 8px;
+      height: calc(100vh - 16px);
     }
 
-    body::after {
-      content: "";
-      position: fixed;
-      inset: 0;
-      background:
-        radial-gradient(circle at 18% 18%, rgba(255,245,220,0.18), transparent 24%),
-        radial-gradient(circle at 82% 76%, rgba(65, 40, 12, 0.12), transparent 30%),
-        radial-gradient(circle at 50% 50%, transparent 58%, rgba(44, 28, 10, 0.18) 100%);
-      mix-blend-mode: multiply;
-      pointer-events: none;
-      z-index: 0;
-    }
-
-    #app {
-      position: relative;
-      width: 100%;
-      height: 100%;
-      z-index: 1;
-      isolation: isolate;
-    }
-
-    .title-wrap {
-      position: absolute;
-      top: 22px;
-      left: 50%;
-      transform: translateX(-50%);
-      text-align: center;
-      z-index: 5;
-      pointer-events: none;
-      text-shadow: 0 1px 0 rgba(255,255,255,0.35), 0 3px 10px rgba(0,0,0,0.06);
-    }
-
-    .title {
-      margin: 0;
-      font-family: "UnifrakturMaguntia", "Old English Text MT", serif;
-      font-size: clamp(30px, 3vw, 48px);
-      font-weight: 400;
-      color: var(--ink);
-    }
-
-    .legend {
-      position: absolute;
-      top: 24px;
-      right: 24px;
-      width: 150px;
-      padding: 12px 14px;
+    .header {
       background: var(--panel);
-      border: 1px solid var(--panel-border);
-      border-radius: 14px;
-      box-shadow: 0 10px 28px var(--shadow), inset 0 1px 0 rgba(255,255,255,0.3);
-      z-index: 6;
-      backdrop-filter: blur(4px);
-    }
-
-    .legend h2 {
-      margin: 0 0 8px;
-      font-family: "UnifrakturMaguntia", serif;
-      font-weight: 400;
-      font-size: 22px;
-    }
-
-    .legend-item {
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 8px 10px;
       display: flex;
       justify-content: space-between;
+      align-items: center;
       gap: 10px;
-      font-size: 16px;
-      margin: 4px 0;
+      flex-wrap: wrap;
     }
 
-    .legend-item .years {
-      color: var(--ink-soft);
-      white-space: nowrap;
-    }
+    h1 { margin: 0; font-size: clamp(1rem, 1.5vw, 1.2rem); font-weight: 600; line-height: 1.1; }
 
-    .controls {
-      position: absolute;
-      left: 50%;
-      bottom: 16px;
-      transform: translateX(-50%);
-      width: min(1280px, calc(100vw - 28px));
-      display: grid;
-      grid-template-columns: 1fr auto auto auto auto;
-      gap: 12px;
-      align-items: end;
-      padding: 12px 14px;
-      background: rgba(242, 232, 206, 0.88);
-      border: 1px solid var(--panel-border);
-      border-radius: 16px;
-      box-shadow: 0 12px 34px var(--shadow), inset 0 1px 0 rgba(255,255,255,0.35);
-      z-index: 7;
-      backdrop-filter: blur(4px);
-    }
+    .tabs { display: flex; gap: 8px; flex-wrap: wrap; }
 
-    .control {
-      display: flex;
-      flex-direction: column;
-      gap: 5px;
-      min-width: 0;
-    }
-
-    .control label {
-      font-size: 11px;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      color: var(--ink-soft);
-    }
-
-    input[type="range"] {
-      width: 100%;
-      accent-color: #7f5a26;
-      margin: 0;
-    }
-
-    input[type="number"] {
-      width: 88px;
-      padding: 8px 10px;
-      border-radius: 10px;
-      border: 1px solid rgba(78, 55, 26, 0.25);
-      background: rgba(255,250,237,0.86);
-      color: var(--ink);
-      font: inherit;
-      font-size: 15px;
-    }
-
-    .date-group {
-      display: flex;
-      gap: 8px;
-      align-items: end;
-    }
-
-    .btn {
-      padding: 9px 12px;
-      border-radius: 999px;
-      border: 1px solid rgba(85, 61, 27, 0.25);
-      background: rgba(125, 90, 36, 0.08);
-      color: var(--ink);
-      font: inherit;
+    .tab {
+      border: 1px solid var(--border);
+      background: var(--panel-2);
+      color: var(--text);
+      border-radius: 8px;
+      padding: 6px 10px;
+      font-size: 0.85rem;
+      line-height: 1;
       cursor: pointer;
-      white-space: nowrap;
     }
 
-    .readout {
-      padding: 9px 12px;
-      border-radius: 999px;
-      border: 1px solid rgba(85, 61, 27, 0.16);
-      background: rgba(255, 248, 230, 0.45);
-      font-family: "UnifrakturMaguntia", serif;
-      font-size: 22px;
-      white-space: nowrap;
+    .tab.active {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 40%, transparent);
     }
 
-    svg {
+    .stage {
+      position: relative;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+      min-height: 0;
+      height: 100%;
+    }
+
+    iframe {
       position: absolute;
       inset: 0;
       width: 100%;
       height: 100%;
-      z-index: 2;
+      border: 0;
+      display: none;
+      background: #0b0f18;
     }
 
-    .orbit {
-      fill: none;
-      stroke: rgba(163, 64, 7, 0.856);
-      stroke-width: 2.2;
-      stroke-dasharray: 3 1;
-      opacity: 0.5;
-    }
-
-    .orbit.irregular {
-      stroke: rgba(87, 19, 87, 0.938);
-      stroke-width: 2.6;
-      stroke-dasharray: 3 1;
-      opacity: 0.5;
-    }
-
-     .planet {
-      cursor: pointer;
-    }
-
-    .planet.selected .planet-body {
-      stroke: var(--selection);
-      stroke-width: 16;
-      filter: drop-shadow(0 0 10px rgba(24, 107, 142, 0.86));
-    }
-
-    .planet-label {
-      fill: var(--ink);
-      font-size: 24px;
-      text-anchor: left;
-      paint-order: stroke;
-      stroke: rgba(247,239,215,0.72);
-      stroke-width: 3px;
-      stroke-linejoin: round;
-      font-family: "Cormorant Garamond", Georgia, serif;
-    }
-
-    .sun-core {
-      fill: url(#sunGradient);
-    }
-
-    .sun-halo {
-      fill: rgba(192, 129, 46, 0.14);
-    }
-
-    .tooltip {
-      position: absolute;
-      pointer-events: none;
-      min-width: 200px;
-      max-width: 600px;
-      padding: 16px 18px;
-      background: rgba(136, 130, 111, 0.98);
-      border: 1px solid rgba(86, 62, 28, 0.26);
-      border-radius: 14px;
-      box-shadow: 0 18px 40px rgba(20,10,4,0.18);
-      z-index: 10;
-      opacity: 0;
-      transform: translate(-50%, -55%);
-      transition: opacity 120ms ease;
-    }
-
-    .tooltip.visible {
-      opacity: 0.9;
-      pointer-events: auto;
-    }
-
-    .tooltip .name {
-      font-family: "UnifrakturMaguntia", serif;
-      font-size: 36px;
-      margin-bottom: 6px;
-    }
-
-    .tooltip .row {
-      font-size: 30px;
-      line-height: 1.4;
-      margin: 2px 0;
-    }
-
-    @media (max-width: 980px) {
-      .controls {
-        grid-template-columns: 1fr;
-      }
-
-      .legend {
-        width: 210px;
-      }
-    }
+    iframe.active { display: block; }
   </style>
 </head>
 <body>
-  <div id="app">
-    <div class="title-wrap">
-      <h1 class="title">Orrery des Gilead-Systems</h1>
-    </div>
+  <main class="shell">
+    <header class="header">
+      <h1>Gilead System 40k – Mini App Hub</h1>
+      <nav class="tabs" aria-label="App Navigation">
+        <button class="tab" data-app="map">Gilead Map</button>
+        <button class="tab" data-app="npc">NPC Tracker</button>
+      </nav>
+    </header>
 
-    <div class="legend" id="legend"></div>
-    <svg id="map" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice"></svg>
-    <div class="tooltip" id="tooltip"></div>
-
-    <div class="controls">
-      <div class="control">
-        <label for="timeSlider">Zeitfenster ±1 Jahr</label>
-        <input id="timeSlider" type="range" min="-1000" max="1000" step="1" value="0" />
-      </div>
-
-      <div class="date-group">
-        <div class="control">
-          <label for="fractionInput">fff</label>
-          <input id="fractionInput" type="number" min="0" max="999" value="145" />
-        </div>
-        <div class="control">
-          <label for="yearInput">YYY</label>
-          <input id="yearInput" type="number" min="0" max="999" value="001" />
-        </div>
-        <div class="control">
-          <label for="millenniumInput">MYY</label>
-          <input id="millenniumInput" type="number" min="1" max="99" value="41" />
-        </div>
-      </div>
-
-      <button class="btn" id="setBtn" type="button">Datum setzen</button>
-      <button class="btn" id="centerBtn" type="button">Zentrieren</button>
-      <div class="readout" id="readout">145.001.M41</div>
-    </div>
-  </div>
+    <section class="stage" aria-live="polite">
+      <iframe id="view-map" title="Gilead Map" src="./Gilead-map.html" loading="eager"></iframe>
+      <iframe id="view-npc" title="NPC Tracker" src="./npc-tracker.html" loading="eager"></iframe>
+    </section>
+  </main>
 
   <script>
-    (() => {
-      const svg = document.getElementById('map');
-      const legend = document.getElementById('legend');
-      const tooltip = document.getElementById('tooltip');
-      const timeSlider = document.getElementById('timeSlider');
-      const fractionInput = document.getElementById('fractionInput');
-      const yearInput = document.getElementById('yearInput');
-      const millenniumInput = document.getElementById('millenniumInput');
-      const setBtn = document.getElementById('setBtn');
-      const centerBtn = document.getElementById('centerBtn');
-      const readout = document.getElementById('readout');
+    const views = {
+      map: document.getElementById('view-map'),
+      npc: document.getElementById('view-npc')
+    };
 
-      const NS = 'http://www.w3.org/2000/svg';
-      const W = 1600;
-      const H = 900;
-      const DAYS_PER_YEAR = 365.2425;
-      const AU_IN_KM = 149597870.7;
-      const G = 9.80665;
-      const SECONDS_PER_DAY = 86400;
-      const AU_PER_CANVAS_UNIT = 1;
+    const tabs = Array.from(document.querySelectorAll('.tab'));
 
-      const VIEW = {
-        x: W * 0.48,
-        y: H * 0.48,
-        planet_scale: 1.,
-        orbital_scale: 90
-      };
-
-      const bodies = [
-        { name: 'Avachrus', a: 0.28, e: 0.12, period: 0.15, radius: 8.8, color: '#d0a85ef2', phase: 0.30, orientation: 0 },
-        { name: 'Nethreus', a: 0.55, e: 0.09, period: 0.4, radius: 10, color: '#243c24f2', phase: 0.90, orientation: 18 },
-        { name: 'Ostia', a: 1.02, e: 0.16, period: 1.03, radius: 12.75, color: '#84db13f2', phase: 2.10, orientation: 42 },
-        { name: 'Enoch', a: 1.6, e: 0.11, period: 2.0, radius: 10.5, color: '#ceb678f2', phase: 2.60, orientation: 67 },
-        { name: 'Gilead Prime', a: 2.2, e: 0.08, period: 3.2, radius: 13.8, color: '#40c29bf2', phase: 1.20, orientation: 95 },
-        { name: 'Charybdion', a: 3.4, e: 0.28, period: 6.3, radius: 13.5, color: '#5279e3f2', phase: 4, orientation: 140 },
-        { name: 'Trollius', a: 3, e: 0.63, period: 2, radius: 10, color: '#e8f8fff2', phase: 2, irregular: true, orientation: 22 },
-        { name: 'Vulkaris', a: 4, e: 0.71, period: 1, radius: 12, color: '#556910f2', phase: 2.5, irregular: true, orientation: 170 }
-      ];
-
-      let baseTime = imperialToTime(145, 1, 41);
-      let activeLine = null;
-      let selectedBodies = [];
-
-      function imperialToTime(f, y, m) {
-        return ((m * 1000 + y) * 1000) + f;
-      }
-
-      function timeToImperial(t) {
-        const safe = Math.max(0, Math.floor(t));
-        const fraction = safe % 1000;
-        const totalYears = Math.floor(safe / 1000);
-        const year = totalYears % 1000;
-        const millennium = Math.floor(totalYears / 1000);
-        return { fraction, year, millennium };
-      }
-
-      function pad(n, len) {
-        return String(Math.floor(Math.abs(n))).padStart(len, '0');
-      }
-
-      function clamp(n, min, max) {
-        return Math.max(min, Math.min(max, n));
-      }
-
-      function currentTime() {
-        return baseTime + Number(timeSlider.value);
-      }
-
-      function currentDayScalar() {
-        return (currentTime() / 1000) * DAYS_PER_YEAR;
-      }
-
-      function meanToEccentricAnomaly(M, e) {
-        let E = e < 0.8 ? M : Math.PI;
-        for (let i = 0; i < 8; i++) {
-          E = E - (E - e * Math.sin(E) - M) / (1 - e * Math.cos(E));
-        }
-        return E;
-      }
-
-      function rotatePoint(x, y, angleDeg) {
-        const angleRad = (angleDeg || 0) * Math.PI / 180;
-        const cos = Math.cos(angleRad);
-        const sin = Math.sin(angleRad);
-        return {
-          x: x * cos - y * sin,
-          y: x * sin + y * cos
-        };
-      }
-
-      function orbitalCoordinates(body, E) {
-        const localX = body.a * (Math.cos(E) - body.e);
-        const localY = body.a * Math.sqrt(1 - body.e * body.e) * Math.sin(E);
-        return rotatePoint(localX, localY, body.orientation);
-      }
-
-      function bodyPosition(body, dayScalar) {
-        const M = ((dayScalar / DAYS_PER_YEAR / body.period) * Math.PI * 2 + body.phase) % (Math.PI * 2);
-        const E = meanToEccentricAnomaly(M, body.e);
-        const rotated = orbitalCoordinates(body, E);
-        return {
-          x: VIEW.x + rotated.x * VIEW.orbital_scale,
-          y: VIEW.y + rotated.y * VIEW.orbital_scale,
-          sx: rotated.x,
-          sy: rotated.y
-        };
-      }
-
-      function orbitPath(body) {
-        const points = [];
-        for (let i = 0; i <= 260; i++) {
-          const E = (i / 260) * Math.PI * 2;
-          const rotated = orbitalCoordinates(body, E);
-          points.push(`${VIEW.x + rotated.x * VIEW.orbital_scale},${VIEW.y + rotated.y * VIEW.orbital_scale}`);
-        }
-        return `M ${points.join(' L ')}`;
-      }
-
-      function auDistance(a, b) {
-        const dx = (b.sx - a.sx) * AU_PER_CANVAS_UNIT;
-        const dy = (b.sy - a.sy) * AU_PER_CANVAS_UNIT;
-        return Math.sqrt(dx * dx + dy * dy);
-      }
-
-      function travelDaysAt1g(au) {
-        const meters = au * AU_IN_KM * 1000;
-        const seconds = 2 * Math.sqrt(meters / G);
-        return seconds / SECONDS_PER_DAY;
-      }
-
-      function el(name, attrs = {}, parent) {
-        const node = document.createElementNS(NS, name);
-        for (const [k, v] of Object.entries(attrs)) {
-          node.setAttribute(k, v);
-        }
-        if (parent) parent.appendChild(node);
-        return node;
-      }
-
-      function clearSVG() {
-        while (svg.firstChild) {
-          svg.removeChild(svg.firstChild);
-        }
-      }
-
-      function updateReadout() {
-        const now = timeToImperial(currentTime());
-        readout.textContent = `$7.{pad(now.fraction, 3)}.${pad(now.year, 3)}.M${pad(now.millennium, 2)}`;
-      }
-
-      function buildLegend() {
-        legend.innerHTML = `<h2>Welten</h2>${bodies.map((body) => `
-          <div class="legend-item">
-            <span>${body.name}</span>
-            <span class="years">${(body.period ).toFixed(1)} a</span>
-          </div>
-        `).join('')}`;
-      }
-
-      function hideTooltip() {
-        tooltip.classList.remove('visible');
-        if (activeLine) activeLine.classList.remove('active');
-        activeLine = null;
-      }
-
-      function showTooltipAtPosition(screenX, screenY, a, b, line) {
-        if (activeLine) activeLine.classList.remove('active');
-        activeLine = line || null;
-        if (activeLine) activeLine.classList.add('active');
-
-        const au = auDistance(a, b);
-        const days = travelDaysAt1g(au);
-
-        tooltip.innerHTML = `
-          <div class="name">${a.body.name} ↔ ${b.body.name}</div>
-          <div class="row"><strong>Distanz:</strong> ${au.toFixed(3)} AU</div>
-          <div class="row"><strong>Reisezeit:</strong> ${days.toFixed(1)} Tage</div>
-        `;
-        tooltip.style.left = `${screenX}px`;
-        tooltip.style.top = `${screenY}px`;
-        tooltip.classList.add('visible');
-      }
-
-      function updateSelectionDisplay() {
-        const groups = Array.from(svg.querySelectorAll('.planet'));
-        groups.forEach((g) => g.classList.remove('selected'));
-        selectedBodies.forEach((sel) => {
-          if (sel.group) sel.group.classList.add('selected');
-        });
-      }
-
-      function findLineForPair(aName, bName) {
-        return Array.from(svg.querySelectorAll('.pair-line')).find((line) => {
-          const n1 = line.getAttribute('data-a');
-          const n2 = line.getAttribute('data-b');
-          return (n1 === aName && n2 === bName) || (n1 === bName && n2 === aName);
-        }) || null;
-      }
-
-      function handlePlanetSelection(entry) {
-        if (selectedBodies.length === 2) {
-          selectedBodies = [];
-          hideTooltip();
-          updateSelectionDisplay();
-          return;
-        }
-
-        if (selectedBodies.length === 1 && selectedBodies[0].body.name === entry.body.name) {
-          selectedBodies = [];
-          hideTooltip();
-          updateSelectionDisplay();
-          return;
-        }
-
-        if (selectedBodies.length === 0) {
-          selectedBodies = [entry];
-          hideTooltip();
-          updateSelectionDisplay();
-          return;
-        }
-
-        selectedBodies.push(entry);
-        updateSelectionDisplay();
-
-        const a = selectedBodies[0];
-        const b = selectedBodies[1];
-        const line = findLineForPair(a.body.name, b.body.name);
-        const rect = svg.getBoundingClientRect();
-        const midX = rect.left + (((a.x + b.x) / 2) / W) * rect.width;
-        const midY = rect.top + (((a.y + b.y) / 2) / H) * rect.height;
-        showTooltipAtPosition(midX, midY, a, b, line);
-      }
-
-      function render() {
-        clearSVG();
-        updateReadout();
-
-        const defs = el('defs', {}, svg);
-        const grad = el('radialGradient', { id: 'sunGradient' }, defs);
-        el('stop', { offset: '0%', 'stop-color': '#f2d592' }, grad);
-        el('stop', { offset: '55%', 'stop-color': '#c28a3d' }, grad);
-        el('stop', { offset: '100%', 'stop-color': '#7a4c1e' }, grad);
-
-        const root = el('g', {}, svg);
-        const dayScalar = currentDayScalar();
-        const positioned = bodies.map((body) => ({ body, ...bodyPosition(body, dayScalar) }));
-
-
-        bodies.forEach((body) => {
-          el('path', {
-            d: orbitPath(body),
-            class: `orbit${body.irregular ? ' irregular' : ''}`
-          }, root);
-        });
-
-        el('circle', { cx: VIEW.x, cy: VIEW.y, r: 78 * VIEW.planet_scale, class: 'sun-halo' }, root);
-        el('circle', { cx: VIEW.x, cy: VIEW.y, r: 16 * VIEW.planet_scale, class: 'sun-core' }, root);
-
-        positioned.forEach((entry) => {
-          const { body, x, y } = entry;
-          const g = el('g', { class: 'planet', tabindex: '0' }, root);
-          entry.group = g;
-
-          const visibleRadius = body.radius * VIEW.planet_scale;
-          const hitRadius = Math.max(visibleRadius, 22);
-
-          el('circle', {
-            cx: x,
-            cy: y,
-            r: hitRadius,
-            fill: 'transparent',
-            stroke: 'transparent',
-            'stroke-width': 0,
-            class: 'planet-hit'
-          }, g);
-
-          el('circle', {
-            cx: x,
-            cy: y,
-            r: visibleRadius,
-            fill: body.color,
-            stroke: 'rgba(52,35,17,0.58)',
-            'stroke-width': 1.2,
-            class: 'planet-body',
-            'pointer-events': 'none'
-          }, g);
-
-          el('text', {
-            x,
-            y: y - (visibleRadius + 10),
-            class: 'planet-label',
-            'pointer-events': 'none'
-          }, root).textContent = body.name;
-
-          g.style.touchAction = 'manipulation';
-
-          g.addEventListener('pointerup', (evt) => {
-            evt.preventDefault();
-            evt.stopPropagation();
-            handlePlanetSelection(entry);
-          });
-        });
-
-        updateSelectionDisplay();
-      }
-
-      function sanitizeInputs() {
-        fractionInput.value = pad(clamp(parseInt(fractionInput.value || '0', 10) || 0, 0, 999), 3);
-        yearInput.value = pad(clamp(parseInt(yearInput.value || '0', 10) || 0, 0, 999), 3);
-        millenniumInput.value = pad(clamp(parseInt(millenniumInput.value || '1', 10) || 1, 1, 99), 2);
-      }
-
-      function setBaseDate() {
-        sanitizeInputs();
-        baseTime = imperialToTime(Number(fractionInput.value), Number(yearInput.value), Number(millenniumInput.value));
-        timeSlider.value = 0;
-        render();
-      }
-
-      timeSlider.addEventListener('input', () => {
-        selectedBodies = [];
-        hideTooltip();
-        render();
+    function show(app) {
+      const key = views[app] ? app : 'map';
+      Object.entries(views).forEach(([name, frame]) => {
+        frame.classList.toggle('active', name === key);
       });
-
-      setBtn.addEventListener('click', () => {
-        selectedBodies = [];
-        hideTooltip();
-        setBaseDate();
+      tabs.forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.app === key);
       });
+      history.replaceState(null, '', `#${key}`);
+    }
 
-      centerBtn.addEventListener('click', () => {
-        selectedBodies = [];
-        hideTooltip();
-        timeSlider.value = 0;
-        render();
-      });
+    tabs.forEach(btn => {
+      btn.addEventListener('click', () => show(btn.dataset.app));
+    });
 
-      [fractionInput, yearInput, millenniumInput].forEach((input) => {
-        input.addEventListener('change', sanitizeInputs);
-      });
+    window.addEventListener('hashchange', () => {
+      show((location.hash || '').replace('#', ''));
+    });
 
-      tooltip.addEventListener('pointerup', (evt) => {
-        evt.preventDefault();
-        evt.stopPropagation();
-        selectedBodies = [];
-        hideTooltip();
-        updateSelectionDisplay();
-      });
-
-      buildLegend();
-      sanitizeInputs();
-      render();
-    })();
+    show((location.hash || '').replace('#', '') || 'map');
   </script>
 </body>
 </html>
