@@ -480,7 +480,7 @@
 
       function updateReadout() {
         const now = timeToImperial(currentTime());
-        readout.textContent = `$7.{pad(now.fraction, 3)}.${pad(now.year, 3)}.M${pad(now.millennium, 2)}`;
+        readout.textContent = `${pad(now.fraction, 3)}.${pad(now.year, 3)}.M${pad(now.millennium, 2)}`;
       }
 
       function buildLegend() {

@@ -4,7 +4,7 @@ Dieses Repo enthält jetzt zwei kleine lokale Web-Apps plus eine Landing Page.
 
 ## Seiten
 
-- `index.html` → Landing Page / App-Auswahl
+- `index.html` → Mini-App Hub mit Tab-Navigation ohne Full-Page-Refresh
 - `Gilead-map.html` → bestehende Gilead-Map-App
 - `npc-tracker.html` → Wrath & Glory NPC Kampf-Tracker
 
