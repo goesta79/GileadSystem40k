@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wrath & Glory – NPC Kampf-Tracker</title>
+  <style>
+    :root {
+      --bg: #0f1115;
+      --panel: #181c24;
+      --panel-2: #212734;
+      --text: #edf1f8;
+      --muted: #adb7cc;
+      --accent: #79a7ff;
+      --danger: #ff6f6f;
+      --warn: #ffbf69;
+      --ok: #66d19e;
+      --border: #31384a;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      background: radial-gradient(circle at top, #1a2130 0%, var(--bg) 55%);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    .app {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+      display: grid;
+      gap: 16px;
+    }
+
+    .header {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 16px;
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.2rem, 2.4vw, 1.8rem);
+    }
+
+    .muted { color: var(--muted); }
+
+    button {
+      border: 1px solid var(--border);
+      background: var(--panel-2);
+      color: var(--text);
+      border-radius: 10px;
+      padding: 10px 14px;
+      cursor: pointer;
+      font-size: 0.95rem;
+    }
+
+    button:hover { border-color: var(--accent); }
+
+    .cards {
+      display: grid;
+      gap: 14px;
+    }
+
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 14px;
+      display: grid;
+      gap: 12px;
+    }
+
+    .topline {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .name {
+      font-size: 1.2rem;
+      font-weight: 700;
+    }
+
+    .chips {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .chip {
+      border: 1px solid var(--border);
+      background: var(--panel-2);
+      border-radius: 999px;
+      padding: 5px 10px;
+      font-size: 0.82rem;
+      color: var(--muted);
+    }
+
+    .grid-7, .grid-4, .grid-2 {
+      display: grid;
+      gap: 8px;
+    }
+
+    .grid-7 { grid-template-columns: repeat(7, minmax(70px, 1fr)); }
+    .grid-4 { grid-template-columns: repeat(4, minmax(90px, 1fr)); }
+    .grid-2 { grid-template-columns: repeat(2, minmax(220px, 1fr)); }
+
+    .cell {
+      background: var(--panel-2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 8px;
+    }
+
+    .k { color: var(--muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; }
+    .v { font-size: 1.1rem; font-weight: 700; }
+
+    .resource {
+      display: grid;
+      gap: 8px;
+      background: var(--panel-2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px;
+    }
+
+    .resource-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.9rem;
+    }
+
+    .bar {
+      width: 100%;
+      height: 12px;
+      border-radius: 999px;
+      background: #0c1019;
+      border: 1px solid var(--border);
+      overflow: hidden;
+    }
+
+    .fill {
+      height: 100%;
+      transition: width 0.2s ease;
+    }
+
+    .fill.wounds { background: linear-gradient(90deg, #a10000, var(--danger)); }
+    .fill.shock { background: linear-gradient(90deg, #9a6500, var(--warn)); }
+
+    .controls {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .controls button { padding: 6px 10px; font-size: 0.84rem; }
+
+    .section {
+      background: var(--panel-2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px;
+      display: grid;
+      gap: 6px;
+    }
+
+    .section h3 {
+      margin: 0;
+      font-size: 0.95rem;
+      color: var(--accent);
+    }
+
+    .skills { display: flex; flex-wrap: wrap; gap: 6px; }
+
+    .cond-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .cond-item {
+      background: #131723;
+      border: 1px solid var(--border);
+      padding: 6px 10px;
+      border-radius: 999px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.88rem;
+    }
+
+    textarea {
+      width: 100%;
+      min-height: 70px;
+      resize: vertical;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: #10141f;
+      color: var(--text);
+      padding: 8px;
+    }
+
+    .danger { color: var(--danger); }
+    .warn { color: var(--warn); }
+    .ok { color: var(--ok); }
+
+    @media (max-width: 900px) {
+      .grid-7 { grid-template-columns: repeat(4, minmax(70px, 1fr)); }
+      .grid-4 { grid-template-columns: repeat(2, minmax(90px, 1fr)); }
+      .grid-2 { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <main class="app">
+    <header class="header">
+      <div>
+        <h1>Wrath & Glory NPC Kampf-Tracker</h1>
+        <div class="muted">Fokus: Wounds, Shock, Conditions + vollständige Stat-Block-Infos</div>
+      </div>
+      <button id="addIncubus">+ Incubus hinzufügen</button>
+    </header>
+
+    <section class="cards" id="cards"></section>
+  </main>
+
+  <script>
+    const npcTemplates = {
+      incubus: {
+        id: "incubus",
+        name: "Incubus",
+        faction: "Drukhari, Court of the Archon",
+        threat: "A|E|E|T|T",
+        attributes: { S: 3, T: 3, A: 5, I: 6, Wil: 4, Int: 3, Fel: 2 },
+        combat: { defence: 5, woundsMax: 9, shockMax: 7, resilience: "9 (AR 5)" },
+        skills: {
+          Default: 5,
+          Athletics: 6,
+          Awareness: "8 (Passive 4)",
+          Intimidate: 8,
+          Leadership: 6,
+          "Weapon Skill": 11
+        },
+        bonuses: [
+          "Champion: This Threat may use Ruin Actions and has 12 personal Ruin.",
+          "Power from Pain – Mantle of Agony: If this Threat deals a Wound it gains +2 bonus dice to Intimidation Tests until the end of its next Turn."
+        ],
+        abilities: [
+          "Action – Klaive: 8 + 7 ED / AP -3 / Parry, Brutal",
+          "Wrath – Lethal Precision: Bei einem Wrath Critical im Nahkampf +4 Mortal Wounds.",
+          "Ruin – Tormentors: 1 Ruin ausgeben, Intimidation vs Leadership; bei Erfolg erhält Ziel Fear.",
+          "Determination: 1 Ruin ausgeben um 3d6 zu würfeln."
+        ],
+        secondary: { Conviction: 4, Resolve: 3, Speed: 7, Size: "Avg" },
+        defaultConditions: ["Prone", "Pinned", "Fear", "On Fire", "Bleeding", "Staggered"]
+      }
+    };
+
+    const state = { npcs: [] };
+
+    function clamp(value, min, max) {
+      return Math.max(min, Math.min(max, value));
+    }
+
+    function createNpc(templateId) {
+      const t = npcTemplates[templateId];
+      const count = state.npcs.filter(n => n.templateId === templateId).length + 1;
+      return {
+        uid: crypto.randomUUID(),
+        templateId,
+        displayName: `${t.name} #${count}`,
+        wounds: 0,
+        shock: 0,
+        conditions: Object.fromEntries(t.defaultConditions.map(c => [c, false])),
+        notes: "",
+        ruin: 12
+      };
+    }
+
+    function getSeverity(value, max) {
+      const ratio = value / max;
+      if (ratio >= 0.8) return "danger";
+      if (ratio >= 0.5) return "warn";
+      return "ok";
+    }
+
+    function render() {
+      const cards = document.getElementById("cards");
+      cards.innerHTML = "";
+
+      state.npcs.forEach(npc => {
+        const t = npcTemplates[npc.templateId];
+        const woundsClass = getSeverity(npc.wounds, t.combat.woundsMax);
+        const shockClass = getSeverity(npc.shock, t.combat.shockMax);
+
+        const card = document.createElement("article");
+        card.className = "card";
+        card.innerHTML = `
+          <div class="topline">
+            <div>
+              <div class="name">${npc.displayName}</div>
+              <div class="muted">${t.faction}</div>
+            </div>
+            <div class="chips">
+              <span class="chip">Threat ${t.threat}</span>
+              <span class="chip">Ruin: ${npc.ruin}</span>
+              <button data-action="remove" data-id="${npc.uid}">Entfernen</button>
+            </div>
+          </div>
+
+          <div class="grid-7">
+            ${Object.entries(t.attributes).map(([k, v]) => `<div class="cell"><div class="k">${k}</div><div class="v">${v}</div></div>`).join("")}
+          </div>
+
+          <div class="grid-4">
+            <div class="cell"><div class="k">Defence</div><div class="v">${t.combat.defence}</div></div>
+            <div class="cell"><div class="k">Resilience</div><div class="v">${t.combat.resilience}</div></div>
+            <div class="cell"><div class="k">Conviction</div><div class="v">${t.secondary.Conviction}</div></div>
+            <div class="cell"><div class="k">Resolve</div><div class="v">${t.secondary.Resolve}</div></div>
+          </div>
+
+          <div class="grid-2">
+            <div class="resource">
+              <div class="resource-head">
+                <strong>Wounds</strong>
+                <span class="${woundsClass}">${npc.wounds} / ${t.combat.woundsMax}</span>
+              </div>
+              <div class="bar"><div class="fill wounds" style="width:${(npc.wounds / t.combat.woundsMax) * 100}%"></div></div>
+              <div class="controls">
+                <button data-action="wounds" data-delta="1" data-id="${npc.uid}">+1</button>
+                <button data-action="wounds" data-delta="2" data-id="${npc.uid}">+2</button>
+                <button data-action="wounds" data-delta="-1" data-id="${npc.uid}">-1</button>
+                <button data-action="wounds" data-set="0" data-id="${npc.uid}">Reset</button>
+              </div>
+            </div>
+
+            <div class="resource">
+              <div class="resource-head">
+                <strong>Shock</strong>
+                <span class="${shockClass}">${npc.shock} / ${t.combat.shockMax}</span>
+              </div>
+              <div class="bar"><div class="fill shock" style="width:${(npc.shock / t.combat.shockMax) * 100}%"></div></div>
+              <div class="controls">
+                <button data-action="shock" data-delta="1" data-id="${npc.uid}">+1</button>
+                <button data-action="shock" data-delta="2" data-id="${npc.uid}">+2</button>
+                <button data-action="shock" data-delta="-1" data-id="${npc.uid}">-1</button>
+                <button data-action="shock" data-set="0" data-id="${npc.uid}">Reset</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="section">
+            <h3>Conditions</h3>
+            <div class="cond-list">
+              ${Object.entries(npc.conditions).map(([name, active]) => `
+                <label class="cond-item">
+                  <input type="checkbox" data-action="condition" data-id="${npc.uid}" data-condition="${name}" ${active ? "checked" : ""}>
+                  ${name}
+                </label>
+              `).join("")}
+            </div>
+          </div>
+
+          <div class="section">
+            <h3>Skills</h3>
+            <div class="skills">
+              ${Object.entries(t.skills).map(([k, v]) => `<span class="chip">${k}: ${v}</span>`).join("")}
+            </div>
+          </div>
+
+          <div class="section">
+            <h3>Abilities & Bonuses</h3>
+            <ul>
+              ${t.bonuses.concat(t.abilities).map(line => `<li>${line}</li>`).join("")}
+            </ul>
+            <div class="muted">Speed: ${t.secondary.Speed} · Size: ${t.secondary.Size}</div>
+          </div>
+
+          <div class="section">
+            <h3>Notizen</h3>
+            <textarea data-action="notes" data-id="${npc.uid}" placeholder="z.B. Ziel, Position, aktive Effekte...">${npc.notes}</textarea>
+          </div>
+        `;
+        cards.appendChild(card);
+      });
+    }
+
+    document.getElementById("addIncubus").addEventListener("click", () => {
+      state.npcs.push(createNpc("incubus"));
+      render();
+    });
+
+    document.getElementById("cards").addEventListener("click", (event) => {
+      const target = event.target.closest("button");
+      if (!target) return;
+      const id = target.dataset.id;
+      const npc = state.npcs.find(n => n.uid === id);
+      if (!npc) return;
+      const t = npcTemplates[npc.templateId];
+
+      if (target.dataset.action === "remove") {
+        state.npcs = state.npcs.filter(n => n.uid !== id);
+      }
+
+      if (target.dataset.action === "wounds") {
+        if (target.dataset.set !== undefined) {
+          npc.wounds = Number(target.dataset.set);
+        } else {
+          npc.wounds = clamp(npc.wounds + Number(target.dataset.delta), 0, t.combat.woundsMax);
+        }
+      }
+
+      if (target.dataset.action === "shock") {
+        if (target.dataset.set !== undefined) {
+          npc.shock = Number(target.dataset.set);
+        } else {
+          npc.shock = clamp(npc.shock + Number(target.dataset.delta), 0, t.combat.shockMax);
+        }
+      }
+
+      render();
+    });
+
+    document.getElementById("cards").addEventListener("change", (event) => {
+      const t = event.target;
+      const id = t.dataset.id;
+      const npc = state.npcs.find(n => n.uid === id);
+      if (!npc) return;
+
+      if (t.dataset.action === "condition") {
+        npc.conditions[t.dataset.condition] = t.checked;
+      }
+
+      if (t.dataset.action === "notes") {
+        npc.notes = t.value;
+      }
+
+      render();
+    });
+
+    state.npcs.push(createNpc("incubus"));
+    render();
+  </script>
+</body>
+</html>

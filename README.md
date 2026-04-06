@@ -1,8 +1,14 @@
 # GileadSystem40k
 
-Kleine lokale Web-App zum Verwalten von **Wrath & Glory**-NPCs im Kampf.
+Dieses Repo enthält jetzt zwei kleine lokale Web-Apps plus eine Landing Page.
 
-## Features
+## Seiten
+
+- `index.html` → Landing Page / App-Auswahl
+- `Gilead-map.html` → bestehende Gilead-Map-App
+- `npc-tracker.html` → Wrath & Glory NPC Kampf-Tracker
+
+## NPC-Tracker Features
 
 - Mehrere NPC-Instanzen (aktuell: **Incubus**-Template)
 - Tracking für **Wounds** und **Shock** mit Schnellbuttons
@@ -12,4 +18,4 @@ Kleine lokale Web-App zum Verwalten von **Wrath & Glory**-NPCs im Kampf.
 
 ## Start
 
-Einfach `index.html` im Browser öffnen.
+Einfach `index.html` im Browser öffnen und gewünschte Mini-App wählen.
