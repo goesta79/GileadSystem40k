@@ -3,77 +3,34 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Gilead System 40k – Mini Apps</title>
+  <title>Gilead System 40k</title>
   <style>
     :root {
-      --bg: #0f1115;
-      --panel: #181c24;
-      --panel-2: #212734;
+      --bg: #0b0f18;
+      --panel: rgba(22, 27, 39, 0.86);
+      --border: rgba(121, 167, 255, 0.35);
       --text: #edf1f8;
-      --muted: #adb7cc;
       --accent: #79a7ff;
-      --border: #31384a;
     }
 
     * { box-sizing: border-box; }
 
-    body {
+    html, body {
       margin: 0;
-      min-height: 100vh;
+      width: 100%;
+      height: 100%;
+      background: var(--bg);
+      overflow: hidden;
       font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
       color: var(--text);
-      background: radial-gradient(circle at top, #1a2130 0%, var(--bg) 55%);
-      padding: 8px;
     }
 
-    .shell {
-      max-width: 1400px;
-      margin: 0 auto;
-      display: grid;
-      gap: 8px;
-      height: calc(100vh - 16px);
-    }
-
-    .header {
-      background: var(--panel);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 8px 10px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 10px;
-      flex-wrap: wrap;
-    }
-
-    h1 { margin: 0; font-size: clamp(1rem, 1.5vw, 1.2rem); font-weight: 600; line-height: 1.1; }
-
-    .tabs { display: flex; gap: 8px; flex-wrap: wrap; }
-
-    .tab {
-      border: 1px solid var(--border);
-      background: var(--panel-2);
-      color: var(--text);
-      border-radius: 8px;
-      padding: 6px 10px;
-      font-size: 0.85rem;
-      line-height: 1;
-      cursor: pointer;
-    }
-
-    .tab.active {
-      border-color: var(--accent);
-      box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 40%, transparent);
-    }
-
-    .stage {
-      position: relative;
-      background: var(--panel);
-      border: 1px solid var(--border);
-      border-radius: 14px;
+    .viewport {
+      position: fixed;
+      inset: 1px; /* Alibi-Pixel-Rand */
       overflow: hidden;
-      min-height: 0;
-      height: 100%;
+      border-radius: 8px;
+      background: #080b11;
     }
 
     iframe {
@@ -83,27 +40,73 @@
       height: 100%;
       border: 0;
       display: none;
-      background: #0b0f18;
+      background: #080b11;
     }
 
     iframe.active { display: block; }
+
+    .switcher {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      z-index: 9999;
+      display: grid;
+      gap: 6px;
+      justify-items: end;
+    }
+
+    .switch-btn {
+      border: 1px solid var(--border);
+      background: var(--panel);
+      color: var(--text);
+      border-radius: 999px;
+      padding: 6px 10px;
+      font-size: 12px;
+      line-height: 1;
+      cursor: pointer;
+      backdrop-filter: blur(4px);
+    }
+
+    .switch-list {
+      display: none;
+      gap: 6px;
+      grid-template-columns: 1fr;
+      width: max-content;
+    }
+
+    .switcher.open .switch-list { display: grid; }
+
+    .mode-btn {
+      border: 1px solid var(--border);
+      background: var(--panel);
+      color: var(--text);
+      border-radius: 999px;
+      padding: 6px 10px;
+      font-size: 12px;
+      cursor: pointer;
+      text-align: left;
+      min-width: 128px;
+    }
+
+    .mode-btn.active {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 45%, transparent);
+    }
   </style>
 </head>
 <body>
-  <main class="shell">
-    <header class="header">
-      <h1>Gilead System 40k – Mini App Hub</h1>
-      <nav class="tabs" aria-label="App Navigation">
-        <button class="tab" data-app="map">Gilead Map</button>
-        <button class="tab" data-app="npc">NPC Tracker</button>
-      </nav>
-    </header>
+  <div class="viewport" aria-live="polite">
+    <iframe id="view-map" title="Gilead Map" src="./Gilead-map.html" loading="eager"></iframe>
+    <iframe id="view-npc" title="NPC Tracker" src="./npc-tracker.html" loading="eager"></iframe>
+  </div>
 
-    <section class="stage" aria-live="polite">
-      <iframe id="view-map" title="Gilead Map" src="./Gilead-map.html" loading="eager"></iframe>
-      <iframe id="view-npc" title="NPC Tracker" src="./npc-tracker.html" loading="eager"></iframe>
-    </section>
-  </main>
+  <div class="switcher" id="switcher">
+    <button class="switch-btn" id="toggleSwitcher" aria-expanded="false" aria-controls="switchList">Umschalten</button>
+    <div class="switch-list" id="switchList">
+      <button class="mode-btn" data-app="map">Gilead Map</button>
+      <button class="mode-btn" data-app="npc">NPC Tracker</button>
+    </div>
+  </div>
 
   <script>
     const views = {
@@ -111,25 +114,46 @@
       npc: document.getElementById('view-npc')
     };
 
-    const tabs = Array.from(document.querySelectorAll('.tab'));
+    const switcher = document.getElementById('switcher');
+    const toggleSwitcher = document.getElementById('toggleSwitcher');
+    const modeButtons = Array.from(document.querySelectorAll('.mode-btn'));
 
     function show(app) {
       const key = views[app] ? app : 'map';
       Object.entries(views).forEach(([name, frame]) => {
         frame.classList.toggle('active', name === key);
       });
-      tabs.forEach(btn => {
+      modeButtons.forEach(btn => {
         btn.classList.toggle('active', btn.dataset.app === key);
       });
       history.replaceState(null, '', `#${key}`);
     }
 
-    tabs.forEach(btn => {
-      btn.addEventListener('click', () => show(btn.dataset.app));
+    function closeMenu() {
+      switcher.classList.remove('open');
+      toggleSwitcher.setAttribute('aria-expanded', 'false');
+    }
+
+    toggleSwitcher.addEventListener('click', () => {
+      const open = switcher.classList.toggle('open');
+      toggleSwitcher.setAttribute('aria-expanded', String(open));
+    });
+
+    modeButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        show(btn.dataset.app);
+        closeMenu();
+      });
     });
 
     window.addEventListener('hashchange', () => {
       show((location.hash || '').replace('#', ''));
+    });
+
+    window.addEventListener('click', (event) => {
+      if (!switcher.contains(event.target)) {
+        closeMenu();
+      }
     });
 
     show((location.hash || '').replace('#', '') || 'map');
