@@ -31,6 +31,7 @@ Kreativ-Inhalte und Knowledge-Base der Kampagne. Word-Originale (`.docx`) und ko
 - `Der Miravel Clan` – Dossier des gemäßigten Drukhari-Clans (Myravel)
 - `Abenteuer 5 - Weggabelung` – Planung Abenteuer 5 (Zwei-Pfade-Entscheidung)
 - `Abenteuer 5 - Pfad-Eröffnungen` – Szenen-Gerüst beider Pfade (A: Webway/Drukhari, B: Necron-Gruft)
+- `Abenteuer 5 - Fluff (Basar & Necron-Ankunft)` – 10 Basar-Vignetten + 3 Eröffnungstexte Necron-Gruft
 - `_convert_docx.py` – Skript zur Konvertierung der `.docx` nach Markdown
 
 ## lore/
