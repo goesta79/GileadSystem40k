@@ -29,10 +29,13 @@ Kreativ-Inhalte und Knowledge-Base der Kampagne. Word-Originale (`.docx`) und ko
 - `_convert_docx.py` – Skript zur Konvertierung der `.docx` nach Markdown
 
 ## lore/
-Aus dem [Lexicanum](https://wh40k.lexicanum.com) gescrapte Hintergrundartikel als Markdown (CC BY-SA, private Nutzung). Jede Datei verlinkt im Kopf ihre Quelle.
+Aus dem [Lexicanum](https://wh40k.lexicanum.com) gescrapte Hintergrundartikel als Markdown (CC BY-SA, private Nutzung). Jede Datei verlinkt im Kopf ihre Quelle. **101 Artikel** (Lauf 1), gewichtet nach den im `campaign/`-Ordner vorkommenden Stichwörtern.
 
-- `Adeptus Custodes` – Hintergrund der Goldenen Legion
-- `_scrape_lexicanum.py` – Skript zum Abrufen weiterer Artikel (`python lore/_scrape_lexicanum.py "Artikel" ...`)
+Werkzeuge:
+- `_scrape_lexicanum.py` – Scraper (`python lore/_scrape_lexicanum.py articles.txt` oder `... "Artikel" ...`)
+- `articles.txt` – kuratierte Titelliste für Lauf 1 (Quelle der Wahrheit, welche Artikel geholt wurden)
+
+Inhaltliche Schwerpunkte (Auswahl): Imperium-Grundlagen (Imperium, Emperor of Mankind, High Lords, Great Crusade, Horus Heresy), Adeptus Astartes & Primarchen, Chaos & Chaosgötter, der Warp, Astra Militarum, Adeptus Mechanicus & Titanen, Adeptus Custodes & Sisters of Silence, Adepta Sororitas & Ecclesiarchy, Inquisition (inkl. Ordos & Grey Knights), Assassinorum, Astropathen/Psyker/Navigatoren, Arbites/Administratum/Munitorum, Rogue Trader, Necrons (inkl. C'tan), Aeldari & Drukhari, T'au, Orks, Tyraniden/Genestealer, Weltentypen sowie das kanonische **Gilead System** (W&G-Setting, nennt u.a. die Absolvers, Ul-Khari, Ostia, Primus).
 
 ## PDF/
 Regelwerke, Quellenbücher und Abenteuer für Wrath & Glory (Corebook v2.1/v3, Errata, Abenteuermodule, Threat Assessments, Charakterbögen u.a.).
