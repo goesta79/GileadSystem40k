@@ -104,8 +104,25 @@ def main(titles):
             time.sleep(1.5)  # höflich zum Server
 
 
+def load_titles(args):
+    # Eine .txt als einziges Argument => zeilenweise Titel (Kommentare mit # erlaubt)
+    if len(args) == 1 and args[0].lower().endswith(".txt"):
+        path = args[0]
+        if not os.path.isabs(path):
+            path = os.path.join(HERE, os.path.basename(path))
+        titles = []
+        with open(path, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#"):
+                    titles.append(line)
+        return titles
+    return args
+
+
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print('Aufruf: python lore/_scrape_lexicanum.py "Artikel 1" "Artikel 2" ...')
+        print('Aufruf: python lore/_scrape_lexicanum.py "Artikel 1" ...')
+        print('   oder: python lore/_scrape_lexicanum.py articles.txt')
         sys.exit(1)
-    main(sys.argv[1:])
+    main(load_titles(sys.argv[1:]))
