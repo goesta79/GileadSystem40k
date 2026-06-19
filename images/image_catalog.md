@@ -25,7 +25,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 1 · Adeptus Custodes
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40k_adeptus_cu_b33ce42a-509e-4188-a686-a4d9adbfb628_3.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40k_adeptus_cu_b33ce42a-509e-4188-a686-a4d9adbfb628_3.png" width="360" alt="Person">
 
 *Person* — Blonder, kräftiger Krieger in massiver goldener Rüstung mit Adler-Schädel-Emblem auf der Brust, vor goldenem Hintergrund. Klare Adeptus-Custodes-Anmutung, würdevoll und heroisch.
 
@@ -36,7 +36,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 2 · Adeptus Astartes (Space Marines / Primaris)
 
 #### `Name/Ort: ____________________`
-![](<0_1.jpeg>)
+<img src="0_1.jpeg" width="360" alt="Person">
 
 *Person* — Grauhaariger Space-Marine-Offizier in goldener Powerrüstung mit großem Adler-Brustornament und ziertem Schulterpanzer, im Stil eines Ultramarines-Charakters. Strenge, kommandierende Ausstrahlung in dunkler Gassenkulisse.
 
@@ -45,7 +45,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<0_2(1).jpeg>)
+<img src="0_2%281%29.jpeg" width="360" alt="Person">
 
 *Person* — Bärtiger Space Marine ohne Helm in blau-goldener Powerrüstung mit Sonnenrad- und Totenkopf-Reliefs auf den Schulterpanzern. Gemäldehafter, heroischer Porträtstil.
 
@@ -54,7 +54,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<0_2.jpeg>)
+<img src="0_2.jpeg" width="360" alt="Person">
 
 *Person* — Bedrohliche Space-Marine-Gestalt in schwarzer Terminator-/Powerrüstung mit Kapuze, totenkopfartiger Maske und einem Reliquien-Schädel auf der Brust, umgeben von brennenden Kerzen. Sakral-morbide Stimmung im Stil eines Chaplains.
 
@@ -63,7 +63,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<0_3(5).jpeg>)
+<img src="0_3%285%29.jpeg" width="360" alt="Person">
 
 *Person* — Space Marine in verwitterter weiß-roter Powerrüstung mit Kelch- und Kreuz-Wappen (Blood-Angels-/Sanguinary-artige Ikonografie) vor einer Schlachtreihe weiterer Marines. Grimmige, kriegerische Atmosphäre auf einem nebligen Schlachtfeld.
 
@@ -72,7 +72,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<20c7ebb4-6f9b-4073-b564-d72048e9fced.jpg>)
+<img src="20c7ebb4-6f9b-4073-b564-d72048e9fced.jpg" width="360" alt="Person">
 
 *Person* — Kahlköpfiger, vernarbter Space Marine in blauer Power-Armor mit geflügeltem Schädel-Aquila auf dem Brustpanzer und Schädeln auf den Schulterplatten. Ernster Veteranen-Blick, weitere blau gepanzerte Marines im Hintergrund, Schlachtfeld-Stimmung.
 
@@ -81,7 +81,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_CAMERA_Hasselblad_500CM_with_Carl_Zeiss_Distagon_40_2b3da961-d68e-4135-9ea5-4123da7e561f_0.png>)
+<img src="gosta7024_CAMERA_Hasselblad_500CM_with_Carl_Zeiss_Distagon_40_2b3da961-d68e-4135-9ea5-4123da7e561f_0.png" width="360" alt="Person">
 
 *Person* — Älterer, kräftiger Krieger mit langem weißem Bart und Zopf in weißer Power Armor mit roten Akzenten und Schulterpanzer. Wirkt wie ein erfahrener Space Marine oder Veteran in der Kulisse eines Raumschiffs.
 
@@ -90,7 +90,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_every_day__cc5e5e85-3f24-48ff-8b85-08c9a22f96c9_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_every_day__cc5e5e85-3f24-48ff-8b85-08c9a22f96c9_0.png" width="360" alt="Szene">
 
 *Szene* — Ein Space Marine in heller Power Armor schreitet durch einen dunklen, industriellen Korridor oder Hangar mit roten Lichtern. Düstere, weitläufige Schiffs-/Stationsarchitektur.
 
@@ -99,7 +99,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_first_pers_db2c3d3d-712b-4daa-9b6f-6b19e6b5925b_3.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_first_pers_db2c3d3d-712b-4daa-9b6f-6b19e6b5925b_3.png" width="360" alt="Szene">
 
 *Szene* — Ein Space Marine in weißer Power Armor mit Aquila-Symbol steht an einer großen Schleusen-/Hangaröffnung, im Hintergrund weitere Figuren und Fahrzeuge. Militärisches Schiffsinneres.
 
@@ -108,7 +108,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40k_older_ster_19becfe0-90a3-44af-b64e-d0070c03e569_2.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40k_older_ster_19becfe0-90a3-44af-b64e-d0070c03e569_2.png" width="360" alt="Person">
 
 *Person* — Älterer, strenger Space Marine in weißer Power Armor mit Adler-Schädel-Emblem und roten Verzierungen. Ernster Blick, kampferprobt wirkend.
 
@@ -117,7 +117,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_1ab57f4f-5466-4c45-9eb7-1ca446cb31be_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_1ab57f4f-5466-4c45-9eb7-1ca446cb31be_1.png" width="360" alt="Person">
 
 *Person* — Alter, narbiger Space Marine mit weißem Bart in abgenutzter weißer Power Armor mit goldenem Flügel-Schädel-Anhänger. Veteran, müde und entschlossen wirkend.
 
@@ -126,7 +126,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_3141960d-031d-417f-b24b-16f261b019b9_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_3141960d-031d-417f-b24b-16f261b019b9_0.png" width="360" alt="Person">
 
 *Person* — Junger, lächelnder Space Marine in weißer Power Armor mit goldenem Flügel-Schädel-Emblem und roten Akzenten. Charismatisch und zuversichtlich wirkend.
 
@@ -135,7 +135,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_391180ef-12bd-4c50-9f4b-7b649fcc86b9_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_391180ef-12bd-4c50-9f4b-7b649fcc86b9_0.png" width="360" alt="Person">
 
 *Person* — Glatzköpfiger Space Marine mit Bart in weißer Power Armor mit Totenkopf- und Flügelmotiv, vor düsterer gotischer Architektur. Ernster, harter Veteran.
 
@@ -144,7 +144,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_3cd84446-a963-4c81-9cec-07540d1623bd_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_3cd84446-a963-4c81-9cec-07540d1623bd_0.png" width="360" alt="Person">
 
 *Person* — Bärtiger Space Marine in weißer Power Armor mit großem goldenem Sonnen-Schädel-Emblem auf der Brust. Ernster, autoritärer Blick, wirkt wie ein Offizier/Captain.
 
@@ -153,7 +153,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_3e694829-bd7d-46d3-80e5-9d425b88e16c_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_3e694829-bd7d-46d3-80e5-9d425b88e16c_0.png" width="360" alt="Person">
 
 *Person* — Bärtiger Space Marine in weißer Power Armor mit goldenem Adler-Schädel-Emblem und roten Schulterverzierungen. Kampferprobt und ernst.
 
@@ -162,7 +162,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_3fdd3c4f-afff-4f24-9bad-775b175aa4b1_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_3fdd3c4f-afff-4f24-9bad-775b175aa4b1_0.png" width="360" alt="Person">
 
 *Person* — Älterer Space Marine mit grauem Bart und vernarbtem Gesicht in weißer Power Armor mit goldenem Emblem. Würdevoller, erfahrener Veteran.
 
@@ -171,7 +171,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_43a68161-52da-4aac-801a-60bcef677708_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_43a68161-52da-4aac-801a-60bcef677708_1.png" width="360" alt="Person">
 
 *Person* — Junger, entschlossener Space Marine in weiß-roter Power Armor mit goldenem Flügel-Schädel-Emblem. Klassischer heldenhafter Primaris-Look.
 
@@ -180,7 +180,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_8c3ee1dd-c82e-4a85-b516-6425d9732552_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_8c3ee1dd-c82e-4a85-b516-6425d9732552_0.png" width="360" alt="Person">
 
 *Person* — Space Marine in weißer Power Armor mit goldenem Flügel-Schädel-Emblem, gesenktem, nachdenklichem Blick. Kampferprobter Krieger in düsterer Stimmung.
 
@@ -189,7 +189,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_bb4ffd82-61f7-4dab-bccc-8c79ed6c98d0_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_bb4ffd82-61f7-4dab-bccc-8c79ed6c98d0_2.png" width="360" alt="Person">
 
 *Person* — Mann ostasiatischer Erscheinung in weiß-roter Power Armour mit goldenem geflügeltem Adler-Aquila auf der Brust. Klar ein Space Marine bzw. Primaris, ernster und entschlossener Blick.
 
@@ -198,7 +198,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_c8a73f29-2630-441e-a9b5-0c349b655730_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_c8a73f29-2630-441e-a9b5-0c349b655730_2.png" width="360" alt="Person">
 
 *Person* — Space Marine in verwitterter weißer Power Armour mit großem silbernen Flügel-Totenkopf-Emblem und roter Schulterplatte. Kühles, blaues Licht, martialische und stoische Ausstrahlung.
 
@@ -207,7 +207,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_d82a59a8-ee15-4c31-9256-87a443151377_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_d82a59a8-ee15-4c31-9256-87a443151377_1.png" width="360" alt="Person">
 
 *Person* — Bärtiger Krieger in verwitterter weißer Power Armour mit hohem Halskragen und goldenem Totenkopf-Aquila auf der Brust. Ein Space Marine vor steinerner Architektur, ernste und stolze Haltung.
 
@@ -216,7 +216,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_f5e719ad-096b-4886-b4ca-874246969360_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_f5e719ad-096b-4886-b4ca-874246969360_2.png" width="360" alt="Person">
 
 *Person* — Bärtiger Mann in weißer Power Armour mit goldenem geflügeltem Aquila-Brustornament und rotem Halskragen vor dunklem Hintergrund. Ein Space Marine oder hochrangiger Offizier, ruhige und würdevolle Ausstrahlung.
 
@@ -225,7 +225,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1127.PNG>)
+<img src="IMG_1127.PNG" width="360" alt="Person">
 
 *Person* — Rothaariger, vollbärtiger Mann in weißer Power Armour mit gesenktem Kopf an Bord eines Schiffs mit türkisfarbener Beleuchtung. Wirkt wie ein Space Marine in einem Moment der Ruhe oder Andacht.
 
@@ -234,7 +234,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1143.PNG>)
+<img src="IMG_1143.PNG" width="360" alt="Person">
 
 *Person* — Massiger, kahler Krieger mit vernarbtem, verkabeltem Schädel und rot glühenden Augen in schwerer grauer Servorüstung mit Schulterpanzern. Eindeutig ein Space Marine / Astartes, finster und kampferprobt.
 
@@ -243,7 +243,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1159.PNG>)
+<img src="IMG_1159.PNG" width="360" alt="Person">
 
 *Person* — Massiger, glatzköpfiger Space Marine in blauer Power Armor mit goldenem Aquila-Brustadler und Totenkopf, vernarbtes Gesicht. Im Hintergrund weitere Marines, ernste Kriegerstimmung (Ultramarines-Anmutung).
 
@@ -252,7 +252,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1160.PNG>)
+<img src="IMG_1160.PNG" width="360" alt="Person">
 
 *Person* — Space Marine ohne Helm in blauer Power Armor mit goldenem Aquila und Totenkopf, schweißnasses, entschlossenes Gesicht vor glühendem Hintergrund. Heroische, kämpferische Stimmung (Ultramarines-Anmutung).
 
@@ -261,7 +261,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1187.PNG>)
+<img src="IMG_1187.PNG" width="360" alt="Person">
 
 *Person* — Alter, bärtiger Krieger mit grauem geflochtenem Bart und Fellumhang über blauer Powerarmor mit Schädelornamenten. Wirkt wie ein veteranenhafter Space Marine im Space-Wolves-Stil.
 
@@ -270,7 +270,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1189.PNG>)
+<img src="IMG_1189.PNG" width="360" alt="Person">
 
 *Person* — Narbiger Krieger in dunkler Powerarmor mit Halsbergung und roten Akzenten, ernstes Profil im Schatten. Wirkt wie ein Space Marine oder Veteran in Servorüstung.
 
@@ -279,7 +279,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1193.PNG>)
+<img src="IMG_1193.PNG" width="360" alt="Person">
 
 *Person* — Junge Frau mit wehendem braunem Haar in glänzend goldbrauner Powerarmor mit Schädel- und Flügelornamenten, warmes Wüstenlicht. Wirkt wie eine weibliche Astartes-/Marine-Kriegerin.
 
@@ -288,7 +288,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1194.PNG>)
+<img src="IMG_1194.PNG" width="360" alt="Person">
 
 *Person* — Bärtiger Mann mit Undercut in reich verzierter schwarz-goldener Powerarmor mit Schädeln und Aquila. Wirkt wie ein hochrangiger Space Marine oder Champion.
 
@@ -297,7 +297,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1196.PNG>)
+<img src="IMG_1196.PNG" width="360" alt="Person">
 
 *Person* — Dunkelhaarige Frau mit Blutspritzern im Gesicht in stahlblauer Powerarmor mit goldenem Aquila, Wüstenhintergrund. Wirkt wie eine weibliche Astartes-Kriegerin oder Battle Sister.
 
@@ -306,7 +306,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1197.PNG>)
+<img src="IMG_1197.PNG" width="360" alt="Person">
 
 *Person* — Krieger in weißer Powerarmor mit rotem Kreuz, Schädel-Emblem und rot leuchtendem bionischem Auge, im Kampfgetümmel. Wirkt wie ein Space-Marine-Apothecary bzw. Sanitäter der Astartes.
 
@@ -315,7 +315,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1302.JPG>)
+<img src="IMG_1302.JPG" width="360" alt="Person">
 
 *Person* — Bärtiger, lächelnder Mann in weiß-roter Space-Marine-Servorüstung mit goldenem Totenkopf-Emblem, der bei Funkenflug an Ausrüstung arbeitet. Wirkt wie ein Astartes oder gepanzerter Krieger in einer Werkstatt/Hangar.
 
@@ -324,7 +324,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1395.JPG>)
+<img src="IMG_1395.JPG" width="360" alt="Person">
 
 *Person* — Nahaufnahme eines kahlköpfigen Space Marine mit grauer, narbiger Haut und glühend orangen Augen in dunkler Powerarmor mit Totenkopf-Insignien und Sonnenrad-Emblem. Grimmige, bedrohliche Stimmung.
 
@@ -333,7 +333,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1428.JPG>)
+<img src="IMG_1428.JPG" width="360" alt="Person">
 
 *Person* — Kahlköpfiger Space Marine in weiß-roter, reich verzierter Powerarmor mit goldenem Flügel-Totenkopf-Emblem, in einer gotischen Kathedrale stehend. Würdevoller Astartes-Veteran, ehrfürchtige Atmosphäre.
 
@@ -344,7 +344,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 3 · Adepta Sororitas & Sisters of Silence
 
 #### `Name/Ort: ____________________`
-![](<0_3(1).jpeg>)
+<img src="0_3%281%29.jpeg" width="360" alt="Person">
 
 *Person* — Ältere Kriegerin mit langem grauem Haar in goldener, reich verzierter Powerrüstung mit gefiederten Schulterpanzern, im Stil einer Adepta-Sororitas-Anführerin oder Canoness. Würdevolle, kampferprobte Ausstrahlung auf einem Schlachtfeld.
 
@@ -353,7 +353,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<209b9070-9f4a-483f-811a-b27fabfb47f3.png>)
+<img src="209b9070-9f4a-483f-811a-b27fabfb47f3.png" width="360" alt="Person">
 
 *Person* — Junge blonde Kriegerin in schwerer, abgenutzter Power-Armor mit rotem Kreuz-Emblem und Schädelornamenten, ein wuchtiges Bolter-Gewehr in den Händen. Wirkt wie eine Battle Sister der Adepta Sororitas in düsterer, zerfallener Umgebung.
 
@@ -362,7 +362,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_half_portrait_photo_beautiful_40_year_old_adepta_so_66f74736-31a7-4ce1-888c-21f6ab176d46_2.png>)
+<img src="gosta7024_half_portrait_photo_beautiful_40_year_old_adepta_so_66f74736-31a7-4ce1-888c-21f6ab176d46_2.png" width="360" alt="Person">
 
 *Person* — Junge Frau mit weißem Haar und einer Narbe am Kinn in dunkler Power Armor mit goldenem Aquila-Emblem. Eindeutig eine Battle Sister der Adepta Sororitas.
 
@@ -371,7 +371,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_40-years-o_30ca0fd8-77d3-415b-acf1-d80fe1fbcf4b_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_40-years-o_30ca0fd8-77d3-415b-acf1-d80fe1fbcf4b_2.png" width="360" alt="Person">
 
 *Person* — Entschlossene Frau in massiver goldener, prunkvoll verzierter Power Armor in einer dunklen, kathedralenartigen Kulisse. Wirkt wie eine hochrangige Battle Sister oder Canoness der Adepta Sororitas.
 
@@ -380,7 +380,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_087e7e70-4672-4970-9fd4-a881ee38bce5_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_portrait_s_087e7e70-4672-4970-9fd4-a881ee38bce5_2.png" width="360" alt="Person">
 
 *Person* — Frau mittleren Alters mit silbergrauem Haar in goldener, mit Flügel-Schädel-Emblem verzierter Power Armor. Wirkt wie eine hochrangige Schwester der Adepta Sororitas oder eine Custodes-nahe Kriegerin, entschlossener Blick.
 
@@ -389,7 +389,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1130.PNG>)
+<img src="IMG_1130.PNG" width="360" alt="Person">
 
 *Person* — Rothaarige Frau mit teilrasiertem Kopf in prunkvoller, gold-schwarzer Barockrüstung mit hohem Kragen. Wirkt wie eine Adepta-Sororitas-Kriegerin oder hochrangige Adelige, entschlossen und stolz.
 
@@ -398,7 +398,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1131.PNG>)
+<img src="IMG_1131.PNG" width="360" alt="Person">
 
 *Person* — Ältere Frau mit zurückgebundenem Haar im Profil, in glänzender goldener Barockrüstung vor sakraler Architektur. Wirkt wie eine ranghohe Adepta-Sororitas-Schwester oder Ecclesiarchy-Würdenträgerin, würdevoll und streng.
 
@@ -407,7 +407,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1136.PNG>)
+<img src="IMG_1136.PNG" width="360" alt="Person">
 
 *Person* — Ältere Frau mit weißem Schleier und Wimpel in schwarz-goldener Power Armor mit Adler-Aquila und Bolter. Klar eine Schwester der Adepta Sororitas (Battle Sister) in einer Säulenhalle.
 
@@ -416,7 +416,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1137.PNG>)
+<img src="IMG_1137.PNG" width="360" alt="Person">
 
 *Person* — Frau mittleren Alters mit weißem Nonnenschleier in schlichter dunkler Plattenrüstung mit kleinem Anhänger in gewölbtem Steingang. Wirkt wie eine Ordensschwester oder Sororitas-Novizin, ernste und disziplinierte Ausstrahlung.
 
@@ -425,7 +425,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1138.PNG>)
+<img src="IMG_1138.PNG" width="360" alt="Person">
 
 *Person* — Junge Frau mit weißem Schleier in schwarzer, kreuzverzierter Power Armor, ein langes verziertes Schwert haltend. Eindeutig eine Schwester der Adepta Sororitas (Battle Sister) in einem sakralen Innenraum.
 
@@ -434,7 +434,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1183.PNG>)
+<img src="IMG_1183.PNG" width="360" alt="Person">
 
 *Person* — Junge rothaarige Frau in abgenutzter grüner Powerarmor mit Aquila-Brustplatte und Schädelornamenten. Entschlossener Blick, wirkt wie eine Kriegerin/Battle Sister oder weibliche Marine-Adeptin.
 
@@ -443,7 +443,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1184.PNG>)
+<img src="IMG_1184.PNG" width="360" alt="Person">
 
 *Person* — Junge Frau in verzierter weiß-goldener Rüstung mit Kapuze, Perlenschmuck und barocken Mustern. Andächtige Stimmung, wirkt wie eine Adepta-Sororitas-Novizin oder sakrale Dienerin.
 
@@ -452,7 +452,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1185.PNG>)
+<img src="IMG_1185.PNG" width="360" alt="Person">
 
 *Person* — Ältere weißhaarige Frau in schwerer schwarzer Powerarmor mit goldenem Aquila-Schädel-Emblem, in dunkler Gasse mit glühenden Lichtern. Wirkt wie eine Sister of Battle oder Kriegerin der Adepta Sororitas.
 
@@ -461,7 +461,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1186.PNG>)
+<img src="IMG_1186.PNG" width="360" alt="Person">
 
 *Person* — Weißhaarige Frau in schwarzer Powerarmor mit beflügeltem Schädelemblem, eine Waffe haltend, in düsterem gotischem Korridor. Wirkt wie eine Battle Sister der Adepta Sororitas.
 
@@ -470,7 +470,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1190.PNG>)
+<img src="IMG_1190.PNG" width="360" alt="Person">
 
 *Person* — Weißhaarige Frau in schwarz-roter Powerarmor mit beflügelten Schädelornamenten und rotem Umhang. Wirkt wie eine Battle Sister der Adepta Sororitas.
 
@@ -479,7 +479,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1191.PNG>)
+<img src="IMG_1191.PNG" width="360" alt="Person">
 
 *Person* — Ältere weißhaarige Frau mit ernstem Gesicht in dunkler, goldverzierter Rüstung. Wirkt wie eine Veteranin oder Canoness der Adepta Sororitas.
 
@@ -488,7 +488,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1192.PNG>)
+<img src="IMG_1192.PNG" width="360" alt="Person">
 
 *Person* — Weißhaarige Frau in schwarzer Powerarmor mit goldenem beflügeltem Schädelemblem und roten Akzenten. Wirkt wie eine Battle Sister bzw. Veteranin der Adepta Sororitas.
 
@@ -497,7 +497,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1195.PNG>)
+<img src="IMG_1195.PNG" width="360" alt="Person">
 
 *Person* — Frau mit braunem Haar in silbern-schwarzer Rüstung mit goldenem Aquila und schwarzem Umhang, ernster Blick. Wirkt wie eine Sister of Battle oder Kriegerin der Adepta Sororitas.
 
@@ -506,7 +506,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1208.PNG>)
+<img src="IMG_1208.PNG" width="360" alt="Person">
 
 *Person* — Eine blonde Kriegerin in prunkvoller silber-goldener Powerrüstung mit Adler-Brustplatte und Flügeln im Hintergrund. Klare Adepta-Sororitas-/Battle-Sister-Anmutung in heroischer Pose.
 
@@ -515,7 +515,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1210.PNG>)
+<img src="IMG_1210.PNG" width="360" alt="Person">
 
 *Person* — Eine weißhaarige, tätowierte Kriegerin mit Kapuze in dunkler, freizügiger Rüstung vor einem Wappen-Schild im Hintergrund. Wirkt wie eine Adepta-Sororitas-Kämpferin oder Buß-Kriegerin mit harter, kämpferischer Ausstrahlung.
 
@@ -524,7 +524,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1211.PNG>)
+<img src="IMG_1211.PNG" width="360" alt="Person">
 
 *Person* — Eine junge Frau mit weißer Kapuze und dunkler Rüstung mit goldenem geflügeltem Aquila-Symbol auf der Brust, mit Narben im Gesicht. Klare Adepta-Sororitas-/Battle-Sister-Anmutung, entschlossene Stimmung.
 
@@ -533,7 +533,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1397.JPG>)
+<img src="IMG_1397.JPG" width="360" alt="Person">
 
 *Person* — Junge blonde Kriegerin in schwarzer Powerarmor mit rotem Lilien-/Kreuzsymbol auf der Brust, ein schweres Bolter-artiges Gewehr haltend. Wirkt wie eine Schwester der Adepta Sororitas vor verwitterter Kulisse.
 
@@ -542,7 +542,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1398.JPG>)
+<img src="IMG_1398.JPG" width="360" alt="Gruppe">
 
 *Gruppe* — Eine Gruppe entschlossener Kriegerinnen in dunkler Rüstung mit rotem Lilien-Wappen marschiert durch eine nebelverhangene, gotische Festungsgasse. Adepta Sororitas auf dem Vormarsch, düstere, regnerische Stimmung.
 
@@ -551,7 +551,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1399.JPG>)
+<img src="IMG_1399.JPG" width="360" alt="Gruppe">
 
 *Gruppe* — Schlammbedeckter Trupp blonder Kriegerinnen in abgenutzter Plattenrüstung mit rotem Lilien-/Kreuzemblem marschiert durch nebligen Wald. Battle Sisters der Adepta Sororitas auf einem Feldzug, grimmige Entschlossenheit.
 
@@ -560,7 +560,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1401.JPG>)
+<img src="IMG_1401.JPG" width="360" alt="Gruppe">
 
 *Gruppe* — Trupp blonder Kriegerinnen in nasser, dreckverschmierter Rüstung mit rotem Lilien-Emblem stapft mit Bolter-Gewehren über einen schlammigen Weg im Nebel. Battle Sisters der Adepta Sororitas, düster und kampferprobt.
 
@@ -569,7 +569,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1402.JPG>)
+<img src="IMG_1402.JPG" width="360" alt="Person">
 
 *Person* — Ältere Frau mit grauem Haar und weißem Schleier in verzierter dunkler Powerarmor mit Kreuz-Ornamenten, ein großes Gewehr haltend. Wirkt wie eine Canoness oder ehrwürdige Schwester der Adepta Sororitas, würdevoll und entschlossen.
 
@@ -578,7 +578,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1403.JPG>)
+<img src="IMG_1403.JPG" width="360" alt="Person">
 
 *Person* — Ältere, strenge Kriegerin mit grauem Haar in schwarz-goldener Powerarmor mit rotem Lilienemblem und Totenkopf-Rose, ein Gewehr tragend. Hochrangige Schwester/Canoness der Adepta Sororitas vor dunklem Hintergrund.
 
@@ -589,7 +589,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 4 · Astra Militarum (Garde, Tempestus, Kommissare, Ogryn)
 
 #### `Name/Ort: ____________________`
-![](<0_0.jpeg>)
+<img src="0_0.jpeg" width="360" alt="Person">
 
 *Person* — Astra-Militarum-Gardist in verschmutzter Flak-Rüstung mit Stahlhelm und blau leuchtenden Augenlinsen, ein abgenutztes Lasgewehr im Anschlag haltend. Staubige, rauchige Schlachtfeldatmosphäre.
 
@@ -598,7 +598,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<0_2(4).jpeg>)
+<img src="0_2%284%29.jpeg" width="360" alt="Person">
 
 *Person* — Älterer, kahlköpfiger Mann mit zerfurchtem Gesicht in dunkler, abgenutzter Militärrüstung, wirkt wie ein Veteran der Astra Militarum. Düsteres, kerkerartiges Licht und ernste Miene.
 
@@ -607,7 +607,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_httpss.mj.runsPlhG0I6m7w_httpss.mj.runvrhMVWNT7Hg_h_f0edc865-b3db-4818-b223-0210892abf9f_0.png>)
+<img src="gosta7024_httpss.mj.runsPlhG0I6m7w_httpss.mj.runvrhMVWNT7Hg_h_f0edc865-b3db-4818-b223-0210892abf9f_0.png" width="360" alt="Person">
 
 *Person* — Ältere Frau mit dunkelroter Schirmmütze (Aquila-Abzeichen) und blau-goldenem, mit Medaillen verziertem Brustpanzer. Wirkt wie eine hochrangige Offizierin oder Kommandeurin der Astra Militarum.
 
@@ -616,7 +616,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_16_years_1bb9e181-811f-44d3-84bc-2bb82e77f962_1.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_16_years_1bb9e181-811f-44d3-84bc-2bb82e77f962_1.png" width="360" alt="Person">
 
 *Person* — Sehr junger Soldat in abgenutzter, blau lackierter Rüstung mit Tank/Behälter auf dem Rücken, ein großes Gewehr haltend. Wirkt wie ein junger Gardist oder Milizionär der Astra Militarum.
 
@@ -625,7 +625,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_2644b06a-19eb-4c3c-b92e-f8a0260caa5c_3.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_2644b06a-19eb-4c3c-b92e-f8a0260caa5c_3.png" width="360" alt="Gruppe">
 
 *Gruppe* — Mehrere vermummte Soldaten in Mänteln mit Atemmasken stapfen mit langläufigen Gewehren durch giftgrünen Nebel und Staub. Die düstere Stimmung erinnert an eine Astra-Militarum-Truppe oder Söldner in einer verseuchten Ödnis.
 
@@ -634,7 +634,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_confiden_c9399da6-93f3-4cd3-9680-7a7a2878f4b9_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_confiden_c9399da6-93f3-4cd3-9680-7a7a2878f4b9_0.png" width="360" alt="Person">
 
 *Person* — Selbstbewusste Offizierin in schwarzer Lederuniform mit Schirmmütze (Aquila-Emblem), Schulterstücken und Ehrenabzeichen, im Hangar oder Schiffsinneren. Wirkt wie eine hochrangige Astra-Militarum-Kommandantin oder Schiffsoffizierin.
 
@@ -643,7 +643,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_determin_8aa63119-8de7-4a2c-96f3-67729c948507_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_determin_8aa63119-8de7-4a2c-96f3-67729c948507_0.png" width="360" alt="Person">
 
 *Person* — Strenger älterer Offizier mit Schirmmütze (Totenkopf-Emblem), Pelzkragen und dunkler Uniform mit Aquila-Plakette, vor Reihen von Soldaten. Wirkt wie ein hochrangiger Astra-Militarum-Kommissar oder General.
 
@@ -652,7 +652,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_determin_b24168ce-daed-40f3-9bc5-e617ac693ef3_3.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_determin_b24168ce-daed-40f3-9bc5-e617ac693ef3_3.png" width="360" alt="Person">
 
 *Person* — Entschlossener dunkelhäutiger Offizier in blaugrauer Uniform mit Schirmmütze, rotem Schärpband und Pfeil-Insignie vor steinernem Gewölbe. Wirkt wie ein Astra-Militarum-Offizier oder Garde-Kommandant.
 
@@ -661,7 +661,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_sadistic_b075284f-642d-4365-85ef-50b0b54c757b_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_sadistic_b075284f-642d-4365-85ef-50b0b54c757b_1.png" width="360" alt="Person">
 
 *Person* — Grimmiger Offizier mit kantigem Gesicht und Schirmmütze in schwarzer, knopfbesetzter Uniform mit Adler-Insignie vor steinernem Hintergrund. Wirkt wie ein sadistischer Kommissar oder Provost-Offizier.
 
@@ -670,7 +670,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_0daf544c-4c42-4bf8-8679-e9e2d20b27d8_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_0daf544c-4c42-4bf8-8679-e9e2d20b27d8_0.png" width="360" alt="Person">
 
 *Person* — Asiatisch wirkende Soldatin mit Helm und grauer Plattenrüstung, hinter ihr weitere uniformierte Truppen. Klassische Astra-Militarum-Garde-Anmutung, leicht lächelnd, kampfbereit.
 
@@ -679,7 +679,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_65f6bf59-a913-44fa-a343-c47d839cc2a9_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_65f6bf59-a913-44fa-a343-c47d839cc2a9_1.png" width="360" alt="Person">
 
 *Person* — Soldatin mit Helm und grauer, abgenutzter Panzerung, ernster Blick, hinter ihr weitere Truppen. Astra-Militarum-Garde-Infanteristin in düsterer Schlachtfeld-Stimmung.
 
@@ -688,7 +688,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_a547aa4b-1bb4-487b-9a83-f542e4b2177e_3.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_a547aa4b-1bb4-487b-9a83-f542e4b2177e_3.png" width="360" alt="Person">
 
 *Person* — Bärtiger Soldat mit Helm und grüner, schwerer Plattenrüstung im Inneren eines Transporters oder Schiffsgangs. Astra-Militarum-Garde-Anmutung, ernst und kampfbereit.
 
@@ -697,7 +697,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_b3f2d0ac-c599-49ee-aff3-106559dca8eb_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_b3f2d0ac-c599-49ee-aff3-106559dca8eb_2.png" width="360" alt="Person">
 
 *Person* — Bärtiger Soldat mit Helm und grauer, verdreckter Plattenrüstung, hinter ihm angedeutete Truppenmenge. Astra-Militarum-Garde-Infanterist, ernst und schlachtenmüde.
 
@@ -706,7 +706,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_ed83aa7d-e0f7-4b81-add7-953d1fbd772d_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_ed83aa7d-e0f7-4b81-add7-953d1fbd772d_2.png" width="360" alt="Person">
 
 *Person* — Dunkelhäutige Soldatin mit Helm und grauer Plattenrüstung, hinter ihr in Reihe stehende Truppen im Nebel. Astra-Militarum-Garde-Infanteristin, entschlossener Ausdruck.
 
@@ -715,7 +715,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_ef2cacec-2cf3-46f6-842b-cb42e1062fd6_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_ef2cacec-2cf3-46f6-842b-cb42e1062fd6_2.png" width="360" alt="Person">
 
 *Person* — Junger Soldat mit Helm und grauer Plattenrüstung, hinter ihm weitere Soldaten in einer Halle. Astra-Militarum-Garde-Rekrut, ernst und aufmerksam.
 
@@ -724,7 +724,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_ef2cacec-2cf3-46f6-842b-cb42e1062fd6_3.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_ef2cacec-2cf3-46f6-842b-cb42e1062fd6_3.png" width="360" alt="Person">
 
 *Person* — Soldat mit Helm und dunkler, regennasser Plattenrüstung, hinter ihm verschwommen weitere Truppen. Astra-Militarum-Garde-Infanterist in düsterer Schlachtfeld-Stimmung.
 
@@ -733,7 +733,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_subject_a__cef0f882-0bbf-432a-aa92-2cbe1c990ece_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_subject_a__cef0f882-0bbf-432a-aa92-2cbe1c990ece_0.png" width="360" alt="Person">
 
 *Person* — Junger Soldat mit blutiger Wunde im Gesicht, kurzgeschorenem Haar und abgenutzter Kampfausrüstung mit Tragegestell und Wappen-Patch. Wirkt wie ein Astra-Militarum-Gardist oder Söldner nach einem Gefecht.
 
@@ -742,7 +742,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1140.PNG>)
+<img src="IMG_1140.PNG" width="360" alt="Person">
 
 *Person* — Verwitterter, narbiger Soldat mit Schweiß und Schmutz im Gesicht in schwerer, rot-abgenutzter Ausrüstung mit Lampen und Schläuchen in einem engen Cockpit. Wirkt wie ein Astra-Militarum-Veteran oder Panzerbesatzungsmitglied.
 
@@ -751,7 +751,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1141.PNG>)
+<img src="IMG_1141.PNG" width="360" alt="Person">
 
 *Person* — Älterer Offizier mit grauem Bart, schwarzer Uniform mit Pelzkragen, goldenen Schnüren, Orden und Medaillen. Wirkt wie ein hochrangiger Astra-Militarum-General oder Kommissar von strenger Autorität.
 
@@ -760,7 +760,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1144.PNG>)
+<img src="IMG_1144.PNG" width="360" alt="Person">
 
 *Person* — Glatzköpfiger, narbiger Mann mittleren Alters in abgenutzter grauer Plattenrüstung mit Adler-Aquila-Anhänger. Wirkt wie ein erfahrener Astra-Militarum-Veteran oder Garde-Offizier.
 
@@ -769,7 +769,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1147.PNG>)
+<img src="IMG_1147.PNG" width="360" alt="Person">
 
 *Person* — Bärtiger Mann in schwarzer, ordensgeschmückter Militäruniform mit goldenen Schnüren und Eisernem-Kreuz-Motiv in einer dunklen Halle. Wirkt wie ein hochrangiger Astra-Militarum-Offizier oder Kommissar.
 
@@ -778,7 +778,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1148.PNG>)
+<img src="IMG_1148.PNG" width="360" alt="Person">
 
 *Person* — Jüngerer Mann mit kurzem Bart in dunkler, verzierter Rüstung mit Aquila-Motiven vor militärischer Kulisse. Wirkt wie ein Astra-Militarum-Offizier oder Garde-Soldat, entschlossen und wachsam.
 
@@ -787,7 +787,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1173.PNG>)
+<img src="IMG_1173.PNG" width="360" alt="Person">
 
 *Person* — Vernarbter älterer Soldat mit roter Baskenmütze und abgenutzter Carapace-Rüstung mit Leuchtanzeigen, ernster, kampferprobter Blick vor zerstörter Kulisse. Wirkt wie ein Astra-Militarum-Veteran oder Offizier.
 
@@ -796,7 +796,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1174.PNG>)
+<img src="IMG_1174.PNG" width="360" alt="Person">
 
 *Person* — Junge Soldatin mit roter Baskenmütze, Headset und blauer Carapace-Rüstung mit Totenkopfwappen, aufmerksamer Blick inmitten weiterer Truppen. Wirkt wie eine Astra-Militarum- oder Tempestus-Soldatin.
 
@@ -805,7 +805,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1177.PNG>)
+<img src="IMG_1177.PNG" width="360" alt="Person">
 
 *Person* — Massiger, glatzköpfiger Mann mit grobem Gesicht und einem Monokel-Vergrößerungsglas am Auge, in schwerer dunkler Rüstung mit Kragen. Wirkt wie ein Ogryn oder schwerer Garde-Schläger in düsterer Umgebung.
 
@@ -814,7 +814,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1181.PNG>)
+<img src="IMG_1181.PNG" width="360" alt="Person">
 
 *Person* — Kahlköpfiger, grimmiger Offizier mit kantigem Gesicht in dunkler Uniformjacke mit Schulterklappen, Orden und Adlerinsignien. Wirkt wie ein hochrangiger Astra-Militarum-Kommandeur oder Kommissar.
 
@@ -823,7 +823,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1188.PNG>)
+<img src="IMG_1188.PNG" width="360" alt="Person">
 
 *Person* — Mann mittleren Alters mit Offiziersmütze samt Adlerinsignie und verziertem Brustpanzer, ernster Blick. Wirkt wie ein Astra-Militarum-Offizier oder Kommissar.
 
@@ -832,7 +832,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1265.PNG>)
+<img src="IMG_1265.PNG" width="360" alt="Person">
 
 *Person* — Ein junger Mann mit kybernetischem rotem Augen-Implantat und dunkler Militäruniform mit Insignie. Wirkt wie ein junger Astra-Militarum-Soldat oder Garde-Rekrut, ernste, nüchterne Porträtstimmung.
 
@@ -841,7 +841,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1267.PNG>)
+<img src="IMG_1267.PNG" width="360" alt="Person">
 
 *Person* — Ein junger Mann mit blutverschmiertem Gesicht in abgenutzter, leichter Militärrüstung in düsterem Setting. Wirkt wie ein erschöpfter Astra-Militarum-Soldat oder Garde-Rekrut nach dem Gefecht.
 
@@ -850,7 +850,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1319.JPG>)
+<img src="IMG_1319.JPG" width="360" alt="Person">
 
 *Person* — Hochrangiger Offizier mit kurzem Haar, Ohr-Vox-Implantat und dunkelblauer Uniform mit Goldepauletten, Schädel-Aquila-Orden und Schulterfransen. Wirkt wie ein imperialer General oder Kommandeur der Astra Militarum.
 
@@ -859,7 +859,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2012.JPG>)
+<img src="IMG_2012.JPG" width="360" alt="Person">
 
 *Person* — Junge, rothaarige Frau mit Sommersprossen kniet barfuss im nebligen Wald und hält ein abgewracktes Langlaufgewehr. Zerlumpte Militaerkluft und improvisierte Rüstung deuten auf eine imperiale Gardistin oder Scharfschützin hin.
 
@@ -868,7 +868,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2021.JPG>)
+<img src="IMG_2021.JPG" width="360" alt="Person">
 
 *Person* — Düsteres Nahporträt eines älteren, kahlköpfigen Mannes mit hartem, zerfurchtem Gesicht und blauen Augen in schwerer, abgenutzter dunkler Plattenrüstung. Wirkt wie ein kampferprobter imperialer Veteran oder Garde-Offizier in trostloser Umgebung.
 
@@ -877,7 +877,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2058.JPG>)
+<img src="IMG_2058.JPG" width="360" alt="Person">
 
 *Person* — Düsteres Nahportrait eines kahlköpfigen, alten Mannes mit harten Zügen, der eine schwere dunkle Rüstungsschulter trägt. Wirkt wie ein abgehärteter imperialer Soldat oder Veteran.
 
@@ -886,7 +886,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<movie_still_in_the_style_of_grimdark_40k._portrait_of_a_grote_e4faa8c8-1733-4334-9634-7e462fff17b6_3.png>)
+<img src="movie_still_in_the_style_of_grimdark_40k._portrait_of_a_grote_e4faa8c8-1733-4334-9634-7e462fff17b6_3.png" width="360" alt="Person">
 
 *Person* — Nahaufnahme eines narbigen, brutal aussehenden Mannes mit Kriegsbemalung, Piercings und Atemschläuchen/Kabeln am Hals vor industriellem Hintergrund. Wirkt wie ein abgehärteter Soldat, Veteran oder Sträflingssoldat der Astra Militarum.
 
@@ -897,7 +897,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 5 · Adeptus Mechanicus & Tech (Tech-Priester, Skitarii, Servitoren)
 
 #### `Name/Ort: ____________________`
-![](<072e744e-f705-450a-93f6-6e08ad7255e0.png>)
+<img src="072e744e-f705-450a-93f6-6e08ad7255e0.png" width="360" alt="Person">
 
 *Person* — Mechanisches, schädelartiges Wesen aus verzierter Bronze und Metall mit grün leuchtendem Zyklopenauge und Schläuchen, im düsteren biomechanischen Stil. Wirkt wie ein Servitor oder Mechanicus-Konstrukt.
 
@@ -906,7 +906,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<0_1(2).jpeg>)
+<img src="0_1%282%29.jpeg" width="360" alt="Person">
 
 *Person* — Frau mit kybernetischem Kopfschmuck aus blau-goldenem Metall, Kabeln und gerippter Halspanzerung, im Stil eines Tech-Priesters / Mechanicus-Adepts mit rötlich leuchtenden Augen. Kühle, technokratische Stimmung.
 
@@ -915,7 +915,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<0dc3d778-b286-442a-bff5-3f981deaeaa0.png>)
+<img src="0dc3d778-b286-442a-bff5-3f981deaeaa0.png" width="360" alt="Person">
 
 *Person* — Biomechanischer, schädelartiger Kopf mit grün leuchtendem Auge, Röhren und korrodiertem Metall in Profilansicht, düsterer H.-R.-Giger-artiger Stil. Wirkt wie ein Servitor oder Mechanicus-Konstrukt.
 
@@ -924,7 +924,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<172f8625-0745-44cf-b559-74145647ecf9.png>)
+<img src="172f8625-0745-44cf-b559-74145647ecf9.png" width="360" alt="Person">
 
 *Person* — Verzierte, helmartige biomechanische Maschinengestalt aus Metall mit grün leuchtendem Zentralauge und filigranen Gravuren vor schwarzem Hintergrund. Sakral-technischer Mechanicus-/Servitor-Eindruck.
 
@@ -933,7 +933,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<45d96f19-b173-4577-8640-94b4ad933b8c.png>)
+<img src="45d96f19-b173-4577-8640-94b4ad933b8c.png" width="360" alt="Person">
 
 *Person* — Düsteres Porträt eines maschinell-organischen Schädelkopfes mit grün leuchtendem Zentralauge, Kabeln und vergoldeten Mechanik-Ornamenten. Wirkt wie ein Servitor oder Tech-Konstrukt des Adeptus Mechanicus.
 
@@ -942,7 +942,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<4f8ab368-3bdd-4eb2-a6da-f50c6f0814e2.png>)
+<img src="4f8ab368-3bdd-4eb2-a6da-f50c6f0814e2.png" width="360" alt="Person">
 
 *Person* — Frontales Porträt eines kybernetischen Schädelwesens mit großem grünem Zyklopen-Auge, symmetrischen Hornschläuchen und vergoldeter Maschinerie. Bedrohliche Tech-Mechanicus-Konstruktanmutung in dunkler Atmosphäre.
 
@@ -951,7 +951,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<5a283f7b-1f35-468a-8346-f2ec447d99ac.png>)
+<img src="5a283f7b-1f35-468a-8346-f2ec447d99ac.png" width="360" alt="Person">
 
 *Person* — Schmaler, langgezogener Cyborg-Schädelkopf mit grün glühendem Auge, Kabelsträngen am Hals und mechanischem Torso. Düstere, biomechanische Servitor-/Tech-Priester-Anmutung des Adeptus Mechanicus.
 
@@ -960,7 +960,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<648cb019-ae8b-4411-b992-05f4827f3dce.png>)
+<img src="648cb019-ae8b-4411-b992-05f4827f3dce.png" width="360" alt="Person">
 
 *Person* — Seitenporträt eines maschinell-organischen Schädelwesens mit grünem Auge, Schläuchen und Zahnrad-Mechanik. Verrostet-vergoldete Optik eines Servitors oder Mechanicus-Konstrukts in dunklem Setting.
 
@@ -969,7 +969,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<6ea39644-eb6c-453d-8ee2-7c08466857e3.png>)
+<img src="6ea39644-eb6c-453d-8ee2-7c08466857e3.png" width="360" alt="Person">
 
 *Person* — Kahler, hagerer Mann mit blasser, leicht entstellter Haut und einem mechanischen Tornister/Rucksack-Aggregat, in graubrauner Arbeitskleidung im Nebel. Wirkt wie ein lobotomierter Servitor oder Mechanicus-Arbeiter in trostloser Industrieumgebung.
 
@@ -978,7 +978,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<7061d761-af5d-45da-a8e1-639e3d6d6b16.png>)
+<img src="7061d761-af5d-45da-a8e1-639e3d6d6b16.png" width="360" alt="Person">
 
 *Person* — Mechanischer Schädelkopf mit grünem Zentralauge, kopfhörerartigen Apparaturen und freiliegenden Zähnen, der Hals voller Kabel und Federmechanik. Klassische biomechanische Servitor-/Mechanicus-Tech-Anmutung.
 
@@ -987,7 +987,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<7ce855d5-c4c6-491a-b469-3d4565335740.png>)
+<img src="7ce855d5-c4c6-491a-b469-3d4565335740.png" width="360" alt="Gruppe">
 
 *Gruppe* — Reihe halbnackter, kahler Männer mit kybernetischen Implantaten und mechanischen Rückenaggregaten, apathisch in einem nebligen Tunnel/Korridor aufgereiht. Wirkt wie eine Kolonne von Servitoren oder lobotomierten Arbeitssklaven.
 
@@ -996,7 +996,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<8d5927dc-eecc-44f4-84ec-009cc786ff7c.png>)
+<img src="8d5927dc-eecc-44f4-84ec-009cc786ff7c.png" width="360" alt="Person">
 
 *Person* — Düsteres Porträt eines biomechanischen Schädelwesens mit großem grünem Zyklopen-Auge inmitten verzierter, knochiger Tech-Strukturen. Unheimliche Mechanicus-Konstrukt- oder Servitor-Anmutung.
 
@@ -1005,7 +1005,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<9204aa0e-1ead-441e-90f1-15d15661e71b.png>)
+<img src="9204aa0e-1ead-441e-90f1-15d15661e71b.png" width="360" alt="Person">
 
 *Person* — Symmetrischer mechanischer Kopf mit grünem Zentralauge, gehörnter Helmstruktur und vergoldeter Mechanik über einem Maschinen-Torso. Sakral wirkendes Adeptus-Mechanicus-Konstrukt in dunkler Umgebung.
 
@@ -1014,7 +1014,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<a7efa611-6b41-4e06-8687-378cbfa8c608.png>)
+<img src="a7efa611-6b41-4e06-8687-378cbfa8c608.png" width="360" alt="Person">
 
 *Person* — Hagerer, kahler Mann mit blasser Haut, einem mechanischen Aufsatz am Hinterkopf und einer ledernen Trag-/Halterung über rotem Gewand. Wirkt wie ein einfacher Servitor oder Mechanicus-Bediensteter in düsterem Wald-/Innenraum-Setting.
 
@@ -1023,7 +1023,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<ba1171ac-773f-49a3-81ca-246c1adaf341.png>)
+<img src="ba1171ac-773f-49a3-81ca-246c1adaf341.png" width="360" alt="Person">
 
 *Person* — Seitliches Porträt eines metallenen Schädelkopfes mit grünem Auge, vergoldeter Stirnmechanik und dicken Kabelsträngen. Biomechanische Servitor-/Mechanicus-Konstrukt-Anmutung in dunklem Licht.
 
@@ -1032,7 +1032,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<ced32450-f380-4417-bd7b-df8c7f700ac3.png>)
+<img src="ced32450-f380-4417-bd7b-df8c7f700ac3.png" width="360" alt="Person">
 
 *Person* — Frontaler mechanischer Schädelkopf mit großem grünem Zentralauge, runder Helmkrone und gewundener Mechanik über gepanzertem Torso. Düsteres Adeptus-Mechanicus-Konstrukt oder Servitor.
 
@@ -1041,7 +1041,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<cf52a593-7efa-4a15-a230-f522358c923d.png>)
+<img src="cf52a593-7efa-4a15-a230-f522358c923d.png" width="360" alt="Person">
 
 *Person* — Langgezogener metallener Schädelkopf mit grünem Auge, Kameralinse an der Stirn und Kabel-/Röhrenwerk am Hals und Torso. Biomechanisches Mechanicus-Konstrukt oder Servitor in dunkler Szenerie.
 
@@ -1050,7 +1050,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<f9d5721e-9d9e-40c5-9129-00542f23ef3c.png>)
+<img src="f9d5721e-9d9e-40c5-9129-00542f23ef3c.png" width="360" alt="Person">
 
 *Person* — Seitliches Porträt eines metallenen Schädelkopfes mit grünem Auge, gewölbter Helmkappe und vergoldeter Mechanik samt Schläuchen. Biomechanisches Servitor-/Mechanicus-Konstrukt vor schwarzem Hintergrund.
 
@@ -1059,7 +1059,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<fb951993-5461-4906-a0af-ae7d077122b1.png>)
+<img src="fb951993-5461-4906-a0af-ae7d077122b1.png" width="360" alt="Person">
 
 *Person* — Symmetrischer, sakral verzierter Maschinenkopf mit grünem Zentralauge auf einem Stiel und vergoldeten Tech-Ornamenten. Wirkt wie ein hochrangiges Adeptus-Mechanicus-Konstrukt oder Schrein-Automat.
 
@@ -1068,7 +1068,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_style_of_grimdark_40k_a_group_of_rag_1a302314-2d22-438b-918b-ed207f6df4dd_0.png>)
+<img src="gosta7024_movie_still_in_style_of_grimdark_40k_a_group_of_rag_1a302314-2d22-438b-918b-ed207f6df4dd_0.png" width="360" alt="Gruppe">
 
 *Gruppe* — Reihe halbnackter, kybernetisch umgebauter Menschen mit Implantaten und mechanischen Aufbauten, die durch einen industriellen Korridor marschieren. Wirken wie Servitoren oder lobotomisierte Arbeitssklaven des Mechanicus.
 
@@ -1077,7 +1077,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_beautifu_631c1eb9-98eb-4685-80e8-6ad25ff1b345_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_beautifu_631c1eb9-98eb-4685-80e8-6ad25ff1b345_0.png" width="360" alt="Person">
 
 *Person* — Eine in rote Kapuze und Robe gehüllte Gestalt mit stark kybernetisiertem Gesicht, mechanischen Implantaten und goldenem Zahnrad-Anhänger. Eindeutig ein Tech-Priester des Adeptus Mechanicus.
 
@@ -1086,7 +1086,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_young_co_fbca0fe5-2790-436a-97d2-9c726f607b35_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_young_co_fbca0fe5-2790-436a-97d2-9c726f607b35_1.png" width="360" alt="Person">
 
 *Person* — Junge, blasse Frau mit weißem Schleier und Kapuze, deren rechte Gesichts- und Halshälfte durch schwarze kybernetische Implantate ersetzt ist; Blut rinnt über das Gesicht, die Augen leuchten rötlich. Düstere Stimmung, eher Tech-/Cyber-Mensch als reine Nonne.
 
@@ -1095,7 +1095,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_old_and_93ef6cf1-b09d-4057-956c-cf9a206ca498_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_old_and_93ef6cf1-b09d-4057-956c-cf9a206ca498_0.png" width="360" alt="Person">
 
 *Person* — Älterer kahlköpfiger Mann mit kybernetischem Implantat an der Schläfe, in verschmutzter technischer Montur mit Schläuchen und Atemschutz-Elementen. Wirkt wie ein niederer Tech-Arbeiter oder Servitor-naher Maschinendiener in einer Werkstatt.
 
@@ -1104,7 +1104,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1142.PNG>)
+<img src="IMG_1142.PNG" width="360" alt="Person">
 
 *Person* — Person in roter Kapuzenrobe mit kybernetischen Augen-Implantaten (eines rot leuchtend, eines mit Linse) und mechanischen Anschlüssen an der Brust. Eindeutig ein Adeptus-Mechanicus-Tech-Adept oder Magos in zerfallener Industriekulisse.
 
@@ -1113,7 +1113,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1152.PNG>)
+<img src="IMG_1152.PNG" width="360" alt="Person">
 
 *Person* — Älterer Tech-Priester oder Mechanicus-Adept mit zerfurchtem Gesicht, mehrlinsigen rot leuchtenden Augmetik-Goggles und Schädelimplantaten. Trägt schwere, abgenutzte gelb-rote Industrierüstung mit Kabeln und Rohren, Setting wirkt wie eine düstere Werkstatt.
 
@@ -1122,7 +1122,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1163.PNG>)
+<img src="IMG_1163.PNG" width="360" alt="Person">
 
 *Person* — Älterer Mann mit grauem Bart und Augmetik-Implantaten am Kopf, in roter Mechanicus-Robe, hält eine komplexe rot leuchtende mechanische Waffe oder ein Werkzeug. Düsteres Setting, wirkt wie ein Tech-Priester oder Magos.
 
@@ -1131,7 +1131,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1164.PNG>)
+<img src="IMG_1164.PNG" width="360" alt="Person">
 
 *Person* — Bärtiger, weißhaariger Magos in roter Mechanicus-Robe mit massivem mechanischem Brustharness samt eingelassenem Gesichts-/Schädelmodul und Kabeln. Steht vor steinerner Architektur, autoritäre Tech-Priester-Stimmung.
 
@@ -1140,7 +1140,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1179.PNG>)
+<img src="IMG_1179.PNG" width="360" alt="Person">
 
 *Person* — Älterer, kahler Mann mit vernarbtem Gesicht und kleinen Kopfimplantaten in schwerer rostrot-mechanischer Rüstung mit Schulterpanzern. Wirkt wie ein Servitor, Tech-Arbeiter oder gepanzerter Veteran in industrieller Umgebung.
 
@@ -1149,7 +1149,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1198.PNG>)
+<img src="IMG_1198.PNG" width="360" alt="Person">
 
 *Person* — Bärtiger Mann mit blau leuchtender Schutzbrille in massivem rostrotem Helm/Rüstung mit Nieten und Schläuchen. Wirkt wie ein Tech-Priester, Voidschmied oder Adeptus-Mechanicus-Arbeiter.
 
@@ -1158,7 +1158,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1203.PNG>)
+<img src="IMG_1203.PNG" width="360" alt="Person">
 
 *Person* — Ein kahlköpfiger Mann in schwerer gelber Industrie-/Powerrüstung mit augmentierten Linsen und kybernetischen Implantaten, der konzentriert an Maschinenteilen arbeitet. Wirkt wie ein Tech-Adept oder Mechanicus-naher Arbeiter in einer dunklen Werkstatt.
 
@@ -1167,7 +1167,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1331.JPG>)
+<img src="IMG_1331.JPG" width="360" alt="Person">
 
 *Person* — Brustportrait eines kybernetisch umgebauten Wesens mit grau-grünlicher Haut, dessen Schädel von Panzerplatten und Maschinerie bedeckt ist. Ein grell grün leuchtendes Augenimplantat und verkabelte Apparaturen am Kopf deuten auf einen Servitor oder Tech-Adept des Adeptus Mechanicus in düsterer Atmosphäre.
 
@@ -1176,7 +1176,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2014.JPG>)
+<img src="IMG_2014.JPG" width="360" alt="Person">
 
 *Person* — Frau in rotem Kapuzengewand mit goldenem Augen-Implantat und mechanischem Cyber-Arm, dazu ein Schädelmedaillon mit Zahnradmotiv. Klar als Tech-Priesterin des Adeptus Mechanicus erkennbar.
 
@@ -1187,7 +1187,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 6 · Navigatoren / Astropathen / Psioniker
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_20_years_d301e4c5-48c5-414b-8465-5101ee71c87a_3.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_20_years_d301e4c5-48c5-414b-8465-5101ee71c87a_3.png" width="360" alt="Person">
 
 *Person* — Junger Mann mit einem ringförmigen Psi-/Kontrollgerät um den Kopf und einem Amulett in roter Robe in industrieller Umgebung. Wirkt wie ein Astropath oder gefesselter Psioniker.
 
@@ -1196,7 +1196,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40K_portrait_s_8d8822f3-0f3a-48c4-a203-c011057756d4_3.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40K_portrait_s_8d8822f3-0f3a-48c4-a203-c011057756d4_3.png" width="360" alt="Person">
 
 *Person* — Junger, kahlköpfiger Mann mit blasser Haut, kybernetischem Stirn-Implantat und Kabeln am Hals, gehüllt in eine rote Robe. Wirkt wie ein Astropath oder Psioniker, ruhige und entrückte Stimmung.
 
@@ -1205,7 +1205,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40K_portrait_s_fce3a4fe-77ed-4179-ba31-96f50f97c067_0.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40K_portrait_s_fce3a4fe-77ed-4179-ba31-96f50f97c067_0.png" width="360" alt="Person">
 
 *Person* — Junger Mann mit geschlossenen Augen und einem komplexen, verkabelten Stirn-/Kopfimplantat, in roter Robe vor düsterem Wald. Wirkt wie ein Astropath oder Psioniker in Trance, mystische und unheimliche Stimmung.
 
@@ -1214,7 +1214,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1149.PNG>)
+<img src="IMG_1149.PNG" width="360" alt="Person">
 
 *Person* — Frau mit schwarzen, leeren Augen und einem dritten Auge auf der Stirn in dunkler Kleidung, düster ausgeleuchtet. Eindeutig eine Psionikerin/Astropathin oder Mutantin mit unheimlicher, bedrohlicher Aura.
 
@@ -1223,7 +1223,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1150.PNG>)
+<img src="IMG_1150.PNG" width="360" alt="Person">
 
 *Person* — Frau mit nassem Gesicht und einem geöffneten dritten Auge auf der Stirn im Regen, intensiver Blick. Eindeutig eine Psionikerin/Psyker mit unheimlicher, angespannter Ausstrahlung.
 
@@ -1232,7 +1232,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1158.PNG>)
+<img src="IMG_1158.PNG" width="360" alt="Person">
 
 *Person* — Junger Psioniker mit grell violett leuchtenden Augen und wirbelnder psychischer Energie um Kopf und Hände, in dunkler Rüstung. Intensive, bedrohliche Stimmung warp-getränkter Macht.
 
@@ -1241,7 +1241,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1207.PNG>)
+<img src="IMG_1207.PNG" width="360" alt="Person">
 
 *Person* — Eine Gestalt in heller Kapuze und Roben mit kybernetischem Gesicht und drittem leuchtenden Stirn-Auge in einer kathedralenartigen Halle. Wirkt wie ein Astropath oder Psioniker des Imperiums.
 
@@ -1250,7 +1250,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1298.JPG>)
+<img src="IMG_1298.JPG" width="360" alt="Person">
 
 *Person* — Junger Mann im Profil mit massiver, ins Schädel integrierter Maschinenapparatur und roter Robe, die Hände betend gefaltet. Narben im Gesicht, geschlossene Augen - wirkt wie ein Astropath oder kybernetisch verbundener Psioniker.
 
@@ -1259,7 +1259,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1299.JPG>)
+<img src="IMG_1299.JPG" width="360" alt="Person">
 
 *Person* — Bleicher junger Mann mit kahlem Schädel und einer ringförmigen Maschinen-Aureole am Hinterkopf, in roter Robe mit technischem Halsgeschirr. Wirkt wie ein Astropath oder gebundener Psioniker in düsterem Innenraum.
 
@@ -1268,7 +1268,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1326.JPG>)
+<img src="IMG_1326.JPG" width="360" alt="Person">
 
 *Person* — Kahlköpfiger Mann mit grimmiger Miene, blau leuchtenden Augen und einem schweren, an den Schädel angeschlossenen Maschinen-/Kabelapparat. Wirkt wie ein verkabelter Psioniker, Navigator oder Mensch-Maschine-Hybrid.
 
@@ -1277,7 +1277,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1864.JPG>)
+<img src="IMG_1864.JPG" width="360" alt="Person">
 
 *Person* — Bleiche, spitzohrige Gestalt mit halb mechanisch-kybernetischem Gesicht, gold-mechanischer Klauenhand und prunkvollem rot-schwarzem Gewand vor goldverziertem Hintergrund. Wirkt wie ein Navigator oder hochadeliger Mutant, mysteriös und aristokratisch.
 
@@ -1286,7 +1286,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1865.JPG>)
+<img src="IMG_1865.JPG" width="360" alt="Person">
 
 *Person* — Profilportrait eines Mannes mit transparenter, kuppelartiger Helmblase und kunstvoll verziertem schwarz-kupfernem Anzug mit Schädelmedaillons. Wirkt wie ein Navigator oder hochrangiger Astropath des Imperiums.
 
@@ -1295,7 +1295,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1866.JPG>)
+<img src="IMG_1866.JPG" width="360" alt="Person">
 
 *Person* — Profil einer Frau in reich ornamentierter schwarz-oranger Haube und Rüstung mit gläsernem Visier vor schwarzem Hintergrund. Aristokratisch-mystische Erscheinung, passend zu einem Navigator oder Astropathen.
 
@@ -1304,7 +1304,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2061.JPG>)
+<img src="IMG_2061.JPG" width="360" alt="Person">
 
 *Person* — Frau mit Cyber-Helm, zahlreichen Kabeln und blutroten Kreuzmarkierungen im Gesicht vor düsterem Hintergrund. Trance-artiger Ausdruck deutet auf eine verkabelte Psionikerin oder Astropathin hin.
 
@@ -1313,7 +1313,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<movie_still_in_the_style_of_grimdark_40k._the_venerable_mad_s_89115885-6217-43fa-b363-e0e3af00681e_3.png>)
+<img src="movie_still_in_the_style_of_grimdark_40k._the_venerable_mad_s_89115885-6217-43fa-b363-e0e3af00681e_3.png" width="360" alt="Person">
 
 *Person* — Sitzende Gestalt mit blasser Maske oder Gesicht und einem aufwendigen, federartigen/mechanischen Kopfschmuck, in fließende rote Gewänder gehüllt. Wirkt wie ein verehrter, wahnsinniger Seher, Astropath oder Navigator auf einem Thron, mystisch und bedrohlich.
 
@@ -1324,7 +1324,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 7 · Ecclesiarchy / Klerus / Prediger
 
 #### `Name/Ort: ____________________`
-![](<c90c1ba7-ea05-4ff0-ab9b-40dab58475af.png>)
+<img src="c90c1ba7-ea05-4ff0-ab9b-40dab58475af.png" width="360" alt="Person">
 
 *Person* — Hochgewachsene Gestalt in schwarzer Kapuzenrobe mit Schädelmaske/Schädelgesicht, kunstvoll verziertem Brustpanzer mit Rippenrelief und Schädel-Medaillon. Wirkt wie ein finsterer Ecclesiarchy-Prediger, Inquisitions- oder Totenkult-Würdenträger.
 
@@ -1333,7 +1333,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_httpss.mj.run7oT0zRf6JPU_movie_still_in_the_style_o_0961a546-562a-4676-8fb5-61297974ed29_3.png>)
+<img src="gosta7024_httpss.mj.run7oT0zRf6JPU_movie_still_in_the_style_o_0961a546-562a-4676-8fb5-61297974ed29_3.png" width="360" alt="Person">
 
 *Person* — Würdenträger mit gehörnter weiß-goldener Mitra, dunkler Brille und prunkvollem weißem Gewand mit Amulett. Wirkt wie ein hochrangiger Ecclesiarchy-Prediger oder Kardinal.
 
@@ -1342,7 +1342,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1262.PNG>)
+<img src="IMG_1262.PNG" width="360" alt="Person">
 
 *Person* — Eine dunkelhäutige Frau mit hoher, vergoldeter Mitra mit Totenschädel-Symbol und reich verziertem Gewand. Klare Ecclesiarchy-/Klerus-Anmutung, würdevolle, sakrale Ausstrahlung.
 
@@ -1351,7 +1351,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1263.PNG>)
+<img src="IMG_1263.PNG" width="360" alt="Person">
 
 *Person* — Eine dunkelhäutige Frau mit goldener Mitra/Helm und juwelenbesetzter Rüstung mit hohem Kragen. Sakrale, hochrangige Ecclesiarchy- oder Adepta-Sororitas-nahe Würdenträgerin mit majestätischer Stimmung.
 
@@ -1360,7 +1360,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1269.PNG>)
+<img src="IMG_1269.PNG" width="360" alt="Person">
 
 *Person* — Ein älterer, weißhaariger Mann in heller, verzierter Robe, der mit ernstem Blick in einem aufgeschlagenen Buch liest. Klare Ecclesiarchy-/Prediger-Anmutung, andächtige, strenge Stimmung.
 
@@ -1369,7 +1369,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<movie_still_in_the_style_of_grimdark_40k._Full_body_portrait__56ae9a2e-b3b6-476c-87bd-56a336ae0822_0.png>)
+<img src="movie_still_in_the_style_of_grimdark_40k._Full_body_portrait__56ae9a2e-b3b6-476c-87bd-56a336ae0822_0.png" width="360" alt="Person">
 
 *Person* — Porträt einer kahlköpfigen Frau mit einem aufgemalten oder vernarbten Aquila-Symbol auf der Stirn und schwarz geschminkten Augen. Sie wirkt fanatisch und asketisch, mit dunkler Lederkleidung, was an eine Fanatikerin/Predigerin oder Inquisitions-Akolythin erinnert.
 
@@ -1380,7 +1380,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 8 · Adel, Verwaltung, Rogue Trader, Zivilisten, Schiffscrew
 
 #### `Name/Ort: ____________________`
-![](<0_3.jpeg>)
+<img src="0_3.jpeg" width="360" alt="Person">
 
 *Person* — Elegante, blasse Adlige oder Navigatorin mit zurückgekämmtem Haar und orangefarbener Rundbrille in schwarz-goldener, hochgeschlossener Robe mit verziertem Brustornament. Aristokratische, mysteriöse Ausstrahlung.
 
@@ -1389,7 +1389,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_CAMERA_Hasselblad_500CM_with_Carl_Zeiss_Distagon_40_d4ec0b70-51c9-4390-8374-6d419624c61f_2.png>)
+<img src="gosta7024_CAMERA_Hasselblad_500CM_with_Carl_Zeiss_Distagon_40_d4ec0b70-51c9-4390-8374-6d419624c61f_2.png" width="360" alt="Person">
 
 *Person* — Junge Frau mit kahlgeschorenem Kopf und Sommersprossen in einem abgenutzten, blau-grauen Druckanzug vor einer Schleusenluke. Wirkt wie ein Crewmitglied oder eine Voidfarer-Arbeiterin an Bord eines Schiffs.
 
@@ -1398,7 +1398,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_httpss.mj.run_jcXVAbmO7w_httpss.mj.runUMuX13ls4E0_h_e8d7cc4c-43a4-4214-8175-094060ddc4ba_0.png>)
+<img src="gosta7024_httpss.mj.run_jcXVAbmO7w_httpss.mj.runUMuX13ls4E0_h_e8d7cc4c-43a4-4214-8175-094060ddc4ba_0.png" width="360" alt="Person">
 
 *Person* — Ernster Mann mit blassem Gesicht in schwarz-roter, hochgeschlossener Uniform mit Kapuzenkragen und rotem Siegel-Emblem. Wirkt wie ein hochrangiger Verwaltungs- oder Adelsfunktionär des Imperiums.
 
@@ -1407,7 +1407,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_httpss.mj.runmu6hDKClbWY_Movie_still_in_the_style_of__3b5e9dd4-5238-4464-a76b-a7289ad17be2.png>)
+<img src="gosta7024_httpss.mj.runmu6hDKClbWY_Movie_still_in_the_style_of__3b5e9dd4-5238-4464-a76b-a7289ad17be2.png" width="360" alt="Person">
 
 *Person* — Lächelnder, vornehmer Mann mit grauem Haar und Bart in prunkvollem schwarz-goldenem Gewand mit Pelzkragen und goldenem Medaillon. Wirkt wie ein wohlhabender Adliger oder Rogue Trader.
 
@@ -1416,7 +1416,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_20-years_54c5ecca-a5e4-40ea-a03c-e576a70e6288_0.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_20-years_54c5ecca-a5e4-40ea-a03c-e576a70e6288_0.png" width="360" alt="Person">
 
 *Person* — Mann mit Kapuze und rot leuchtendem kybernetischem Halskragen/Atemgerät, ernster Blick im Dunkeln. Wirkt wie ein augmentierter Agent oder Crewmitglied mit Tech-Implantaten.
 
@@ -1425,7 +1425,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_20-years_bc6e5de2-2bae-49ce-818b-f073564bd359_2.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_20-years_bc6e5de2-2bae-49ce-818b-f073564bd359_2.png" width="360" alt="Person">
 
 *Person* — Frau mit kleinem Stirnimplantat in rotem Schal und gealterter Bronze-/Lederrüstung vor düsterem Hintergrund. Wirkt wie eine Söldnerin, Kriegerin oder Wandererin einer rauen imperialen Welt.
 
@@ -1434,7 +1434,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_20-years_fc16ec70-557e-4138-ae38-0bf1bcb22915_1.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_20-years_fc16ec70-557e-4138-ae38-0bf1bcb22915_1.png" width="360" alt="Person">
 
 *Person* — Junger Mann mit rot gefärbtem Irokesen-Haar, Piercing und schwarzer Taktik-Kleidung mit roten Akzenten in einem Schiffsinneren. Wirkt wie ein Ganger, Schmuggler oder rebellisches Crewmitglied.
 
@@ -1443,7 +1443,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_20_years_566a28eb-23fc-4213-9568-5ddde78ba4a7_1.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_20_years_566a28eb-23fc-4213-9568-5ddde78ba4a7_1.png" width="360" alt="Person">
 
 *Person* — Junger Mann mit kahlem Kopf, Stirnimplantat und Narben in roter Kapuzenkleidung mit Halskragen-Gerät. Wirkt wie ein Schiffscrew-Mitglied oder niederer Funktionär mit kybernetischen Augmentationen.
 
@@ -1452,7 +1452,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_110be4ef-13fb-4ba7-a206-97b44bdbd054_3.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_110be4ef-13fb-4ba7-a206-97b44bdbd054_3.png" width="360" alt="Gruppe">
 
 *Gruppe* — Grauhaariger Mann mit Bart in schwarzer Uniform sitzt im Vordergrund, weitere uniformierte Männer im dunklen Konferenzraum dahinter. Wirkt wie ein Anführer mit seinem Stab oder Sicherheitspersonal bei einer Besprechung.
 
@@ -1461,7 +1461,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_3ebf90d1-cec9-41c6-894a-cae7fa9368f5_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_3ebf90d1-cec9-41c6-894a-cae7fa9368f5_1.png" width="360" alt="Gruppe">
 
 *Gruppe* — Arbeiter in orangefarbenen Schutzanzügen und ein gepanzerter Vorarbeiter stehen vor einer großen Industriemaschine in dunstiger Umgebung. Wirkt wie eine Schiffs- oder Fabrikcrew bei der Wartung.
 
@@ -1470,7 +1470,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_6ea6107d-0902-4759-9e90-e8b5c90e2bcc_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_6ea6107d-0902-4759-9e90-e8b5c90e2bcc_2.png" width="360" alt="Szene">
 
 *Szene* — Eine kapuzentragende Gestalt im Mantel blickt über eine nebelverhangene Hive-Stadt, über der ein zeppelinartiges Luftschiff schwebt. Einsame, melancholische Beobachterszene über einer Megastadt.
 
@@ -1479,7 +1479,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_beautifu_3216a077-4cd1-42f3-a3cf-6f473f1fbdf1_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_beautifu_3216a077-4cd1-42f3-a3cf-6f473f1fbdf1_1.png" width="360" alt="Person">
 
 *Person* — Eine elegante Adlige in barockem Gold-Blau-Kleid mit kunstvoll mechanisiertem, kybernetischem Arm hält eine geheimnisvolle Maske/Puppe. Adelige oder Höfling mit Augmentierungen im viktorianisch-gotischen Stil.
 
@@ -1488,7 +1488,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_cybernet_002d3dc5-d0b8-40f8-b190-06edfa910f24_3.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_cybernet_002d3dc5-d0b8-40f8-b190-06edfa910f24_3.png" width="360" alt="Person">
 
 *Person* — Junge Frau mit rot leuchtendem kybernetischem Auge und Gesichtstätowierungen, in zerlumpter grauer Kapuzenkleidung und mit verbundenem Cyber-Arm, an einem Marktstand in einer engen, neonbeleuchteten Hive-Gasse. Wirkt wie eine Underhive-Schmugglerin oder Söldnerin.
 
@@ -1497,7 +1497,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_cybernet_7f319bc4-9b77-49a7-ac79-61f82b560a32_2.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_cybernet_7f319bc4-9b77-49a7-ac79-61f82b560a32_2.png" width="360" alt="Person">
 
 *Person* — Bulliger Mann mit narbigem, blutverschmiertem Gesicht und kybernetischen Implantaten, sitzt mit Drink an einer Bar in einem düsteren Neon-Spelunken-Setting. Wirkt wie ein abgehärteter Underhive-Schläger oder Schiffscrew-Veteran.
 
@@ -1506,7 +1506,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_cybernet_991f1204-5211-47ec-a8f6-e4a8040c9659_3.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_cybernet_991f1204-5211-47ec-a8f6-e4a8040c9659_3.png" width="360" alt="Person">
 
 *Person* — Lässig sitzender Mann mit Cyber-Implantaten, Sonnenbrille und freiem Oberkörper unter offener Weste in einer rot-blau beleuchteten Werkstatt oder Gang-Bude. Wirkt wie ein Underhive-Ganger oder Schmuggler.
 
@@ -1515,7 +1515,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_cybernet_a0b098f6-5dfc-4f99-96ce-55b5d47d09f7_3.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40K_a_cybernet_a0b098f6-5dfc-4f99-96ce-55b5d47d09f7_3.png" width="360" alt="Person">
 
 *Person* — Junge Frau mit Cyber-Augmentationen am Kopf und am Arm, in pink beschriftetem Top, an einer Bar in einer neonbunten Hive-Straße. Wirkt wie eine Underhive-Zivilistin, Tänzerin oder Informantin.
 
@@ -1524,7 +1524,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_lean_and_2db10e6e-83f8-44d4-996a-e45912880264_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_lean_and_2db10e6e-83f8-44d4-996a-e45912880264_1.png" width="360" alt="Person">
 
 *Person* — Blonde Frau, deren halbes Gesicht von einer schwarzen kybernetischen Prothese bedeckt ist, in dunkler Hightech-Kleidung vor düsterem Hintergrund. Wirkt wie eine augmentierte Söldnerin oder Agentin.
 
@@ -1533,7 +1533,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_lean_and_3618d948-11f8-498b-9098-035e1b64c00e_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_lean_and_3618d948-11f8-498b-9098-035e1b64c00e_2.png" width="360" alt="Person">
 
 *Person* — Junge Frau, deren eine Gesichtshälfte als skelettierte Cyber-Schädelhälfte ausgeführt ist, in dunkler Kapuzenjacke vor kühl-blauem Hintergrund. Wirkt wie eine augmentierte Underhive-Figur oder Kopfgeldjägerin.
 
@@ -1542,7 +1542,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_lean_and_ae629a52-8fa9-4c99-b851-1c29274e101d_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_lean_and_ae629a52-8fa9-4c99-b851-1c29274e101d_0.png" width="360" alt="Person">
 
 *Person* — Frau mit kurzem blondem Haar in dunkler, technischer Panzerrüstung mit metallenen Schulterplatten vor düsterem Hintergrund. Wirkt wie eine Schiffsoffizierin oder gepanzerte Söldnerin.
 
@@ -1551,7 +1551,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_young_co_e424be35-75ca-43d5-abaf-0f792c12551c_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_young_co_e424be35-75ca-43d5-abaf-0f792c12551c_2.png" width="360" alt="Person">
 
 *Person* — Junge Frau mit blau leuchtenden Augen und kybernetischen Kopfimplantaten, in dunklem Schleier/Kapuzengewand über technischer Rüstung vor verwittertem Hintergrund. Wirkt wie eine augmentierte Mystikerin oder Hive-Zivilistin.
 
@@ -1560,7 +1560,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_old_and_8d7cde9a-6b3d-4fd2-81fe-8973721b0091_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_old_and_8d7cde9a-6b3d-4fd2-81fe-8973721b0091_0.png" width="360" alt="Person">
 
 *Person* — Älterer, narbiger Mann mit verschränkten Armen in abgenutzter Leder- und Plattenrüstung, in einer industriellen, von Rohren durchzogenen Umgebung. Wirkt wie ein abgehärteter Arbeiter, Veteran oder Schiffscrew-Mitglied.
 
@@ -1569,7 +1569,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_old_smi_99a223f5-e559-4329-b89e-0cefc16db793_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_old_smi_99a223f5-e559-4329-b89e-0cefc16db793_1.png" width="360" alt="Person">
 
 *Person* — Lächelnder älterer Würdenträger mit ziselierter Gesichtsmaske über einer Gesichtshälfte, in prunkvoller schwarz-goldener Robe mit Pelzkragen und Totenkopf-Ornamenten. Wirkt wie ein hochrangiger Adliger, Gouverneur oder Verwaltungsmagnat.
 
@@ -1578,7 +1578,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_old_sto_46bb374c-76b7-4d3c-bd8f-e9685a4830b0_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_old_sto_46bb374c-76b7-4d3c-bd8f-e9685a4830b0_1.png" width="360" alt="Person">
 
 *Person* — Ältere weißhaarige Frau in orange-grauem technischem Anzug mit Headset und Gurtwerk, vor dunklem Schiffsinterieur mit roten Lichtern. Wirkt wie eine erfahrene Schiffscrew-Offizierin oder Technikerin.
 
@@ -1587,7 +1587,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_06e6efe4-a72a-416b-ad56-fd06d2726116_3.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_06e6efe4-a72a-416b-ad56-fd06d2726116_3.png" width="360" alt="Person">
 
 *Person* — Ältere Frau mit zornigem, intensivem Blick in dunkler abgenutzter Lederkleidung mit Metallschnalle, in düsterer Umgebung. Wirkt wie eine harte Zivilistin, Anführerin oder Schiffscrew-Veteranin.
 
@@ -1596,7 +1596,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_987af374-8b2b-49fa-81e4-e13d596665f6_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_987af374-8b2b-49fa-81e4-e13d596665f6_2.png" width="360" alt="Person">
 
 *Person* — Ältere weißhaarige Frau mit kybernetischem Arm, in schwarzer Schürze, die in einer Küche an einem dampfenden Topf rührt. Wirkt wie eine zivile Köchin oder Schiffsküchen-Bedienstete in blau-orangefarbenem Licht.
 
@@ -1605,7 +1605,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_a5d9d99a-29af-4600-8445-c4802db4b72e_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_a5d9d99a-29af-4600-8445-c4802db4b72e_2.png" width="360" alt="Person">
 
 *Person* — Frau in orangefarbenem technischem Schutzanzug mit Brustlampe, die konzentriert auf ein leuchtendes Konsolen-/Tablet-Display blickt. Wirkt wie eine Technikerin, Ingenieurin oder Schiffscrew-Mitglied an einem Terminal.
 
@@ -1614,7 +1614,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_f0021640-c33b-49a6-ac58-aa236ad5aee4_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_ordinar_f0021640-c33b-49a6-ac58-aa236ad5aee4_1.png" width="360" alt="Person">
 
 *Person* — Junge, hellhäutige Frau mit kurzen dunklen Haaren und blauen Augen in einem dunklen, technisch wirkenden Anzug mit leuchtenden Akzenten, vor unscharfem Schiffsinterieur. Wirkt wie ein ziviles Crew-Mitglied oder eine junge Technikerin.
 
@@ -1623,7 +1623,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_an_young_b_dbea49cd-8b97-4dbb-afbf-267a258ff7fc_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_an_young_b_dbea49cd-8b97-4dbb-afbf-267a258ff7fc_0.png" width="360" alt="Person">
 
 *Person* — Junger Mann mit gelbem Schutzhelm und verschmutzter Industriemontur, Gesicht von Schmutz und Schweiß bedeckt, in einer Werkhalle. Wirkt wie ein einfacher Minen- oder Industriearbeiter.
 
@@ -1632,7 +1632,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40k_older_high_a47e0a8b-17bb-4cde-b665-8a3c4f5d190c_0.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40k_older_high_a47e0a8b-17bb-4cde-b665-8a3c4f5d190c_0.png" width="360" alt="Person">
 
 *Person* — Älterer würdevoller Mann mit grauem Schnurrbart in prunkvoller dunkler Uniform mit goldenen Epauletten, Orden und Sternabzeichen. Wirkt wie ein hochrangiger Adliger oder Offizier/Verwalter.
 
@@ -1641,7 +1641,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40K_portrait_s_c94fb74b-b6c2-4c5f-86d5-a2aa81114a82_0.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40K_portrait_s_c94fb74b-b6c2-4c5f-86d5-a2aa81114a82_0.png" width="360" alt="Person">
 
 *Person* — Junge Frau mit teilweise freiliegender kybernetischer Gesichtshälfte und mechanischer Schulter, in dunkler Kampfmontur vor neonbeleuchteter Gasse. Cyberpunk-artige Söldnerin oder Hive-Zivilistin mit Augmentierungen.
 
@@ -1650,7 +1650,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40K_portrait_s_d4b7f395-369e-4591-a7da-cf6c228cf269_2.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40K_portrait_s_d4b7f395-369e-4591-a7da-cf6c228cf269_2.png" width="360" alt="Person">
 
 *Person* — Junge Frau mit pink-blauen Haaren, Gesichts-Implantaten und Cyberware-Arm an einer Bar in einer neonbunten Hive-Gasse. Wirkt wie eine Underhive-Zivilistin oder Schmugglerin, melancholische Cyberpunk-Stimmung.
 
@@ -1659,7 +1659,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40K_portrait_s_dd3a760b-7ae6-4ff7-84c0-58c2eef97c8a_1.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40K_portrait_s_dd3a760b-7ae6-4ff7-84c0-58c2eef97c8a_1.png" width="360" alt="Person">
 
 *Person* — Junge Frau im Punk-/Gothic-Stil mit kräftigem Make-up, Lederjacke und reichlich Schmuck und Augmentierungen, sitzend in einer rötlich beleuchteten Underhive-Gasse. Wirkt wie eine Gangerin oder Zivilistin aus den unteren Hive-Ebenen.
 
@@ -1668,7 +1668,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_subject_ha_c259ec59-64be-46ca-898d-feb8df52ac40_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_subject_ha_c259ec59-64be-46ca-898d-feb8df52ac40_1.png" width="360" alt="Person">
 
 *Person* — Ältere Frau mit grauem Haar und einem über Wange und Auge reichenden kybernetischen Implantat, in dunkler, gepanzerter Hightech-Montur. Wirkt wie eine augmentierte Offizierin, Schiffscrew oder Adelige, kühl und autoritär.
 
@@ -1677,7 +1677,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1125.PNG>)
+<img src="IMG_1125.PNG" width="360" alt="Person">
 
 *Person* — Person mit tiefblauer Haut, leuchtend goldenen Augen und reichem Goldschmuck sowie verzierter blauer Robe/Rüstung. Exotische, adelige oder höfische Erscheinung, geheimnisvolle und prunkvolle Stimmung.
 
@@ -1686,7 +1686,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1132.PNG>)
+<img src="IMG_1132.PNG" width="360" alt="Person">
 
 *Person* — Bärtiger Mann mit verspiegelter Sonnenbrille in prunkvoller goldener Rüstung mit Adler- und Totenkopf-Ornamenten vor einer Wüstenkulisse. Wirkt wie ein selbstbewusster Adliger, Rogue Trader oder hochrangiger Würdenträger.
 
@@ -1695,7 +1695,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1134.PNG>)
+<img src="IMG_1134.PNG" width="360" alt="Person">
 
 *Person* — Korpulenter, reich gekleideter Adliger in goldbestickter Robe mit Pelzkragen, Ketten und Siegelring in einer prunkvollen, kerzenbeleuchteten Halle. Wirkt wie ein dekadenter Gouverneur, hoher Verwalter oder Patriarch.
 
@@ -1704,7 +1704,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1135.PNG>)
+<img src="IMG_1135.PNG" width="360" alt="Person">
 
 *Person* — Beleibter, glatzköpfiger Mann in schwerer, verzierter Plattenrüstung mit mechanischem Arm und Streitkolben, im Hintergrund weitere Gewappnete. Wirkt wie ein adliger Haus-Champion oder schwer gepanzerter Würdenträger.
 
@@ -1713,7 +1713,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1145.PNG>)
+<img src="IMG_1145.PNG" width="360" alt="Person">
 
 *Person* — Schlanker älterer Mann mit runder Brille und hochgeschlossener schwarzer Uniform mit silbernen Knöpfen vor einem dunklen Schiffsinterieur. Wirkt wie ein Verwalter, Adept oder hochrangiger Schiffsoffizier mit kühler, intellektueller Ausstrahlung.
 
@@ -1722,7 +1722,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1146.PNG>)
+<img src="IMG_1146.PNG" width="360" alt="Person">
 
 *Person* — Junge Frau mit langem weißem Haar und kleinen Stirn-Tattoos in weißem Pilotenanzug, in einem Cockpit mit Sichtkuppel sitzend. Wirkt wie eine Pilotin oder Schiffscrew-Angehörige mit entschlossenem Blick.
 
@@ -1731,7 +1731,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1153.PNG>)
+<img src="IMG_1153.PNG" width="360" alt="Person">
 
 *Person* — Vornehmer älterer Aristokrat mit weißem Schnurrbart und kunstvoller goldgerahmter Brille, in prunkvoller rot-goldener bestickter Robe mit Juwelenketten und einem großen roten Edelstein-Anhänger. Wirkt wie ein wohlhabender Adliger oder Rogue Trader.
 
@@ -1740,7 +1740,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1154.PNG>)
+<img src="IMG_1154.PNG" width="360" alt="Person">
 
 *Person* — Lachender, fülliger Würdenträger mit gezwirbeltem Schnurrbart und prunkvollem juwelenbesetztem grün-goldenem Dreispitz, geschmückt mit zahllosen Perlenketten und Goldornamenten. Festliche, dekadente Stimmung eines reichen Adligen oder Händlerfürsten.
 
@@ -1749,7 +1749,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1155.PNG>)
+<img src="IMG_1155.PNG" width="360" alt="Person">
 
 *Person* — Rotbärtiger Mann mit kurzem Haar in glänzend weiß-orangefarbener High-Tech-Raumanzug- oder Hardsuit-Rüstung, im Hintergrund weitere Crewmitglieder. Wirkt wie ein Schiffscrew-Mitglied oder Voidsuit-Techniker.
 
@@ -1758,7 +1758,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1161.PNG>)
+<img src="IMG_1161.PNG" width="360" alt="Person">
 
 *Person* — Junge Frau mit schwarzer Augenklappe über einem rot leuchtenden Augmetik-Auge, in schwarzer technischer Kampfrüstung mit roten Akzenten vor industriellem Hintergrund. Wirkt wie eine Söldnerin, Agentin oder Schiffscrew-Kämpferin.
 
@@ -1767,7 +1767,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1165.PNG>)
+<img src="IMG_1165.PNG" width="360" alt="Person">
 
 *Person* — Eleganter Mann mit langem lockigem Haar und Schnurrbart in prunkvoll besticktem dunklem Mantel mit roter Krawatte, hält eine aufwändig verzierte, blau leuchtende Pistole. Wirkt wie ein adliger Duellant oder Rogue Trader.
 
@@ -1776,7 +1776,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1172.PNG>)
+<img src="IMG_1172.PNG" width="360" alt="Person">
 
 *Person* — Frau in weiß-goldener Offiziersuniform mit Schirmmütze und Aquila-Abzeichen, das halbe Gesicht von einer Augmetik-Cyber-Apparatur bedeckt. Wirkt wie eine hochrangige Flottenoffizierin oder Kommandantin.
 
@@ -1785,7 +1785,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1180.PNG>)
+<img src="IMG_1180.PNG" width="360" alt="Person">
 
 *Person* — Grinsender, muskulöser glatzköpfiger Mann mit tätowierten Armen und Narben in abgewetzter Lederschürze über nacktem Oberkörper. Wirkt wie ein Arbeiter, Schmied oder Untergrund-Schläger in dunkler Werkstatt.
 
@@ -1794,7 +1794,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1182.PNG>)
+<img src="IMG_1182.PNG" width="360" alt="Person">
 
 *Person* — Lächelnde Frau in oranger Raumanzug-/Arbeitsmontur mit Helm, Schläuchen und Tragegeschirr in einem technischen Schiffsinneren. Wirkt wie eine Schiffscrew-Angehörige oder Voidfarer-Technikerin.
 
@@ -1803,7 +1803,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1200.PNG>)
+<img src="IMG_1200.PNG" width="360" alt="Person">
 
 *Person* — Mann mit rotem Irokesenschnitt, Gesichtsnarben und schwerer Bewaffnung in einem dunklen Schiffsinneren, finsterer Blick. Wirkt wie ein Söldner, Ganger oder Schiffs-Schütze.
 
@@ -1812,7 +1812,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1202.PNG>)
+<img src="IMG_1202.PNG" width="360" alt="Person">
 
 *Person* — Frau mit halb rasiertem Kopf, rotem Zopf, Halstattoo und nietenbesetzter rot-schwarzer Lederkleidung in einem graffitibedeckten Tunnel. Wirkt wie eine Underhive-Gangerin oder Hive-Zivilistin.
 
@@ -1821,7 +1821,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1204.PNG>)
+<img src="IMG_1204.PNG" width="360" alt="Person">
 
 *Person* — Eine junge Frau mit roten Haaren, Sommersprossen und einem breiten Lächeln, die abgenutzte Arbeits-/Pilotenmontur mit Gurten trägt. Wirkt wie ein verwegenes Crewmitglied oder eine Schiffstechnikerin in bodenständiger Stimmung.
 
@@ -1830,7 +1830,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1205.PNG>)
+<img src="IMG_1205.PNG" width="360" alt="Person">
 
 *Person* — Eine rothaarige Frau mit blutverschmiertem Gesicht und einem roten kybernetischen Augen-Implantat, die abgenutzte Rüstung trägt. Ernste, angeschlagene Stimmung in heruntergekommenem Setting, wirkt wie eine augmentierte Söldnerin oder Crewangehörige.
 
@@ -1839,7 +1839,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1206.PNG>)
+<img src="IMG_1206.PNG" width="360" alt="Person">
 
 *Person* — Eine Frau mit aufwendiger Gesichts-Augmentierung und rot leuchtendem Kybernetik-Auge, in dunkler, hochgeschlossener Uniform mit Adler-Insignien. Wirkt wie eine elegante Verwaltungs- oder Adelsfigur mit kybernetischen Implantaten.
 
@@ -1848,7 +1848,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1264.PNG>)
+<img src="IMG_1264.PNG" width="360" alt="Person">
 
 *Person* — Ein älterer, grauhaariger Mann mit Sonnenbrille und Zigarre in prunkvoller goldener Rüstung mit geflügeltem Totenschädel und Orden. Wirkt wie ein hochdekorierter Offizier, Adliger oder Rogue-Trader-Charakter mit lässig-arroganter Pose im Sonnenlicht.
 
@@ -1857,7 +1857,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1266.PNG>)
+<img src="IMG_1266.PNG" width="360" alt="Person">
 
 *Person* — Eine ältere Frau mit grauem Haar in dunkler Robe mit goldener Stickerei und Aquila-Brosche vor einem prunkvollen Innenraum. Wirkt wie eine vornehme Verwalterin, Adlige oder hochrangige Würdenträgerin mit selbstbewusster Ausstrahlung.
 
@@ -1866,7 +1866,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1268.PNG>)
+<img src="IMG_1268.PNG" width="360" alt="Person">
 
 *Person* — Eine weißhaarige Frau in dunkler Lederkluft mit auffälliger optischer Augmentierung aus mehreren leuchtenden Linsengläsern vor dem Gesicht. Wirkt wie eine Adlige, Verwalterin oder Spezialistin mit visueller Augmentierung.
 
@@ -1875,7 +1875,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1270.PNG>)
+<img src="IMG_1270.PNG" width="360" alt="Person">
 
 *Person* — Älterer, vornehmer Mann mit weißem Bart, runder Brille und rot-schwarzer Robe mit goldenen Amuletten und Würdezeichen. Wirkt wie ein hochrangiger Adliger, Verwalter oder Gelehrter des Imperiums.
 
@@ -1884,7 +1884,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1271.PNG>)
+<img src="IMG_1271.PNG" width="360" alt="Person">
 
 *Person* — Bleicher, kahler Greis mit schwarzen, augenlosen Höhlen, in cremefarbenem Umhang mit goldenen Schließen und einer goldenen Totenmaske auf der Brust, vor goldener Wand thronend. Wirkt wie ein uralter, autoritärer Hochadliger oder Würdenträger.
 
@@ -1893,7 +1893,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1272.PNG>)
+<img src="IMG_1272.PNG" width="360" alt="Person">
 
 *Person* — Junger Mann mit ernstem Blick in einer hochgeschlossenen weißen Uniform mit eingesticktem Schwert-Symbol. Wirkt wie ein Schüler, Novize oder junger Bediensteter im Dienst des Imperiums.
 
@@ -1902,7 +1902,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1300.PNG>)
+<img src="IMG_1300.PNG" width="360" alt="Person">
 
 *Person* — Junge mit kybernetischem rot leuchtendem Augenimplantat und rotem Panzeranzug, der eine große Waffe auf den Betrachter richtet. Warmes Innenraum-Licht, leicht bedrohliche Stimmung - wirkt wie ein junger Kämpfer oder Kindersoldat.
 
@@ -1911,7 +1911,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1321.JPG>)
+<img src="IMG_1321.JPG" width="360" alt="Person">
 
 *Person* — Junge blonde Frau mit geflochtenem Zopf in weiß-goldener, hochgeschlossener Rüstung mit Spitzenkragen und goldenem Medaillon. Wirkt wie eine junge Adlige, Knappin oder Bedienstete von hohem Stand.
 
@@ -1920,7 +1920,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1322.JPG>)
+<img src="IMG_1322.JPG" width="360" alt="Person">
 
 *Person* — Junge Frau mit hochgestecktem Haar und Sommersprossen in einem schwarzen, goldverzierten Gewand mit hohem Stehkragen und goldener Schließe. Düster-elegantes Porträt einer Adligen oder Hofdame.
 
@@ -1929,7 +1929,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1323.JPG>)
+<img src="IMG_1323.JPG" width="360" alt="Person">
 
 *Person* — Frau mit grünen Augen in goldener, reich verzierter Rüstung und goldenem Kopftuch/Helm sowie wehendem Umhang in einer nebligen Steppe. Wirkt wie eine edle Kriegerin, Adlige oder Pilgerin in prunkvoller Montur.
 
@@ -1938,7 +1938,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1325.JPG>)
+<img src="IMG_1325.JPG" width="360" alt="Person">
 
 *Person* — Vermummte Gestalt in rotem Kapuzengewand mit gepanzerter Atemmaske, einem runden Visierauge und technischem Schulterpanzer vor karger Landschaft. Wirkt wie ein Wüsten-Wanderer, Söldner oder Pilger mit Eigenbau-Ausrüstung.
 
@@ -1947,7 +1947,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1400.JPG>)
+<img src="IMG_1400.JPG" width="360" alt="Szene">
 
 *Szene* — Vermummte Gestalten mit Gasmasken und Atemgeräten kaufen an einem nebligen Marktstand mit Obst und Gemüse, im Hintergrund leuchtende Reklametafeln. Verarmte Zivilisten/Schiffscrew in einer toxischen Hive-Welt-Marktszene.
 
@@ -1956,7 +1956,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2059.JPG>)
+<img src="IMG_2059.JPG" width="360" alt="Person">
 
 *Person* — Würdevolles Gemäldeportrait eines älteren grauhaarigen Mannes in schwarzem Gewand mit goldenen Schulterpanzern und Medaillon. Wirkt wie ein imperialer Adliger oder hoher Verwaltungsbeamter.
 
@@ -1965,7 +1965,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2060.JPG>)
+<img src="IMG_2060.JPG" width="360" alt="Person">
 
 *Person* — Junge Frau mit halb rasiertem Undercut und mehreren Halsketten vor dunkler Steinwand in rötlichem Licht. Wirkt wie eine zivile Underhive-Bewohnerin oder Gangmitglied.
 
@@ -1974,7 +1974,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2062.JPG>)
+<img src="IMG_2062.JPG" width="360" alt="Person">
 
 *Person* — Junge Frau mit vernarbtem Gesicht, kybernetischem Schädelimplantat und Kabelanschluss am Kopf in zerschlissener blauer Kleidung vor verfallener Industriekulisse. Wirkt wie eine geschundene Underhive- oder Schiffsarbeiterin.
 
@@ -1983,7 +1983,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2063.JPG>)
+<img src="IMG_2063.JPG" width="360" alt="Person">
 
 *Person* — Frau mit aschfahler, vernarbter Haut und kleinen Schläfenimplantaten in abgenutzter Panzerweste vor rostiger Maschinerie. Wirkt wie eine abgehärtete Schiffscrew- oder Underhive-Arbeiterin.
 
@@ -1992,7 +1992,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2064.JPG>)
+<img src="IMG_2064.JPG" width="360" alt="Person">
 
 *Person* — Ältere, kräftige Frau mit grauem Haar, Gesichtsimplantat und mechanischem Arm steht in einer düsteren, von Ketten und Lampen durchzogenen Werkhalle. Wirkt wie eine Arbeiterin oder Aufseherin im Maschinenraum.
 
@@ -2001,7 +2001,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2065.JPG>)
+<img src="IMG_2065.JPG" width="360" alt="Szene">
 
 *Szene* — Frau mit kybernetischen Schädelimplantaten in glänzendem schwarzem Latexoutfit in einem rot beleuchteten Nachtclub voller Menschen im Hintergrund. Mondäne, dekadente Hive-Welt-Szene.
 
@@ -2010,7 +2010,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2066.JPG>)
+<img src="IMG_2066.JPG" width="360" alt="Szene">
 
 *Szene* — Tätowierte Frau mit Hals-Implantat und kybernetischem Arm in zerschlissener Lederkluft steht in einer düster-orange beleuchteten Taverne voller Gestalten. Underhive-Schmugglerin oder Gangerin in einer Spelunke.
 
@@ -2019,7 +2019,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2067.JPG>)
+<img src="IMG_2067.JPG" width="360" alt="Szene">
 
 *Szene* — Muskulöse Frau mit nassem Haar und Schläfenimplantat steht mit verschränkten Armen in einem rauchigen, neonbeleuchteten Untergrund-Kampfclub mit Zuschauern. Wirkt wie eine Arena-Kämpferin oder Pit-Fighterin der Underhive.
 
@@ -2028,7 +2028,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<movie_still_in_the_style_of_grimdark_40k._Full_body_portrait__64d725d8-7edd-461f-9ca5-2354ed6a8bb9_2.png>)
+<img src="movie_still_in_the_style_of_grimdark_40k._Full_body_portrait__64d725d8-7edd-461f-9ca5-2354ed6a8bb9_2.png" width="360" alt="Person">
 
 *Person* — Porträt einer jungen Frau mit dunklem Haarknoten, juwelenbesetztem Stirnschmuck und schwarzem Lippenstift in einer dunklen, verzierten Rüstung mit Stacheln. Adelig-elegante, leicht bedrohliche Erscheinung vor einem reich verzierten Hintergrund.
 
@@ -2037,7 +2037,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<movie_still_in_the_style_of_grimdark_40k._Full_body_portrait__a8a45c7b-139d-481e-b5b7-d817974b4670_3.png>)
+<img src="movie_still_in_the_style_of_grimdark_40k._Full_body_portrait__a8a45c7b-139d-481e-b5b7-d817974b4670_3.png" width="360" alt="Person">
 
 *Person* — Junge Frau mit hochgebundenem Haar, Stirnschmuck und dunkler, gestachelter Lederrüstung vor einem reich verzierten, industriellen Hintergrund. Wirkt wie eine adelige Kriegerin oder Schiffsoffizierin, ernst und entschlossen.
 
@@ -2046,7 +2046,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<movie_still_in_the_style_of_grimdark_40k._portrait_of_a_frien_b9062265-9ad6-4ba8-9a02-1a083a8d2885_0.png>)
+<img src="movie_still_in_the_style_of_grimdark_40k._portrait_of_a_frien_b9062265-9ad6-4ba8-9a02-1a083a8d2885_0.png" width="360" alt="Person">
 
 *Person* — Porträt eines kahlköpfigen Mannes mit kleinem Stirnkreuz/Narbe und ernstem, müdem Blick in dunkler, gepanzerter Kleidung. Wirkt wie ein erfahrener Offizier, Veteran oder Schiffsbediensteter in düsterer Umgebung.
 
@@ -2057,7 +2057,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 9 · Arbites & Assassinen
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_lean_and_054ded5a-6f21-4bb6-8422-4018a5ea63d8_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_lean_and_054ded5a-6f21-4bb6-8422-4018a5ea63d8_0.png" width="360" alt="Person">
 
 *Person* — Person in einer rissigen, weißen totenkopfartigen Maske mit dunklen Augenhöhlen und grauer Jacke mit hohem Kragen. Düstere, bedrohliche Stimmung; wirkt wie ein Attentäter oder maskierter Killer.
 
@@ -2068,7 +2068,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 10 · Aeldari (Craftworld, Corsairs, Rangers, Farseer)
 
 #### `Name/Ort: ____________________`
-![](<0_2(2).jpeg>)
+<img src="0_2%282%29.jpeg" width="360" alt="Person">
 
 *Person* — Aeldari-Frau mit blasser Haut, spitzen Ohren und stirnseitiger Tätowierung in grüner, fein gearbeiteter Rüstung mit weißem Pelzkragen. Edle, kühle Ausstrahlung vor verwitterter Wand, im Stil einer Craftworld-Aeldari.
 
@@ -2077,7 +2077,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<0_3(2).jpeg>)
+<img src="0_3%282%29.jpeg" width="360" alt="Person">
 
 *Person* — Aeldari-Mann mit spitzen, geschmückten Ohren und glattem dunklem Haar in bronzener, ziselierter Rüstung mit hohem Kragen. Edles, hochmütiges Porträt vor düsterem Hintergrund, im Stil eines Craftworld-Aeldari.
 
@@ -2086,7 +2086,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<0_3(4).jpeg>)
+<img src="0_3%284%29.jpeg" width="360" alt="Person">
 
 *Person* — Blasser Aeldari mit langem hellem Haar und Kapuze in zerschlissenem Umhang, der ein langes, kunstvoll geformtes Scharfschützengewehr anlegt. Düstere, jägerhafte Stimmung im Stil eines Aeldari-Rangers / Pathfinders.
 
@@ -2095,7 +2095,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_beautifu_8736c677-f2c3-41e6-b62f-a6860cdd57d0_1 (1).png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_beautifu_8736c677-f2c3-41e6-b62f-a6860cdd57d0_1%20%281%29.png" width="360" alt="Person">
 
 *Person* — Nahaufnahme einer blassen Frau mit Aeldari-Zügen und feinen Stirnmarkierungen, in eine dunkelgrüne, runenverzierte Kapuze gehüllt. Sie hält eine schlanke weiße Energiewaffe und wirkt vor verschneitem Hintergrund wie eine Ranger- oder Corsair-Scharfschützin.
 
@@ -2104,7 +2104,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_female_e_306824bb-b8f8-4857-ae10-69a6dfed4c70_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_female_e_306824bb-b8f8-4857-ae10-69a6dfed4c70_1.png" width="360" alt="Person">
 
 *Person* — Blasse Frau mit weißem Haar, spitzen Ohren und einer Stirnmarkierung, in schwarz-weißer Hightech-Rüstung in einem technischen Interieur. Wirkt wie eine Aeldari-Kriegerin oder Craftworld-Aspekt.
 
@@ -2113,7 +2113,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_slender__5f790690-877e-46e3-bee1-91fa95bd9abe_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_slender__5f790690-877e-46e3-bee1-91fa95bd9abe_0.png" width="360" alt="Person">
 
 *Person* — Schlanke Frau mit blasser Haut, gelb leuchtenden Augen und Kapuze, die eine schlanke weiße Energiewaffe hält. Wirkt wie eine Aeldari-Ranger- oder Corsair-Scharfschützin.
 
@@ -2122,7 +2122,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_portrait_shot_in_the_style_of_grimdark__376e4806-288b-4223-ac70-fd3a66d97882_1.png>)
+<img src="gosta7024_movie_still_portrait_shot_in_the_style_of_grimdark__376e4806-288b-4223-ac70-fd3a66d97882_1.png" width="360" alt="Person">
 
 *Person* — Schlanke Gestalt mit spitzen Ohren, blasser Haut und durchdringenden grünen Augen, gehüllt in orange-grüne Roben mit feinen Mustern. Eindeutig ein Aeldari, edle und distanzierte Ausstrahlung.
 
@@ -2131,7 +2131,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_portrait_shot_in_the_style_of_grimdark__50dcd6b4-0ad7-49ec-81bf-d887a95dc026_0.png>)
+<img src="gosta7024_movie_still_portrait_shot_in_the_style_of_grimdark__50dcd6b4-0ad7-49ec-81bf-d887a95dc026_0.png" width="360" alt="Person">
 
 *Person* — Kapuzenträger mit blasser Haut und feinen Zügen in grüner Tarn-/Leichtpanzerung, der ein langes Scharfschützengewehr hält. Wirkt wie ein Aeldari Ranger oder Pathfinder, wachsam und verstohlen.
 
@@ -2140,7 +2140,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_portrait_shot_in_the_style_of_grimdark__50dcd6b4-0ad7-49ec-81bf-d887a95dc026_1.png>)
+<img src="gosta7024_movie_still_portrait_shot_in_the_style_of_grimdark__50dcd6b4-0ad7-49ec-81bf-d887a95dc026_1.png" width="360" alt="Person">
 
 *Person* — Kapuzengestalt in grünlicher, organisch wirkender Panzerung mit langem Gewehr in einem dunklen Korridor. Wirkt wie ein Aeldari Ranger oder Wraith-Krieger, kalte und bedrohliche Stimmung.
 
@@ -2149,7 +2149,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_portrait_shot_in_the_style_of_grimdark__cbeb6f9e-01e0-49d9-ba38-6514d0edebd3_1.png>)
+<img src="gosta7024_movie_still_portrait_shot_in_the_style_of_grimdark__cbeb6f9e-01e0-49d9-ba38-6514d0edebd3_1.png" width="360" alt="Person">
 
 *Person* — Schlanke Gestalt mit spitzen Ohren, weißem zurückgekämmtem Haar und blasser Haut in oranger, hochtechnisierter Kleidung mit Halskragen. Eindeutig ein Aeldari, hochmütige und elegante Ausstrahlung.
 
@@ -2158,7 +2158,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1133.PNG>)
+<img src="IMG_1133.PNG" width="360" alt="Person">
 
 *Person* — Junge Frau mit blassen Augen und grüner, kapuzenartiger Robe mit feinen Mustern, eine schlanke weiße Präzisionswaffe haltend. Wirkt wie eine Aeldari-Rangerin oder Scharfschützin in verschneiter Umgebung.
 
@@ -2167,7 +2167,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1139.PNG>)
+<img src="IMG_1139.PNG" width="360" alt="Person">
 
 *Person* — Schlanke Frau mit spitzen Ohren und langem rotem Haar in weiß-grüner, organisch geformter Rüstung. Eindeutig eine Aeldari (Craftworld-Kriegerin) in urbaner Umgebung.
 
@@ -2176,7 +2176,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1228.PNG>)
+<img src="IMG_1228.PNG" width="360" alt="Person">
 
 *Person* — Eine schlanke Frau mit spitzen Ohren, oranger Hochsteckfrisur und glatter grüner Aeldari-Rüstung in einem futuristischen Korridor. Klare Craftworld-Aeldari-Anmutung, elegant und gefährlich.
 
@@ -2185,7 +2185,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1229.PNG>)
+<img src="IMG_1229.PNG" width="360" alt="Person">
 
 *Person* — Nahaufnahme einer Aeldari mit spitzen Ohren, leuchtend orangem Haar und detaillierter grün-roter Rüstung. Craftworld-Aeldari-Kriegerin mit feinen, hochmütigen Zügen.
 
@@ -2194,7 +2194,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1230.PNG>)
+<img src="IMG_1230.PNG" width="360" alt="Person">
 
 *Person* — Eine hochgewachsene Aeldari in dunkelgrüner, hoch aufragender Roben-/Rüstungssilhouette mit Edelsteinen und Umhang vor nebligem Hintergrund. Wirkt wie eine Farseer oder hochrangige Aeldari-Anführerin.
 
@@ -2203,7 +2203,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1231.PNG>)
+<img src="IMG_1231.PNG" width="360" alt="Person">
 
 *Person* — Profil einer blasshäutigen Aeldari mit spitzen Ohren und schlanker grün-goldener Rüstung in grünlichem Licht. Edle, kühle Craftworld-Aeldari-Erscheinung.
 
@@ -2212,7 +2212,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1427.JPG>)
+<img src="IMG_1427.JPG" width="360" alt="Person">
 
 *Person* — Elfenhafte Kriegerin mit weißer Frisur, spitzen Ohren, violetten Augen und Sommersprossen in fein verzierter schwarzer Rüstung. Wirkt wie eine Aeldari aus einem Craftworld vor dunklem Hintergrund.
 
@@ -2223,7 +2223,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 11 · Harlequins
 
 #### `Name/Ort: ____________________`
-![](<0_1(1).jpeg>)
+<img src="0_1%281%29.jpeg" width="360" alt="Person">
 
 *Person* — Aeldari-Harlekin in buntem Rauten-Kostüm aus Orange, Blau und Weiß mit goldener Maske und Narrenkappe, in dynamischer Kampfpose mit Klinge. Verspielt-tödliche Stimmung vor unscharfem Hintergrund.
 
@@ -2232,7 +2232,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<Female_Eldar_harlequin_with_a_wide_exuberant_grin_and_a_direc_91886a3f-4da7-4984-83cd-79bf644b2796_3.png>)
+<img src="Female_Eldar_harlequin_with_a_wide_exuberant_grin_and_a_direc_91886a3f-4da7-4984-83cd-79bf644b2796_3.png" width="360" alt="Person">
 
 *Person* — Weiblicher Eldar-Harlekin mit weißer Haut, gelben Augen und breitem, verschmitztem Grinsen, in einem schillernden Rauten-Kostüm in Blau, Gold und Weiß. Verspielt-elegante Harlequin-Anmutung der Aeldari.
 
@@ -2241,7 +2241,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1162.PNG>)
+<img src="IMG_1162.PNG" width="360" alt="Person">
 
 *Person* — Akrobatische Figur mit weiß-roter, jokerhaft bemalter Maske und buntem, kontrastreichem Kampfanzug in dynamischer Pose vor funkenstiebender Schlacht. Stark an einen Aeldari-Harlequin erinnernd.
 
@@ -2252,7 +2252,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 12 · Drukhari (Dark Eldar)
 
 #### `Name/Ort: ____________________`
-![](<0_2(3).jpeg>)
+<img src="0_2%283%29.jpeg" width="360" alt="Person">
 
 *Person* — Dunkle-Eldar-Kriegerin mit gespikten Implantaten an Stirn und Wange, dunklem Make-up und Piercings in violett-lederner Rüstung. Grausam-elegante Drukhari-Stimmung in düsterem Licht.
 
@@ -2261,7 +2261,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<0_3(3).jpeg>)
+<img src="0_3%283%29.jpeg" width="360" alt="Person">
 
 *Person* — Hagerer Eldar-artiger Mann mit spitzen Ohren, kybernetischen Kopfimplantaten und Narben im Gesicht in dunkler, violett akzentuierter Rüstung. Kalte, grausame Ausstrahlung im Stil eines Drukhari.
 
@@ -2270,7 +2270,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1156.PNG>)
+<img src="IMG_1156.PNG" width="360" alt="Person">
 
 *Person* — Bleichhäutiger, dämonisch wirkender Krieger mit spitzen Ohren, gelben Augen und schwarzen Sprenkeln, gekleidet in fein verzierte dunkle Plattenrüstung mit barocken Gravuren und einer kunstvollen Waffe. Erinnert an einen Drukhari- oder dunklen Eldar-Kämpfer.
 
@@ -2279,7 +2279,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1426.JPG>)
+<img src="IMG_1426.JPG" width="360" alt="Person">
 
 *Person* — Bleiche Frau mit weißem Haar, violett leuchtenden Augen und schwarzer, organisch-stachliger Rüstung mit hohem Kragen und hornartigen Auswüchsen. Düstere, elegante Erscheinung im Stil der Drukhari/Dark Eldar.
 
@@ -2288,7 +2288,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2068.JPG>)
+<img src="IMG_2068.JPG" width="360" alt="Person">
 
 *Person* — Bleicher, spitzohriger Krieger mit langem schwarzem Haar in stachelbewehrter dunkelroter Rüstung vor verzierter Architektur. Erscheinung passt zu einem Drukhari (Dark Eldar) Aristokraten.
 
@@ -2297,7 +2297,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2069.JPG>)
+<img src="IMG_2069.JPG" width="360" alt="Person">
 
 *Person* — Bleicher, spitzohriger Aristokrat mit hochgekämmtem Haar in stacheliger, dunkelroter Rüstung in einer gotischen Halle. Wirkt wie ein hochmütiger Drukhari-Adliger.
 
@@ -2306,7 +2306,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2070.JPG>)
+<img src="IMG_2070.JPG" width="360" alt="Person">
 
 *Person* — Spitzohriges, vernarbtes Wesen mit aufgesetztem Grinsen, vernähter Haut und in den Körper gesteckten leuchtenden Injektoren/Spritzen. Wirkt wie ein Drukhari-Haemonculus oder Folterkünstler.
 
@@ -2315,7 +2315,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2071.JPG>)
+<img src="IMG_2071.JPG" width="360" alt="Person">
 
 *Person* — Hageres, spitzohriges Wesen mit vernähter Haut, scharfen Zähnen und blutgefüllten Injektoren am Kopf in zerschlissener Lederschürze. Klar als Drukhari-Haemonculus oder Folterspezialist erkennbar.
 
@@ -2324,7 +2324,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2072.JPG>)
+<img src="IMG_2072.JPG" width="360" alt="Person">
 
 *Person* — Weisshaarige, spitzohrige Kriegerin mit roten Augen, gold-spitzen Zähnen und stacheliger, blutbespritzter Silberrüstung mit grausamem Lächeln. Wirkt wie eine sadistische Drukhari-Kriegerin.
 
@@ -2333,7 +2333,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2073.JPG>)
+<img src="IMG_2073.JPG" width="360" alt="Person">
 
 *Person* — Nahaufnahme einer bleichen, spitzohrigen Drukhari-Kriegerin mit grausam-irrem Lächeln, blutverschmiertem Mund und blutigen Tränenspuren. Sie trägt einen kunstvoll gravierten, gehörnten Helm und schwarze Dark-Eldar-Lederrüstung, die Stimmung ist sadistisch und bedrohlich.
 
@@ -2342,7 +2342,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2074.JPG>)
+<img src="IMG_2074.JPG" width="360" alt="Person">
 
 *Person* — Porträt einer weißhaarigen, spitzohrigen Dark-Eldar-Frau mit graublasser Haut und blutverschmierten Lippen, die diabolisch grinst. Sie trägt ein silbern verziertes Stirndiadem und filigrane Drukhari-Rüstung, raubtierhaft und verführerisch zugleich.
 
@@ -2351,7 +2351,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2075.JPG>)
+<img src="IMG_2075.JPG" width="360" alt="Person">
 
 *Person* — Extreme Nahaufnahme einer Drukhari-Hexe mit blutroten Augen, blutbeschmiertem Gesicht und einem breiten Grinsen voller spitzer Raubtierzähne. Sie trägt einen roten, gepanzerten Kopfschmuck, die Stimmung ist grausam und wahnsinnig.
 
@@ -2360,7 +2360,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_2076.JPG>)
+<img src="IMG_2076.JPG" width="360" alt="Person">
 
 *Person* — Porträt einer spitzohrigen, weißhaarigen Dark-Eldar-Frau mit blasser Haut, kleiner Krone und blutigem, breitem Lächeln. Sie trägt eine bronzene Schulterpanzerung, die Atmosphäre ist düster und raubtierhaft.
 
@@ -2369,7 +2369,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<movie_still_in_the_style_of_grimdark_40k._Full_body_portrait__6bb4d1ad-cca1-4104-8427-b3f9c02dffa2_0.png>)
+<img src="movie_still_in_the_style_of_grimdark_40k._Full_body_portrait__6bb4d1ad-cca1-4104-8427-b3f9c02dffa2_0.png" width="360" alt="Person">
 
 *Person* — Schlanke, kahlköpfige Frau in glänzend dunkelroter Rüstung mit klingenartigen, gehörnten Auswüchsen, die einen langen Klingenarm hebt. Wirkt wie eine Drukhari-Kriegerin oder Chaos-affine Gestalt in einer düsteren Halle.
 
@@ -2378,7 +2378,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<movie_still_in_the_style_of_grimdark_40k._Helpful_amused_druk_d377fdc5-b1a9-4b08-90fe-5f2d5c397e24_1.png>)
+<img src="movie_still_in_the_style_of_grimdark_40k._Helpful_amused_druk_d377fdc5-b1a9-4b08-90fe-5f2d5c397e24_1.png" width="360" alt="Person">
 
 *Person* — Vernarbte, bleiche Gestalt mit irrem Lächeln, umgeben von grün leuchtenden Flüssigkeitsbehältern und Schläuchen, in einer blutbefleckten Lederschürze. Wirkt wie ein wahnsinniger Drukhari-Haemonculus in einem makabren Labor.
 
@@ -2389,7 +2389,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 13 · Necrons
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_closeup_po_1821b59f-b3fd-4d08-85da-55becb118823_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_closeup_po_1821b59f-b3fd-4d08-85da-55becb118823_1.png" width="360" alt="Person">
 
 *Person* — Nahaufnahme eines metallischen Schädelgesichts mit gold-glühenden Augen, ägyptisch anmutenden Ornamenten und schwarzer Kapuze. Klar necronisch wirkender Konstrukt-Charakter (Necron Lord / Cryptek).
 
@@ -2398,7 +2398,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_closeup_po_386657ac-e9ca-481a-b9e0-01931b82bce2_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_closeup_po_386657ac-e9ca-481a-b9e0-01931b82bce2_0.png" width="360" alt="Person">
 
 *Person* — Nahaufnahme eines silbern-metallischen Schädelkopfes mit grün leuchtenden Augen, goldenen Verzierungen und kleinem Totenkopf-Emblem an der Stirn. Eindeutig ein Necron in prunkvoller Architekturkulisse.
 
@@ -2407,7 +2407,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_closeup_po_7bcd0c47-2cc3-43af-8f2a-894039006cc4_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_closeup_po_7bcd0c47-2cc3-43af-8f2a-894039006cc4_0.png" width="360" alt="Person">
 
 *Person* — Nahaufnahme eines schlanken, schwarz-metallischen Skelett-Androiden mit grün leuchtenden Augen und einem totenschädelartigen Gesicht. Wirkt wie ein Necron-Krieger, kalt und bedrohlich in dunkler Umgebung.
 
@@ -2416,7 +2416,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_closeup_po_988c07ef-02da-4e80-8bc8-b351e269a306_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_closeup_po_988c07ef-02da-4e80-8bc8-b351e269a306_0.png" width="360" alt="Person">
 
 *Person* — Nahaufnahme eines metallischen Totenkopf-Androiden mit goldener Stirnverzierung und grün leuchtenden Augen. Necron-artige Anmutung, kalt und prunkvoll-bedrohlich.
 
@@ -2425,7 +2425,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_closeup_po_988c07ef-02da-4e80-8bc8-b351e269a306_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_closeup_po_988c07ef-02da-4e80-8bc8-b351e269a306_1.png" width="360" alt="Person">
 
 *Person* — Seitliche Nahaufnahme eines schädelförmigen Maschinen-Kopfes aus dunklem Metall und Gold mit grün glühenden Augenhöhlen. Wirkt wie ein Necron, von Zahnrädern und Mechanik umgeben.
 
@@ -2434,7 +2434,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_closeup_po_e6f0e892-1052-4a26-bbb9-fe86f537f8b3_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_closeup_po_e6f0e892-1052-4a26-bbb9-fe86f537f8b3_2.png" width="360" alt="Person">
 
 *Person* — Nahaufnahme eines gold-schwarzen Maschinenschädels mit grün leuchtendem Auge, im Profil. Necron-artige Reihe gleichartiger Figuren, prunkvoll und tot wirkend.
 
@@ -2443,7 +2443,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1151.PNG>)
+<img src="IMG_1151.PNG" width="360" alt="Szene">
 
 *Szene* — Alter Mann mit weißem Bart und blauen Augen in heller Robe, hinter ihm ein metallischer Schädel-Roboter mit rot glühenden Augen. Wirkt wie ein Prophet oder Ältester neben einem Necron-artigen oder kybernetischen Schädelwesen, unheilvolle Stimmung.
 
@@ -2452,7 +2452,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1176.PNG>)
+<img src="IMG_1176.PNG" width="360" alt="Person">
 
 *Person* — Hagere, kahle humanoide Gestalt mit bläulich-grauer Haut, leuchtend weißen Augen und in den Schädel eingelassenen Kabeln/Implantaten, unheimlich grinsend. Erinnert an einen kybernetisch umgewandelten Wirt, Necron-artiges Wesen oder Servitor.
 
@@ -2461,7 +2461,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1305.JPG>)
+<img src="IMG_1305.JPG" width="360" alt="Szene">
 
 *Szene* — Zwei kleine Silhouetten stehen am oberen Ende einer Treppe vor einem riesigen, grün leuchtenden Necron-Portal mit kreisförmiger Glyphe in einer Felshöhle. Düster-mystische Stimmung einer uralten Necron-Anlage.
 
@@ -2470,7 +2470,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1318.JPG>)
+<img src="IMG_1318.JPG" width="360" alt="Person">
 
 *Person* — Skelettartige Metallkreatur mit grün leuchtenden Augen, langen Klauen und Wirbelsäulen-Schweif, schwebend im Nebel. Eindeutig ein Necron-Konstrukt (Wraith/Flayed-One-artig) in bedrohlicher Pose.
 
@@ -2479,7 +2479,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1327.JPG>)
+<img src="IMG_1327.JPG" width="360" alt="Person">
 
 *Person* — Maskenhaftes Metallgesicht mit grün leuchtenden Augen, grünem Stirnjuwel und reich gravierter, gehörnter Helmkrone. Wirkt wie ein Necron-Lord oder uraltes Konstrukt mit ägyptisch-archaischer Ästhetik.
 
@@ -2488,7 +2488,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1330.JPG>)
+<img src="IMG_1330.JPG" width="360" alt="Person">
 
 *Person* — Schädelartiger Metallkopf mit grün leuchtenden Augenhöhlen, gepanzerter Helmplatte und kabelartigen Strängen am Hals. Eindeutig ein Necron-Krieger/Konstrukt in grünlich-düsterem Ambiente.
 
@@ -2499,7 +2499,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 14 · Chaos / Death Guard / Nurgle / Kultisten / Dämonen
 
 #### `Name/Ort: ____________________`
-![](<0_0(1).jpeg>)
+<img src="0_0%281%29.jpeg" width="360" alt="Person">
 
 *Person* — Älterer, narbiger Krieger mit langem grauem Haar in rosafarbener, korrodierter Powerrüstung mit Schläuchen und Spikes, im Stil der Emperor's Children / Chaos Space Marines. Düstere, dekadente Stimmung mit Tränennarben unter dem Auge.
 
@@ -2508,7 +2508,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<6B070D3C-2379-4765-B79B-0BC7483550FD.png>)
+<img src="6B070D3C-2379-4765-B79B-0BC7483550FD.png" width="360" alt="Person">
 
 *Person* — Brutaler Krieger in dreckiger, knochenfarbener Power-Armor mit vernarbtem, blutverschmiertem Gesicht, schwarzer Haarmähne und Schädeln an der Rüstung. Wirkt wie ein Chaos-Marine oder Renegat in verkommener, bedrohlicher Aufmachung.
 
@@ -2517,7 +2517,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_httpss.mj.run6iKc9UGQBKU_httpss.mj.run6I8AEDwSTTo_mov_2e66eba6-8127-4fa9-8d0e-598dc54cc889.png>)
+<img src="gosta7024_httpss.mj.run6iKc9UGQBKU_httpss.mj.run6I8AEDwSTTo_mov_2e66eba6-8127-4fa9-8d0e-598dc54cc889.png" width="360" alt="Person">
 
 *Person* — Hageres, einäugiges Mutantenwesen mit gehörntem Kopf, fauligem Fleisch und schwärenden Wunden, umgeben von Fliegen in einer düsteren Halle. Eindeutig eine Nurgle-Kreatur oder Chaos-Mutant.
 
@@ -2526,7 +2526,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_httpss.mj.runkm2nCGkXhAg_movie_still_in_the_style_of__b8886b76-292c-4e47-925e-c388b36053c4.png>)
+<img src="gosta7024_httpss.mj.runkm2nCGkXhAg_movie_still_in_the_style_of__b8886b76-292c-4e47-925e-c388b36053c4.png" width="360" alt="Person">
 
 *Person* — Dämonisches, gehörntes Wesen mit glühend roten Augen und brennend-glühender, gepanzerter Haut vor einem Flammenhintergrund. Eindeutig ein Chaos-Dämon.
 
@@ -2535,7 +2535,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_pale_pla_b4731acc-4a0f-4885-896e-20834af0e574_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_pale_pla_b4731acc-4a0f-4885-896e-20834af0e574_1.png" width="360" alt="Person">
 
 *Person* — Bleiches, vernarbtes und blutverschmiertes Gesicht hinter einer korrodierten Gasmaske mit Schläuchen, in rostiger schwerer Rüstung. Krankhaft-verfallene Stimmung; wirkt wie ein Nurgle-/Death-Guard-Pestkrieger oder Chaos-Kultist.
 
@@ -2544,7 +2544,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40k_portrait_s_2a035eb8-2a96-4651-ae1e-a3d17d03e137_0.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40k_portrait_s_2a035eb8-2a96-4651-ae1e-a3d17d03e137_0.png" width="360" alt="Person">
 
 *Person* — Aufgedunsener, grinsender Mann mit fauliger Stirnwunde in verrosteter, blassgrüner Rüstung mit Totenkopf-Verzierungen. Deutliche Nurgle-/Death-Guard-Anmutung, krank und verdorben.
 
@@ -2553,7 +2553,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_Movie_still_in_the_style_of_grimdark_40k_portrait_s_497ab067-c15f-458c-91a4-0b9c0663ec27_3.png>)
+<img src="gosta7024_Movie_still_in_the_style_of_grimdark_40k_portrait_s_497ab067-c15f-458c-91a4-0b9c0663ec27_3.png" width="360" alt="Person">
 
 *Person* — Bedrohlicher Chaos Space Marine mit grauer Haut, rot glühenden Augen und bestachelter, rot-dunkler Rüstung mit Chaos-Stern. Finster und verdorben wirkend.
 
@@ -2562,7 +2562,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1396.JPG>)
+<img src="IMG_1396.JPG" width="360" alt="Person">
 
 *Person* — Nahaufnahme einer dämonischen, hexenartigen Kreatur mit bleicher Haut, geweihartigen Auswüchsen am Kopf und violett leuchtenden Augen. Lange schwarze Krallenhände und bedrohliche Mimik in kaltblauem Licht deuten auf einen Chaos-Dämon oder Mutanten.
 
@@ -2571,7 +2571,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1404.JPG>)
+<img src="IMG_1404.JPG" width="360" alt="Person">
 
 *Person* — Kahlköpfiger Krieger mit grauer Haut, glühend orangen Augen und korrupten Adern im Gesicht, in schwarz-goldener Rüstung mit stachligen Schulterplatten, Ketten und achtzackigem Chaosstern-Symbol. Ein Chaos Space Marine, bedrohlich und finster.
 
@@ -2580,7 +2580,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1405.JPG>)
+<img src="IMG_1405.JPG" width="360" alt="Person">
 
 *Person* — Jünglingshafte, bleiche Gestalt mit langem weißem Haar in violett-goldener Powerarmor mit achtzackigem Chaosstern auf der Brust. Wirkt wie ein Chaos-Champion/Verräter-Marine, kalte, hochmütige Aura.
 
@@ -2589,7 +2589,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1406.JPG>)
+<img src="IMG_1406.JPG" width="360" alt="Person">
 
 *Person* — Bleicher junger Krieger mit langem hellem Haar und violett leuchtenden Augen in lila-goldener verzierter Rüstung mit Chaosstern-Symbol. Chaos-Champion oder Hexer mit unheimlicher, übernatürlicher Ausstrahlung.
 
@@ -2598,7 +2598,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1407.JPG>)
+<img src="IMG_1407.JPG" width="360" alt="Person">
 
 *Person* — Grimmiger, bärtiger Krieger mit Irokesenschnitt, vernarbtem Gesicht und rot glühenden Augen, gepanzert mit einem roten Schild voller Chaos-Sterne und Stacheln. Ein barbarischer Chaos-Berserker/Kultist, brutale Stimmung.
 
@@ -2607,7 +2607,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<movie_still_in_the_style_of_grimdark_40k._portrait_of_an_evil_ca19caf4-f46a-4d2d-90b3-565d82c7dc72_1.png>)
+<img src="movie_still_in_the_style_of_grimdark_40k._portrait_of_an_evil_ca19caf4-f46a-4d2d-90b3-565d82c7dc72_1.png" width="360" alt="Person">
 
 *Person* — Kahlköpfiger Krieger in glänzend roter, dornen- und stachelbesetzter Rüstung mit Herz-Motiv, der eine große Waffe trägt. Düstere, bedrohliche Erscheinung mit Chaos-Anklängen.
 
@@ -2616,7 +2616,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<movie_still_in_the_style_of_grimdark_40k._portrait_of_an_evil_ea35072e-a56b-4092-8ff5-cbf2d9990b5e_1.png>)
+<img src="movie_still_in_the_style_of_grimdark_40k._portrait_of_an_evil_ea35072e-a56b-4092-8ff5-cbf2d9990b5e_1.png" width="360" alt="Person">
 
 *Person* — Bleicher, kahlköpfiger Krieger in roter, organisch-stacheliger Rüstung mit Herz-Symbol, der ein schweres Geschütz hält. Bedrohlich und kalt wirkende Chaos-/Dämonengestalt vor dunklem Hintergrund.
 
@@ -2625,7 +2625,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<movie_still_in_the_style_of_grimdark_40k._Slender_Tall_male_d_20c16907-4d89-44b6-a556-3671fe6f37f5_2.png>)
+<img src="movie_still_in_the_style_of_grimdark_40k._Slender_Tall_male_d_20c16907-4d89-44b6-a556-3671fe6f37f5_2.png" width="360" alt="Person">
 
 *Person* — Porträt einer hochgewachsenen Gestalt in glänzend schwarzer, gehörnter Rüstung mit rot leuchtenden Spalten und einem dämonisch geformten Helm/Gesichtsschutz. Finstere, bedrohliche Chaos-Lord-Erscheinung vor dunklem Hintergrund.
 
@@ -2636,7 +2636,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 15 · Orte, Schiffe, Landschaften, Architektur
 
 #### `Name/Ort: ____________________`
-![](<02c5ce34-5ebb-4e9c-a4ea-44e81622a3cd.png>)
+<img src="02c5ce34-5ebb-4e9c-a4ea-44e81622a3cd.png" width="360" alt="Ort">
 
 *Ort* — Neblige, düstere Landschaft mit zwei massiven, monolithischen Türmen oder Festungsstrukturen mit rot leuchtenden Augen/Lichtern, zu denen zwei winzige Figuren auf einem Pfad gehen. Bedrohliche, einsame Sci-Fi-Atmosphäre.
 
@@ -2645,7 +2645,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_0362c667-ee5c-443c-a253-7cbbdbdee6a8_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_0362c667-ee5c-443c-a253-7cbbdbdee6a8_0.png" width="360" alt="Ort">
 
 *Ort* — Dunkler, feuchter Tunnel oder Abwasserkanal mit Schutt und stehendem Wasser, in der Tiefe eine schwach beleuchtete Öffnung. Düstere unterirdische Architektur als Schauplatz.
 
@@ -2654,7 +2654,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_2644b06a-19eb-4c3c-b92e-f8a0260caa5c_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_2644b06a-19eb-4c3c-b92e-f8a0260caa5c_0.png" width="360" alt="Szene">
 
 *Szene* — Verschneite, nebelige Industriestadt mit Gestalten in Mänteln und einem großen Fahrzeug/Panzer mit rot leuchtendem Auge; im Vordergrund eine bewaffnete Figur von hinten. Düstere Hive-/Frontwelt-Szene.
 
@@ -2663,7 +2663,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_36dd3c3f-6407-4e4a-aa1d-ccc0b9b7d739_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_36dd3c3f-6407-4e4a-aa1d-ccc0b9b7d739_0.png" width="360" alt="Ort">
 
 *Ort* — Eine riesige, neblige Industrie- oder Hangarhalle mit gewölbtem Tunneleingang, Kränen und gelben Maschinen. Menschenleerer, düster-industrieller Innenraum eines Schiffs oder einer Anlage.
 
@@ -2672,7 +2672,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_36dd3c3f-6407-4e4a-aa1d-ccc0b9b7d739_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_36dd3c3f-6407-4e4a-aa1d-ccc0b9b7d739_2.png" width="360" alt="Ort">
 
 *Ort* — Luftaufnahme eines gewaltigen, dicht detaillierten Raumschiffs mit glühenden orangefarbenen Triebwerken und Lichtern in grünlichem Nebel. Ein imperialer Kreuzer oder Frachter im Orbit/Dock.
 
@@ -2681,7 +2681,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_5f82ac25-90a0-4d28-8233-592d01ef7a44_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_5f82ac25-90a0-4d28-8233-592d01ef7a44_0.png" width="360" alt="Szene">
 
 *Szene* — Ein klobiges, abgenutztes Transportraumschiff fliegt mit glühendem Triebwerk durch goldgelbe Wolken. Imperialer Frachter oder Lander im Anflug.
 
@@ -2690,7 +2690,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_5f82ac25-90a0-4d28-8233-592d01ef7a44_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_5f82ac25-90a0-4d28-8233-592d01ef7a44_2.png" width="360" alt="Szene">
 
 *Szene* — Eine in rot-goldene Robe gehüllte Gestalt steht vor einem havarierten, rostigen Raumschiff in verschneiter Ödnis. Stimmungsvolle Szene mit Pilger- oder Reisenden-Anmutung vor einem Wrack.
 
@@ -2699,7 +2699,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_698767ae-8158-44d9-9ec3-7f9f7551b825_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_698767ae-8158-44d9-9ec3-7f9f7551b825_2.png" width="360" alt="Szene">
 
 *Szene* — Drei Gestalten in gelben Schutzanzügen mit Helmen stehen vor einem riesigen abgestürzten Raumschiff mit rotem Markierungskreis im Nebel. Bergungs- oder Erkundungsszene auf einer toten Welt.
 
@@ -2708,7 +2708,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_6ea6107d-0902-4759-9e90-e8b5c90e2bcc_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_6ea6107d-0902-4759-9e90-e8b5c90e2bcc_0.png" width="360" alt="Szene">
 
 *Szene* — Drei in rote Roben gehüllte Reisende blicken auf einen gewaltigen gepanzerten Koloss oder ein Wrackfahrzeug im dichten Nebel einer Schlammwüste. Bedrohlich-trostlose Begegnungsszene.
 
@@ -2717,7 +2717,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_9cae7e01-f9c2-4b7b-abf4-fda703dc31e3_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_9cae7e01-f9c2-4b7b-abf4-fda703dc31e3_0.png" width="360" alt="Ort">
 
 *Ort* — Cockpit/Kommandobrücke eines kleinen Raumschiffs mit Konsolen, Reglern und Sicht durch ein Fenster ins All. Detailreicher, abgenutzter Innenraum im Industrie-Look.
 
@@ -2726,7 +2726,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_9cae7e01-f9c2-4b7b-abf4-fda703dc31e3_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_9cae7e01-f9c2-4b7b-abf4-fda703dc31e3_1.png" width="360" alt="Ort">
 
 *Ort* — Innenraum einer Raumkapsel mit roten Sitzreihen und einem runden Bullauge, durch das ein Planet zu sehen ist. Passagier- oder Mannschaftskabine eines Raumschiffs.
 
@@ -2735,7 +2735,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_9cae7e01-f9c2-4b7b-abf4-fda703dc31e3_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_9cae7e01-f9c2-4b7b-abf4-fda703dc31e3_2.png" width="360" alt="Ort">
 
 *Ort* — Enge Schlafkabine in einem Raumschiff mit orangefarbenem Bett unter einem großen runden Bullauge, umgeben von Konsolen. Wohnkoje einer Schiffscrew.
 
@@ -2744,7 +2744,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_9cae7e01-f9c2-4b7b-abf4-fda703dc31e3_3.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_9cae7e01-f9c2-4b7b-abf4-fda703dc31e3_3.png" width="360" alt="Ort">
 
 *Ort* — Geräumiges orangefarbenes Cockpit eines Raumschiffs mit Doppelsteuerstand, Konsolen und Panoramafenster, durch das eine Berglandschaft sichtbar ist. Gut erhaltener, technischer Innenraum.
 
@@ -2753,7 +2753,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_bb177659-dffd-410f-9e08-0f3297a24045_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_bb177659-dffd-410f-9e08-0f3297a24045_0.png" width="360" alt="Szene">
 
 *Szene* — Mehrere kapuzentragende Gestalten stehen über einem Wolkenmeer und blicken auf einen gewaltigen, sich aufragenden Horizont/Megastruktur im goldenen Dunst. Epische, andächtige Aussichtsszene.
 
@@ -2762,7 +2762,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_bf4092c2-65c6-45dd-9361-5d5a5301cb4f_0.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_bf4092c2-65c6-45dd-9361-5d5a5301cb4f_0.png" width="360" alt="Ort">
 
 *Ort* — Regennasse, neblige Hive-Stadt-Straße bei Nacht mit Hochhäusern, gelben Lichtern und winzigen Figuren. Düstere, cyberpunkartige Großstadtszene im 40k-Stil.
 
@@ -2771,7 +2771,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_bf4092c2-65c6-45dd-9361-5d5a5301cb4f_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_bf4092c2-65c6-45dd-9361-5d5a5301cb4f_1.png" width="360" alt="Ort">
 
 *Ort* — Grünlich beleuchtete, nasse Industrieschlucht zwischen massiven Gebäuden mit Brücke und parkendem Fahrzeug. Trostloser, düsterer Unterstadt-Bezirk einer Hive-Welt.
 
@@ -2780,7 +2780,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_bf4092c2-65c6-45dd-9361-5d5a5301cb4f_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_bf4092c2-65c6-45dd-9361-5d5a5301cb4f_2.png" width="360" alt="Ort">
 
 *Ort* — Verfallene Industrieanlage mit Rohren, Tanks und Türmen im grünlichen Nebel, umgeben von Schutt. Verlassene oder vergiftete Fabrik-/Manufactorum-Kulisse.
 
@@ -2789,7 +2789,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_bf4092c2-65c6-45dd-9361-5d5a5301cb4f_3.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_40k_movi_bf4092c2-65c6-45dd-9361-5d5a5301cb4f_3.png" width="360" alt="Ort">
 
 *Ort* — Tiefe, nebelverhangene Industrieschlucht mit hohen verrosteten Gebäuden, Brücken und vereinzelten Lichtern. Klaustrophobische Unterstadt- oder Manufactorum-Tiefe.
 
@@ -2798,7 +2798,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_dramatic_u_996af3cd-fff3-4218-a983-5b498c219f86.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_dramatic_u_996af3cd-fff3-4218-a983-5b498c219f86.png" width="360" alt="Ort">
 
 *Ort* — Düstere Landschaft mit einer monolithischen, säulenartigen Felsformation oder Festung, die aus einem nebligen, kahlen Hügel ragt, mit glühendem orangefarbenem Tor/Lava am Fuß. Atmosphärisches, bedrohliches Setting.
 
@@ -2807,7 +2807,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_landing__255f5483-213b-4b2e-87d0-520615a1f90c_3.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_landing__255f5483-213b-4b2e-87d0-520615a1f90c_3.png" width="360" alt="Ort">
 
 *Ort* — Weißes, schlankes Shuttle/Landungsschiff mit rotem Emblem in einem Hangar, daneben gepanzerte Soldaten in heller Rüstung. Industrielles Raumschiff-Setting.
 
@@ -2816,7 +2816,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_a_landing__32149490-6979-465b-9141-87a7e6567838_1.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_a_landing__32149490-6979-465b-9141-87a7e6567838_1.png" width="360" alt="Ort">
 
 *Ort* — Verwittertes weißes Transport-/Landungsschiff mit rotem Punkt-Emblem in einem nebligen Tunnel-Hangar, davor zwei gepanzerte Soldaten in heller Rüstung. Atmosphärisches Ankunfts-Setting.
 
@@ -2825,7 +2825,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_inside_a_v_218ad0a6-1431-43d8-825c-44665a39643c_2.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_inside_a_v_218ad0a6-1431-43d8-825c-44665a39643c_2.png" width="360" alt="Ort">
 
 *Ort* — Großer Hangar mit einem weißen, schwer beladenen Raumschiff/Shuttle mit Totenkopf-Emblem und glühenden roten Triebwerken. Zwei Space Marines in weißer Rüstung blicken auf das Schiff. Industrielle Schiffswerft-Atmosphäre.
 
@@ -2834,7 +2834,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<gosta7024_movie_still_in_the_style_of_grimdark_40k_wide_angle_01008ed4-7dd6-44e7-85b8-f7367cc4c93f_3.png>)
+<img src="gosta7024_movie_still_in_the_style_of_grimdark_40k_wide_angle_01008ed4-7dd6-44e7-85b8-f7367cc4c93f_3.png" width="360" alt="Ort">
 
 *Ort* — Weißes Sturmboot bzw. kleines Raumschiff mit roten Markierungen in einem riesigen, düsteren Hangar; davor stehen weiß gepanzerte Soldaten. Industrielle, militärische Atmosphäre eines Schiffs- oder Stützpunkt-Docks.
 
@@ -2843,7 +2843,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1303.JPG>)
+<img src="IMG_1303.JPG" width="360" alt="Ort">
 
 *Ort* — Blick aus einem Fahrzeug-/Schiffsfenster auf eine gewaltige pilzförmige Turmstruktur über einer staubigen Wüstenindustrie-Ebene. Konsolen mit oranger Anzeige im Vordergrund - eine imperiale Industrie- oder Förderanlage.
 
@@ -2852,7 +2852,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1304.JPG>)
+<img src="IMG_1304.JPG" width="360" alt="Ort">
 
 *Ort* — Orbitalansicht eines kargen, rötlich-braunen Wüstenplaneten mit hell aufgehender Sonne über dem Horizont und Sternenfeld. Stimmungsvolle Weltraumlandschaft eines unwirtlichen Welt.
 
@@ -2861,7 +2861,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1306.JPG>)
+<img src="IMG_1306.JPG" width="360" alt="Ort">
 
 *Ort* — Elegantes Raumschiff mit ausgefahrenen, segelartigen Solarsegeln gleitet durch einen farbenprächtigen rot-türkisen Nebel. Wirkt wie eine Aeldari- oder edle Rogue-Trader-Yacht im Weltraum.
 
@@ -2870,7 +2870,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<IMG_1394.JPG>)
+<img src="IMG_1394.JPG" width="360" alt="Ort">
 
 *Ort* — Weitläufige Stadtlandschaft mit massiven gotischen Kuppelbauten und Türmen an einer Küste, durchzogen von Brückenbögen über Wasser. Ein längliches Luftschiff schwebt über der dunstigen Hive-/Hafenstadt.
 
@@ -2879,7 +2879,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<Movie_still_in_the_style_of_40k_Eldar_space_Elves._A_once_ele_ec7a9810-6ed6-4c4f-bef3-074d4951a81b_3.png>)
+<img src="Movie_still_in_the_style_of_40k_Eldar_space_Elves._A_once_ele_ec7a9810-6ed6-4c4f-bef3-074d4951a81b_3.png" width="360" alt="Ort">
 
 *Ort* — Verschneite Landschaft mit einem aufragenden, dunklen Aeldari-Turmbauwerk und einem langgestreckten, abgestürzten oder gelandeten Raumschiff im Schnee. Weite, kalte Panoramaaufnahme mit verstreuten kleinen Figuren.
 
@@ -2888,7 +2888,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ---
 
 #### `Name/Ort: ____________________`
-![](<movie_still_in_the_style_of_grimdark_40k._a_100m_colossal_bon_9db8dbd3-0c78-48c7-8847-6d9ded129186_2.png>)
+<img src="movie_still_in_the_style_of_grimdark_40k._a_100m_colossal_bon_9db8dbd3-0c78-48c7-8847-6d9ded129186_2.png" width="360" alt="Ort">
 
 *Ort* — Gewaltige, neblige Industrie-Kathedralenhalle mit riesigem Torbogen, Rohrleitungen, Tanks und glühenden Lichtern in einem Hive-/Schiffsinneren. Eine winzige Figur unten verdeutlicht den kolossalen Maßstab, die Stimmung ist düster und bedrückend.
 
@@ -2899,7 +2899,7 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 ## 16 · Sonstiges / nicht eindeutig
 
 #### `Name/Ort: ____________________`
-![](<IMG_1859.JPG>)
+<img src="IMG_1859.JPG" width="360" alt="Person">
 
 *Person* — Echsen-/vogelartiges humanoides Wesen mit Schnabel, Stachelkamm und reptiloider Haut, in zerlumpter Kleidung mit primitivem Gewehr im nebligen Dschungel kniend. Fremdartige Xenos-Kreatur unklarer Fraktion, jägerhafte Stimmung.
 
