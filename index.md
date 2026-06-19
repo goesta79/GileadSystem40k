@@ -26,6 +26,11 @@ Kreativ-Inhalte und Knowledge-Base der Kampagne. Word-Originale (`.docx`) und ko
 - `SPOILER_ Prophezeiung der Hüterin` – Spoiler-Prophezeiung
 - `VORSICHT SPOILER - Npc Portraits` – NPC-Portraits (Spoiler)
 - `Zähne aus Silber messerscharf` – Vers/Gedicht (Myravels Töchter)
+- `characters` – Spielercharaktere (Tier 3)
+- `past_adventures` – Chronik Abenteuer 1–4
+- `Der Miravel Clan` – Dossier des gemäßigten Drukhari-Clans (Myravel)
+- `Abenteuer 5 - Weggabelung` – Planung Abenteuer 5 (Zwei-Pfade-Entscheidung)
+- `Abenteuer 5 - Pfad-Eröffnungen` – Szenen-Gerüst beider Pfade (A: Webway/Drukhari, B: Necron-Gruft)
 - `_convert_docx.py` – Skript zur Konvertierung der `.docx` nach Markdown
 
 ## lore/
