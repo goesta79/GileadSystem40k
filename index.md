@@ -41,5 +41,10 @@ Inhaltliche Schwerpunkte (Auswahl): Imperium-Grundlagen (Imperium, Emperor of Ma
 ## PDF/
 Regelwerke, Quellenbücher und Abenteuer für Wrath & Glory (Corebook v2.1/v3, Errata, Abenteuermodule, Threat Assessments, Charakterbögen u.a.).
 
-## images/, other_media/
-Bild- und Medienmaterial.
+## images/
+Bild- und Referenzmaterial (KI-generierte Porträts, Orte, Szenen). **317 Bilder.**
+- `image_catalog.md` – thematisch gruppierter Katalog aller Bilder (16 Kategorien) mit Beschreibung und Namens-Platzhalter pro Bild. Workflow: Platzhalter ausfüllen → Bilder können später entsprechend umbenannt werden.
+- `_catalog_batches/` – Generator-Werkzeuge: `build_catalog.py` (baut den Katalog), `raw_blocks.txt` (Rohbeschreibungen). Neu bauen: `python images/_catalog_batches/build_catalog.py`.
+
+## other_media/
+Weiteres Medienmaterial.
