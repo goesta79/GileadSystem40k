@@ -28,6 +28,12 @@ Kreativ-Inhalte und Knowledge-Base der Kampagne. Word-Originale (`.docx`) und ko
 - `Zähne aus Silber messerscharf` – Vers/Gedicht (Myravels Töchter)
 - `_convert_docx.py` – Skript zur Konvertierung der `.docx` nach Markdown
 
+## lore/
+Aus dem [Lexicanum](https://wh40k.lexicanum.com) gescrapte Hintergrundartikel als Markdown (CC BY-SA, private Nutzung). Jede Datei verlinkt im Kopf ihre Quelle.
+
+- `Adeptus Custodes` – Hintergrund der Goldenen Legion
+- `_scrape_lexicanum.py` – Skript zum Abrufen weiterer Artikel (`python lore/_scrape_lexicanum.py "Artikel" ...`)
+
 ## PDF/
 Regelwerke, Quellenbücher und Abenteuer für Wrath & Glory (Corebook v2.1/v3, Errata, Abenteuermodule, Threat Assessments, Charakterbögen u.a.).
 
