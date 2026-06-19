@@ -1,0 +1,18 @@
+# Lexicanum-Artikel Lauf 2 – Fokus fürs nächste Abenteuer:
+# Webway, Necron-Gruftwelten allgemein, Drukhari,
+# Taschendimensionen im Webway abseits von Commorragh.
+
+# --- Webway & Taschenrealms ---
+Webway
+Black Library
+Crone World
+Exodite
+
+# --- Necron-Gruftwelten ---
+Tomb World
+Dolmen Gate
+
+# --- Drukhari & ihre Webway-Enklaven ---
+Haemonculus
+Wych Cult
+Kabal
