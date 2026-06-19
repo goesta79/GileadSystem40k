@@ -1,0 +1,313 @@
+# Aeldari
+
+> Quelle: [https://wh40k.lexicanum.com/wiki/Eldar](https://wh40k.lexicanum.com/wiki/Eldar) — Lexicanum (CC BY-SA). Auszug für private Kampagnen-Vorbereitung.
+
+|  |  |
+| --- | --- |
+
+***Trust not in their appearance for the Eldar are as utterly alien to good, honest men as the vile Tyranids and savage Orks. They are capricious and fickle, attacking without cause or warning. There is no understanding them for there is nothing to understand - they are a random force in the universe."***
+
+- Imperial Commander Abriel Hume
+
+*Aeldari Portal*
+
+**Aeldari**, the archaic term for the Eldar's entire species (mostly unused since the Fall, as it does not refer to the diaspora),[Note 1] are an ancient naturally psychic race of elf-like humanoids created as weapons by the Old Ones to win the War in Heaven in the aftermath of which their Empire dominated the Galaxy through its use of the Webway, but their empire has since collapsed and now they are a dying race.
+
+## History
+
+### Ancient Origins
+
+When the Aeldari were still a young race, they encountered the Old Slann, the greatest of all spacefaring peoples, and were taught from them the arcane secrets of the universe including how to perfect the mind to achieve immortality within the Warp upon death where they could reincarnate at their leisure and return to the Warp as a conscious spirit as well as of the dangers that echoes of living thoughts within the Warp pose as their ripples intermingle to form vortices of manifest will and consciousness.
+
+The Ancient Eldar were creatures of emotion led by hedonism, the first Eldar to reach for the stars did so in search of a more comfortable future, in search of new domains where they could indulge their senses – naturally weak in the face of temptation. The Ancient Eldar tempered this propensity through extraordinarily physical lives, much as the Exodites have returned to.
+
+The Eldar were nurtured as an Old Slann client race for over sixty million years, they aided the Old Ones in the construction of the Webway, and fought on behalf of the Old Ones during the War in Heaven against the C'tan and their client Necrons. After the War in Heaven saw the destruction of the C'tan and disappearance of the Necrons, the Eldar inherited the mantle of the Old Ones as masters of the galaxy. Little is known of the nature of their society during the War in Heaven (Necron) and how they might have harnessed or curated their psychic biology.
+
+### The Aeldari Dominion
+
+The Eldar, in the wake of the War in Heaven (Necrons) dominated a significant portion of the Galaxy, secure in their prosperity: Although there were other races of advanced technology and military power, none were in a position to seriously threaten the state of the Eldar nation.
+
+The center of their empire were the Eldar homeworlds are in the region of space now consumed by the Eye of Terror. Their worlds were places of great beauty and peace, paradises of personal contentment and cultural achievement. Their homeworld was somewhere in the modern Eye of Terror and had three moons, Lileath the Maiden Moon was of the purest white, Kurnous the Hunter's Moon was of greenish hue and dim, and Eldanesh the Red Moon. Other than this sparse information, it is lost to time.
+
+#### Decadent Decline
+
+When it came, the disaster was internal. Consumed by arrogance and with no need for substantial work or labour, the Eldar began to pursue any curiosity or desire, giving in to their natural inclination to the temptation of inescapable pleasure and intellectual gratification.
+
+Some Eldar gave in to their hedonistic impulses, joining exotic cults in their pursuit of esoteric knowledge, physical pleasure, and ever-more novel experiences. As these cults proliferated, Eldar society became increasingly divided. In short order many of the Eldar to take a darker path, descending into dark study, instant fulfillment and unbridled violence, beginning the Fall of the Eldar. In time it's higher governments ceased to function.
+
+Many of the Eldar grew uneasy with the actions of their comrades, and the wisest of the Seers warned that the path could lead only to evil. Disgusted, some of the Eldar left the central worlds of the Empire to settle on the outlying regions in a mass migration known as the **Exodus** themselves becoming the Exodites, while others stayed to try and alter the path their race had taken. The last of the true Eldar to escape are those who deserted their planets on board the few remaining trading vessels, now known as the Craftworlds their residents adherents to the Asuryan Paths known as the Asuryani – though the craftworlds that exist today have grown with Wraithbone to craft of unrecognizable shape and size. Others would survive the Fall by circumstance, hidden in the safety of the Webway in realms such as the Black Library of Chaos or Commoragh.
+
+### The Fall of the Eldar
+
+Within the parallel realm of the Warp the psychic energy generated by living beings, their thoughts emotions and mental life, exist eternally so that over the ages they accrue and become stronger as they are reinforced by similar thoughts and experiences of others. Eventually, a single idea or emotion can become so powerful within the warp it achieves apotheosis – it becomes a Daemon or Chaos God. In this way the quickly-accelerating decline of the Eldar fed the awakening of a new Chaos God: Slaanesh, and with a scream she awoke.
+
+The energy of the scream swept across the galaxy, blowing the minds of untold millions of Psykers and for the naturally psychic Eldar tearing Aeldari soul from body. Those who had given into temptation were especially vulnerable and many billions of Eldar died. The scream tore apart the boundaries between the Warp and Real Space apart, centered on the heart of the Eldar Empire. The intermixing of the two realities wiped out most of the inhabitants of the Eldar planets forming areas Warp Storm and permanent overlap known as the Eye of Terror.
+
+While it would be a misnomer to say the Eldar created Slaanesh, rather she existed in the warp prior to the Fall of the Eldar unconscious but growing in power – not unlike a sleeping monster bellowing and kicking amidst dream-disturbed sleep. She is, however, inexorably linked with them able to consume the psychic soul of an Eldar as it flees their dying body and changing the Eldar relationship with death forever.
+
+#### New Societies
+
+After the Fall, the Eldar homeworlds became the Crone Worlds of the Eye of Terror and their people were scattered throughout the Webway and among the stars into a myriad of different factions and allegiances including the Asuryani who fled the empire in its final days and survive on planetoid-sized vessels known as Craftworlds, the Drukhari who hid away in the ancient city of Commoragh built in the Webway before the empire fell, the Exodites who fled early to verdant Maiden Worlds on the far edges of the galaxy, the secretive Harlequins who keep hidden the Black Library and keep alive the history of the Eldar, the death cult of the Ynnari, and the various bands of outcast corsairs, renegades, and pirates who make up the Anhrathe.
+
+Through M33, the Eldar aboard Craftworld Iyanden had recovered the first spirit stones created from the dead during the Fall and implemented them into the first known infinity circuit. This knowledge was spread and known to craftworlds and other aeldari kin by M34. These devices would house the souls of the dead, safeguarding their souls from being devoured by Slaanesh upon death.
+
+### Recent Events
+
+Towards the end of the 41st Millennium, the Galaxy was all but split in half by the Great Rift. To the Eldar it is known as the *Dathedian*, and as a highly psychically attuned race, the aetheric phenomena that accompanied it affected them most of all. This calamity came among a great many changes for the Eldar, which included the birth of the Ynnari, the great Dysjunction of Commorragh, the Shattering of Biel-Tan, and the Psychic Awakening.
+
+Since the *Dathedian* and the birth of Ynnead, Eldrad Ulthran has urged the farseers of Ulthwé and all who would hear to aid the Ynnari in ushering in a "New Age of the Aeldari". Aeldari being the ancient term by which the Eldar species referred to itself during the Aeldari Dominion which has gone unused since the Fall by the Eldar Asuryani. Aeldari has returned as the common endonym among the diaspora as the whole of the species has begun to find common cause.
+
+## Aeldari Societies and Civilisations
+
+Forced out of their homeworlds, now cast into the Eye of Terror following the birth of Slaanesh and the Fall of the Eldar, Aeldari society has culturally divided into new distinct ways of life. While there are subcultural divisions within each of these new societies, these are the primary divisions of Aeldari culture.
+
+The Eldar retain a shared language and mythology (albeit with differing degrees of reverence), and while it is not an easy transition it is possible for a member of any of these societies to eventually intermesh with another of these societies. Since the *Dathedian* and the birth of the Yncarne, pockets of influence have emerged which seek to unite the diasporic cultures once more and usher in the new age of the "Aeldari".
+
+### Craftworld Eldar
+
+**Craftworld Eldar**, also known as Asuryani or to themselves as the Eldar, are an entirely void-faring society of Aeldari. The Craftworlds probably compose the majority of the surviving Eldar race, although it is impossible to say just how many this is. They are certainly the seat of the remaining Eldar industry, technology, and culture, as they contain the only vestiges of their original worlds. Most of the Craftworlds contain special biodomes that house plants and wildlife from their original world, and these are carefully tended. Although each Craftworld is essentially independent in its actions and governance, they will generally offer and accept aid and advice from one another. Although not common, sometimes Craftworld disagreements will cause two to clash on the field of battle, though this is always a last resort.
+
+Every Craftworld contains an Infinity Circuit, which is essentially the Wraithbone skeleton of the Craftworld itself. Within this matrix the souls of all the Craftworld's dead reside in a form of group consciousness, providing both a well of psychic power for the ship and a massive ancestral mind to advise and guide the living. With the rise of Slaanesh, the Infinity Circuit is the closest thing that the Eldar have to an afterlife; if their souls are not caught and integrated into it, they will be lost into the Warp and devoured by the Great Enemy. For this reason the Eldar will defend their Craftworlds with a fury and tenacity almost unrivalled; they risk losing not only their home but the souls of their ancestors as well.
+
+#### The Eldar Paths
+
+The Eldar who live on board the Craftworlds have undergone a complete social reform. Every Eldar chooses and follows a path, somewhat similar to a profession, until achieving mastery over it. Then he chooses another one and the process begins anew. There are an unknown number of paths, and all of them are dangerous for the Eldar; sometimes an Eldar can become so focused upon his path that he will never leave it.
+
+Perhaps the most visible path to those outside their society is that of the Warrior, its aspirants each taking on an aspect of their shattered god of war Khaine as Aspect Warriors, with those dangerously lost upon this path being known as Exarchs. Craftworld society is often guided by those on the path of the seer, especially those dangerously lost in the probable futures known as Farseers.
+
+#### Craftworlds
+
+In the time leading up to the Fall, not all the Eldar that remained on the homeworlds fell into the lure of Slaanesh. Many remained, struggling to turn their species from its doomed path. Unable to do so, many of the greatest Seers caught glimpses of the darkness to come, and undertook a titanic effort to save their people. For each Eldar homeworld a gigantic ship was created, sung from Wraithbone and so massive as to be nearly a planetoid itself. The last uncorrupted people from each world were loaded onto these ships, along with works of art, plant life and animals, all that could be saved. In these Craftworlds (as they came be known) the final Eldar Exodus began, and only barely in time. The psychic shockwave caught some of the Craftworlds and destroyed them, while others were pulled into orbit around the Eye of Terror. The rest drift through the galaxy, their exact number uncertain, as contact can be difficult and intermittent. There are several Craftworlds of particular fame:
+
+* Alaitoc — Far out on the frontiers of the galaxy, on the edge of explored space, lies the Alaitoc Craftworld. The Alaitoc Eldar are zealous in their guard against the touch of Slaanesh, even more so than other Craftworld Eldar. For these two reasons many of its citizens will at one time or another decide to leave the strict confines of the ship and strike out on their own or in small groups. They will return in times of need, however, and so all Alaitoc armies will have a substantial force of scouts and rangers.
+* Altansar — A small Craftworld that had been on the edge of the shockwave, Altansar was long thought to have been lost in the Eye of Terror with the homeworlds of the Eldar. However, there were reports of its sighting and even active involvement in the recently conducted campaign against the Eye of Terror, and doubt now exists as to its fate.
+* Biel-tan — The most martial of the Craftworlds, Biel-tan has made the decision to re-forge the Eldar Empire. Its armies contain the highest percentages of elite troops of all the Craftworlds, and few of the staple citizen-militia that most worlds call upon in times of war. Their highly-trained forces are known as the Swordwind, and they often come to the aid of Exodite worlds.
+* Iyanden — The Iyanden Craftworld was once one of the largest and most prosperous of all the remaining ships. Its path brought it into the way of the Tyranid invasion, however, and the Craftworld was nearly destroyed in the following battles. Today many of its sections are still in ruins and the population is spread thin. This forces Iyanden to often call upon its fallen, raising more than the typical numbers of Wraithguard and Wraithlords to aid their dwindling warriors in battle.
+* Saim-Hann — One of the more barbaric and wild of the larger Craftworlds, the warriors of Saim-Hann favour rapid attacks and moving battles. It regularly organises its forces into ranks of skimmers and jetbikes, known as the Wild Riders, and is famed for the speed and ferocity of its attacks.
+* Ulthwé — One of the largest Craftworlds, Ulthwé was caught in the pull of the Eye of Terror, and now orbits it. As such it faces the constant danger of attack by Chaos marauders and has served as a bastion against the dark powers for thousands of years. The constant war and risk of attack has hardened the Craftworld's citizens, and it maintains a standing militia force known as the Black Guardians. Its proximity to the Eye has also given it an unusual number of psychics.
+
+### Drukhari
+
+**Drukhari**, the so-called **Dark Eldar**, are unique in the sense that they do not occupy any planets in Real Space, but rather occupy the sprawling dark city of Commorragh located deep within the labyrinth of the Webway, having been a thriving port-city since prior to the Fall. Their time spent in the webway and Dark City has left them with paler skin and better night vision, their psychic abilities have atrophied to avoid Slaanesh's gaze, and they developed an all-consuming and ever-increasing need to revel in the pain of others and nourish their decrepit souls one avenue of which is in piracy, enslavement and torture. Dark Eldar raiding parties make use of advanced anti-gravity skimmers to launch high speed raids on their enemy while still transporting a large number of their warriors. Through their use of the webway they are extremely mobile, striking from seemingly nowhere with little or no warning and vanishing with their captives before significant military reaction can be mobilised.
+
+### Exodites
+
+The **Exodites** are a large group of Eldar who fled their homeworlds before the Fall and the creation of the Great Enemy. They preached out against the changes in Eldar society, but were ignored or treated as narrow-minded. As such, they were saved from the taint of Chaos and formed colonies on the edge of the galaxy, far from their homeworlds and the now-expanded Eye of Terror. Most have reverted to a more agricultural state of existence, and as such are mocked by many of the Craftworld Eldar as being backward, although they have maintained a certain level of technology. They are also generally a more accepting people, taking in Eldar Outcasts where Craftworld Eldar would push them away. They are supported mainly by Biel-tan and are often protected by the forces of that Craftworld.
+
+### Outcasts and Pirates
+
+Eldar outcasts and pirates consist of craftworld outcasts and exiles, corsair pirates, and Drukhari raiders, and even former Harlequins, and are often confused for one another by the Imperium. To Craftworld Eldar, piracy is shunned, but outside of the protection of the craftworld there is safety in the mercenary bands of the Anhrathe, drawing from aeldari communities of all kinds. These pirate bands organise themselves around a leader, known as a Prince or Princess. These Anhrathe might hire themselves out as mercenaries to human or other xenos collaborators, and are well received by Rogue Traders and radical Inquisitors. Although pirates are self-serving, they might still feel a duty to aid a struggling craftworld, as the Eldritch Raiders were so called by Yriel to defend Iyanden.
+
+### Harlequins
+
+**Harlequins** are followers of the Eldar god, the Great Harlequin (also known as Cegorach or "The Laughing God"), who was one of the only two Eldar gods to survive the Fall. They move throughout the Webway in groups and perform impressive displays of mime and acrobatics, telling the many strange and wonderful stories of the Eldar past, but also the dark and dangerous plays of the Fall. Harlequins are not only performing artists, but devastating fighters as well. They will appear to fight with their Eldar brethren, particularly in close combat. Their primary task however is to guard the Black Library of Chaos from intruders, and have done so ever since its inception thousands of years ago.
+
+### Ynnari
+
+The Ynnari, known to themselves as the **Reborn**, are the followers of the nascent god Ynnead, beleiving that the aeldari can be saved from the oblivion of Slaanesh through the rise of the God of the Dead who stirs within Infinity Circuits, and fight tirelessly to awaken their Whispering God. To accomplish this, they follow his prophet Yvraine who in her apotheosis was revealed the Seventh Path to his ascension: to collect the five Crone Swords entrusted to ancient agents of the Eldar Gods so that they may again be wielded by the right hands. The Ynnari have discovered four such swords, the last of which was left abandoned on Belial IV where it was collected by Shalaxi Helbane and placed within the Palace of Slaanesh. Many are dedicated to the Ynnari cause, and the Ynnari are dawn from every element of Aeldari civilization. Despite their large impacts on the wider galaxy, they remain a fringe minority group of Eldar societies.
+
+### Chaotic Eldar
+
+Chaotic Eldar are extremely rare, and by far the most damned of their race. Utterly at the mercy of their Chaos masters to prevent their soul being swallowed by Slaanesh, they are unacknowledged and forever forgotten by their kinfolk, their souls eternally barred from peace.
+
+## Language
+
+The Aeldari language is almost impenetrable to other races. Over the many millennia, it has become thoroughly interwoven with mythological and cultural references, alongside having numerous gestures, sub-tones, expressions, and poses that augment spoken words. Even the most mundane interactions between equals is akin to a performance. Although it's impossible for a human to thoroughly comprehend the Eldar language, some are able to understand it well enough to make their meaning clear — albeit in an extremely blunt fashion.
+
+## Religion
+
+The Eldar are known to be a very spiritual people, and much of their culture is based around their mythological cycles. The most famous of these cycles was the War in Heaven, an epic conflict between the Eldar deities, in two factions lead by Vaul, the god of the forge, and Kaela Mensha Khaine, the god of war.
+
+With two notable exceptions (Cegorach and Khaine), the Pantheon of the Eldar is considered to have been destroyed by the birth of Slaanesh. While the Eldar still revere all the gods and preserve their stories within the mythic cycles, they do not call on them for aid or hope for their intervention any longer. Still, there is a prophecy telling of the return of the Eldar gods and how they will battle and destroy Slaanesh as a unified pantheon. Whether this is anything but an old myth remains to be seen.
+
+However recent actions taken by Eldrad Ulthran, largely influenced by Kysaduras the Anchorite's prophecy, to bring about the birth of Ynnead, the nascent god of the dead who draws its power from within the Infinity Circuits of the Asuryani, have resulted in a possible path to this objective. During her resurrection and apotheosis, the Seventh Path was revealed to Yvraine by Ynnead, which would see his revival should the Crone Swords be found and wielded by the right hands. To accomplish this goal those dedicated to her cause, the Ynnari have arisen as a new cult within Aeldari society to which members of all parts of the diaspora have pledged their cause.
+
+## Biology
+
+According to the Adeptus Mechanicus, the aeldari species is unique. No known 'root' species or genetic analogues are applicable.
+
+Superficially, the Eldar appear very similar to humans, though they are generally taller and slimmer, with slender limbs Their well-defined features are handsome and striking atop which is unblemished skin like polished marble. Their elegant forms belie a surprising strength. Their faces have sharp features and tapered pointed ears. Superficially, Eldar appear human-analogous, even being mistaken as abhumans if the alien-grace of their movement isn't on display and one doesn't look too long and deeply into their almond-shaped ethereally dark and liquid eyes. Internally, however, the highly-evolved complexity and aesthetic order of their internal anatomy far surpasses humans.
+
+Lucoryphus of the Night Lords thought of Eldar blood as "thin and sour," and that "their skin lacked any of the salty richness found in a mouthful of human meat".
+
+Psychic Minds
+
+As a race they have a high level of psychic ability, which serves as the foundation of most of their technology. The Asuryani say that before the Fall, every Aeldari was far more psychically powerful. The Eldar that actively cultivate their psyker potential seem to exhibit a much-extended lifespan as well, one proportional to their prowess. The Farseers of the Eldar can live for several thousand years before ossifying into psychic crystal from their use of powers, like constant scrying of the future. All Eldar tend towards extremes of emotion and intellect. They are mentally far superior to humans and feel all emotions more strongly.
+
+This tremendous mental ability comes with advantages, it gives the Eldar an unrivalled ability to express themselves through music and creative arts and an unparalleled appreciation of life. Adversely they are prone to the temptations of a life of inescapable pleasure and intellectual gratification, finding it dangerously easy to become enthralled by and ultimately dependent upon the experiences their culture offers them. Even before the Fall the eldar would spend effort fighting these temptations. The act of exercising this restraint has an unbalancing effect on the Eldar mind, requiring the Eldar to exercise constant restraint to avoid hysteria, insanity, and mental breakdown.
+
+Life & Inception
+
+Aeldari are long-lived by human standards, and most will live more than a thousand years unless they die from accident or disease. The average Eldar lifespan is estimated at over two thousand years, as by the time of the Great Rift and Era Indomitus they record it having been five generations since the Fall of the Eldar in M31. The Eldar gestation cycle is much longer than for most other sapient races. When conducting an autopsy performed on a male Exodite, the Human Magos Darvus serving under the radical Inquisitor Maturin Ralei of the Ordo Xenos, observed that while Eldar reproductive organs were outwardly analogous to that of humans, it appeared to him that gamete delivery occurred in stages - that is, with multiple corresponding organs for successive stages. This lead him to personally speculate that conception occurred over extended periods, and further questioned whether that meant additional genetic material would be supplied in preordained stages throughout gestation. However, he felt such line of thought was inconclusive.[Note 2]
+
+Birth
+
+Births among the Eldar are rare. New generations only emerge every few centuries, so that every child is cherished in a manner that other, younger races find hard to understand. Most revered of all are the rare occurrences of twins, or even triplets. Such sets of siblings are considered fated by the Eldar, and invariably find positions of great power within Eldar society. Many of them go on to form the crews of of Eldar Titans, known as Steersmen, where the natural and emotional bonds between siblings and the Eldar's latent psychic powers form a special relationship between pilot, machine and spirit stone few amongst the Eldar could hope to achieve.
+
+Metabolism
+
+Eldar also have much faster metabolic rates than humans, have a superior immune system, and their cardiac and neurological systems are more advanced. These traits manifest in their vastly heightened reactions, thought processes, and agility compared to humans. To them humans seem to move in slow motion with a certain degree of awkwardness, while to humans the Eldar can move with distracting grace and can be blindingly fast in combat. Their hearts beat twice as fast as a human's.
+
+Skeleton
+
+This elasticated spine physiology aids in supporting their high-speed maneuverability. Their vertebrae analogues are a complex column of inter-meshed segments surrounded by muscles analogues with spiral-structures like coiled springs. Their teeth are essentially bony 'outgrowths' from their jawbone. Aeldari bones are far lighter than human bones and have no marrow analogue, instead having fibrous channels. Their abdominal cavity has flexible bony plates, acting as a secondary rib cage beneath their abdominal muscles.
+
+Thorax
+
+Housed with fused wing-like ribs, the internal organs of Aeldari are multifarious and have an unprecedented level of order and configuration — ie: 'tidiness' to their aesthetic quality. The human analogue organs are few, but Magos have speculative evidence of there being analogues to pulmonary muscle, lung analogues, temperature regulators (twelve along each internal wall) and detached lymph-glands (possibly roving). Eldar have no obvious digestive system, how and if it occurs is unknown.
+
+Brain
+
+Aeldari brains have multiple lobes that have extremely dense cerebral matter. In addition, there are ganglia and a central ridged organ, both with unknown functions. Their occipital and parietal lobes are reminiscent of human structure but with increased density and complexity. There are additional layers of unknown composition, speculated to be stratum. This all allows even the dullest Aeldari to far surpass a once-in-a-century genius of mankind. Aeldari brains are said to be less spongy than an Ork's but more brittle than a human's.
+
+Senses
+
+The slanted eyes of an aeldari have an unnatural intensity, more like a hunting feline than a human. Their vision can adjust to near-lightless conditions instantly. Their eyes often lack pupils and are like marble in texture. Although their eyes are typically colourless, some have a dream-like tint of colour when they catch the light. The internal structure of Aeldari eyes are packed with unknown polyps. Eldar eartips are packed with nerve clusters. Eldar are able to hear frequencies that are both too high and too low for human ears to perceive. They have incredibly sharp hearing, and may have more advanced senses of smell and taste than humans. All of their five senses are more finely honed. As a result they can experience ecstasies through beauty, fragrance, touch, music, and food that a human could never understand.
+
+Sex Differences
+
+As a race, the sexes of Eldar seem to be very similar both psychologically and physically. Among such an androgynous race telling the sexes apart can be very difficult. Eldar females can reach any position in society and became warriors, pilots or great psykers as their male fellows. Aeldari possess similar secondary sex characteristics to humans. Aeldari also have the means to seamlessly change their gender in both their biology and identity. This is typically done to better fit the expectations or traditions of a specific role or rank, such as a Succubus, Incubus, or Howling Banshee, but not always required.
+
+### Drukhari Physiology
+
+Aeldari physiology is not homogeneous across their diasporic societies, as their bodies have adapted to new living conditions since the Fall of the Eldar; this change is most noticeable in the Drukhari, whose eyes have dilated enough as to make the whole eye appear black – an adaptation possibly done to help them see in the subterranean and colourless dark conditions of Commoragh and other sites within the Webway. It is thought by Imperial commanders that the Drukhari may be blinded by focused beams of light, and it is with this defence in mind that their facilities are well lit.
+
+The Drukhari of Commorragh have largely blunted their psychic potential through generations of selective breeding and culling, as ordered by Asdrubael Vect to reduce the risk of unwanted attention and incursions from Warp Entities in the Dark City. Those Drukhari who venture away from the Dark City can regain some small fraction of their innate psychic ability, however, this is a long process that requires guidance and isn't without danger. As a cultural practice, Drukhari tend to sharpen their teeth into dagger-like points. Some, notably former-Drukhari corsairs, even adorn their pointed teeth with precious metal gilding and small gems.
+
+## Technology
+
+The Eldar race possess amongst the highest levels of technology of known active races in the galaxy, with only the Necrons matching them in this mastery.
+
+### Ancient Technology
+
+During the heyday of the Eldar Empire no races could match the Aeldari due to their technological capabilities and mastery of the Webway, a space travel technology based upon the principle of warp-tunnel engineering – to this day the Eldar regard travel with Warp Drives within the Warp as impractical and dangerous (although they do retain the technology for rare use, such as by the White Seers in Web-Runners) During the War in Heaven some ancient Aeldari used Shuriken Weapons with grav-acceleration arms, superficially akin to the limbs of a crossbow, and wore Wraithbone armour without Spirit Stones which did not resemble the contemporary armour of any part of the Aeldari Diaspora.
+
+### Current Technology
+
+Today, Eldar technology varies considerably depending on the faction. The Craftworld Eldar use their developed psychic abilities combined with complex psychoplastics such as Wraithbone to produce technological wonders. Meanwhile, the Dark Eldar use more traditional forms of technology, albeit still stunningly advanced. The Dark Eldar are particularly advanced in the field of biotechnology, which has led them to be no less formidable than their more psychic Craftworld kin. The Drukhari view their Asuryani cousins as weak and overreliant on their psychic power, adding to their lack of desire to shape and use wraithbone, as well as inability to do so. But regardless of which faction, modern Eldar technology is so advanced that it may seem magical to lesser races.
+
+The weapons and technology of the disparate Aeldari factions aren't always entirely exclusive. In Anhrathe and Ynnari bands mixing is inevitable. Outside of these circumstances technological exchanges are rare, due to both limited communication and endless antipathy between Aeldari factions. Some factions like the Harlequins and Incubi do not share their technology at all.
+
+The wraithbone armaments of the Aeldari are psychically tuned to their species. If wielded by a lesser species the device will never truly be as effective as it could potentially be in the hands of an Aeldari.
+
+## Notable Aeldari
+
+### Notable Craftworld Eldar
+
+* Amallyn Shadowguide, Ranger of Biel-tan
+* Asurmen the Hand of Asuryan, Phoenix Lord of the Dire Avengers
+* Baharroth the Cry of the Wind, Phoenix Lord of the Swooping Hawks
+* Drastanta the Tempest of Starlight, Phoenix Lord of the Shining Spears
+* Eldrad Ulthran, Farseer late of Ulthwe, member in absentia of the Black Council
+* Eiladar Ys, Farseer of Craftworld Lugganath, member of the Black Council
+* Ffaid Karhedra Farseer of Craftworld Eyslk-Tan, member of the Black Council
+* Fuegan the Burning Lance, Phoenix Lord of the Fire Dragons
+* Illic Nightspear, Ranger of Alaitoc
+* Iqbraesil Farseer of Craftworld Iyanden, member of the Black Council
+* Irillyth the Shade of Twilight, Phoenix Lord of the Shadow Spectres
+* Iyanna Arienal, Spiritseer of Iyanden
+* Jain Zar the Storm of Silence, Phoenix Lord of the Howling Banshees
+* Karandras the Shadow Hunter, Phoenix Lord of the Striking Scorpions
+* Kelmon, Farseer of Craftworld Iyanden
+* Lhykhis the Whispering Web, Phoenix Lord of the Warp Spiders
+* Maugan Ra the Harvester of Souls, Phoenix Lord of the Dark Reapers
+* Morcan Fiorinintal Farseer of Craftworld Alaitoc, member of the Black Council
+* Nuadhu 'Fireheart', Windrider of Saim-Hann
+* Slau Dha, Member of the Cabal
+* Yriel, Autarch of Iyanden
+
+### Notable Exodites
+
+* Isarion Stormsmourn of Ephraeleon
+* Laryin Sil Cadaiyth, Worldsinger of Lileathanir and doom of El'Uriaq
+* Wei-yannil of Halathel
+
+### Notable Harlequins
+
+* Ailill Nuada, Shadowseer of the Conclave of Tears
+* Kyganil, companion to Ephrael Stern
+* Lathrangil, Solitaire
+* Lhaerial Rey, Shadowseer of the of the Masque of the Ceaseless Song
+* Motley
+* Sylandri Veilwalker, Shadowseer of the Masque of the Veiled Path
+
+### Notable Dark Eldar
+
+* Asdrubael Vect, Supreme Lord of the Kabal of the Black Heart and overlord of Commorragh
+* Lady Malys, Archon of the Kabal of the Poisoned Tongue
+* Baron Sathonyx, The Lord Hellion
+* Drazhar, the "Master of Blades", Incubi Champion
+* Kheradruakh, the Decapitator, Monarch of the Mandrakes
+* Lelith Hesperax, Succubus of the Wych Cult of Strife
+* Duke Sliscus, the Serpent, Commander of the Sky Serpents
+* Urien Rakarth, Master Haemonculus
+* Vraesque, Archon of the Kabal of the Flayed Skull
+* El'uriaq, the Tyrant of Shaa-Dom
+
+### Notable Outcasts and Pirates
+
+* Amharoc, later known as Yvraine the Emissary of Ynnead
+* Conanmaol, Prince of the Executioners
+* Count Erandael, one of the triplet Princes of the Sunblitz Brotherhood
+* Duke Siriolas, one of the triplet Princes of the Sunblitz Brotherhood
+* Duke Sliscus, Commander of the Sky Serpents
+* Ebahn Lauma, Prince of the Baelstorm Avengers
+* Ferianwyr Greensteel, Emerald Princess of the Greensteel Warriors
+* Galadhar the Grey of Duro
+* Kaelis Carnelia, Princess of the Steeleye Reavers
+* Lady Hale'drithea, Princess of the Black Suns
+* Lord Phaendris, one of the triplet Princes of the Sunblitz Brotherhood
+* Saaraina, Princess of the Void Dragons
+* Yriel, Prince of the Eldritch Raiders
+
+### Notable Ynnari
+
+* The Visarch, Blade of Ynnead and Guardian of Yvraine
+* The Yncarne, Avatar of Ynnead
+* Yvraine, Emissary of Ynnead
+
+## Aeldari Galactic Maps
+
+M41
+
+M42
+
+## Notes
+
+* Note 1: The preferred nomencalture for the collective species changed during the Time of Ending from *Eldar*, a post-Fall endonym, to *Aeldari*, the pre-Fall term for their species at its height – With the Events of the Gathering Storm, a new age has been ushered in for their species and Eldar have once again begun to refer to themselves as Aeldari, resurrecting the old name.
+
+## Trivia
+
+|  |  |
+| --- | --- |
+
+### Development History
+
+The earliest known appearance of the Eldar came shortly before the release of Warhammer 40,000: Rogue Trader in 1987 in the form of a limited edition by Games Workshop miniature dubbed the "Dark Elf Space Trooper".
+
+In the sense that *Warhammer 40,000* races are derived from the earlier *Warhammer Fantasy Battle* game, Eldar were derived from Elves and were until the 2nd Edition of Warhammer 40,000 marketed as **"Space Elves"**. Eldar are in turn related to Age of Sigmar Aelves.
+
+The out-of-universe explanation for the named change from "Eldar" to "Aeldari" (and “Dark Eldar” to “Drukhari”) is likely due to Games Workshop's movement to better secure their intellectual properties trademarks after 2014, as was done across their various Warhammer settings and factions. The term "Eldar" is also problematic in that it is a term used for a group of Elves in J. R. R. Tolkien's Lord of the Rings universe. The more distinct yet similar term "Aeldari" was introduced and integrated in 2017 with Codex: Craftworlds (8th Edition) and Gathering Storm: Fracture of Biel-Tan.
+
+### Etymology
+
+The name "Eldar" comes from J.R.R. Tolkien's elves, who in their own language were called "the Eldar". The history of the Eldar in *Warhammer 40,000* has a passing similarity to that of Tolkien's elves, to the point that they are a "dwindling race", much like the elves in Middle-earth's Third Age, which Mankind has begun to fill the power vacuum of their now-absent civilisation.
+
+### Human-Eldar Hybrids
+
+In their earliest appearance in Warhammer 40,000: Rogue Trader, Eldar are described as being so genetically close to Humans that the two are able to (on rare occasions) interbreed and produce viable offspring, and there are speculative suggestions that the two species share a common ancestor. One such Human-Eldar Hybrid, Illiyan Nastase, appeared in the Ultramarines army list in White Dwarf 97 (UK) – the child of a Human woman from Badab and an Eldar Mercenary. However, the superficially similar Ulthwé Farseer Illiyanne Natasé has appeared since among the Ultramarines.
+
+The novel *Warrior Coven* included a passage of an Imperal Text, the *Legend of Hourian*, which told of a child born to an Inquisitor and an Aeldari Princess, although the identity or truth of the child is unknown. Other unnaturally born hybrids are known to exist, such as Ael Wyntor, an Aeldari which Malcador the Sigilite saved from death by splicing his DNA with that of a Human, and Fabius Bile's Gland Hounds which were spliced with Aeldari genetics prior to the Battle of Belial IV to increase their speed and agility.
+
+### Grey Men
+
+Grey Men are a Humanoid race of failed Aeldari genetic experiments which dwell within the Hive-city of Necromunda. It is unclear if Grey Men are Aeldari themselves, or if they are another species on which the Aeldari experimented.
+
+### Imperial/Non-Eldar perspectives
+
+* Note 2: Certain sources are written from a character's in-universe perspective, particularly a human or non-Eldar's point of view. Where possible the article indicates this with phrases such as "in [this character]'s speculation" or such. In other words, they may represent the perspective of an unreliable or biased Imperial human narrator. Of particular note is Xenology (Background Book), which is written entirely as an in-universe account of recorded research made by certain radical Inquisitors and their agents, such as Inquisitor Brehm Sasham and Magos Biologis Sharle Darvus. GW Author Gavin Thorpe has expressed his opinion on the book which may be of interest to the article reader. See: Xenology\_(Background\_Book) [Trivia].
+
+## See also
+
+* Eldar Quotes
+* Blackstone Fortresses
