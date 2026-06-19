@@ -1,0 +1,146 @@
+# Lexicanum-Artikel für die Gilead-Kampagne (Lauf 1)
+# Gewichtet nach Stichwörtern aus dem campaign/-Ordner.
+# Adeptus Custodes ist bereits vorhanden.
+
+# --- Imperium: Grundlagen ---
+Imperium
+The Emperor of Mankind
+Adeptus Terra
+High Lords of Terra
+Terra
+Segmentum Solar
+Imperial Cult
+Imperial Creed
+Great Crusade
+Horus Heresy
+Primarch
+
+# --- Adeptus Astartes ---
+Space Marines
+Codex Astartes
+Space Marine Chapter
+Ultramarines
+Roboute Guilliman
+Primaris Space Marine
+Power Armour
+Boltgun
+
+# --- Chaos ---
+Chaos
+Chaos Gods
+Khorne
+Tzeentch
+Nurgle
+Slaanesh
+Daemon
+Greater Daemon
+Chaos Space Marines
+Death Guard
+Thousand Sons
+Black Legion
+
+# --- Der Warp & Reisen ---
+Warp
+Immaterium
+Gellar Field
+Astronomican
+Cicatrix Maledictum
+Eye of Terror
+
+# --- Militär des Imperiums ---
+Astra Militarum
+Militarum Tempestus
+Commissar
+Imperial Navy
+Officio Prefectus
+
+# --- Adeptus Mechanicus ---
+Adeptus Mechanicus
+Skitarii
+Mars
+Omnissiah
+Tech-Priest
+Titan
+Imperial Knights
+
+# --- Talons of the Emperor ---
+Sisters of Silence
+
+# --- Ecclesiarchy & Sororitas ---
+Adepta Sororitas
+Adeptus Ministorum
+Living Saint
+Missionarius Galaxia
+
+# --- Inquisition & verwandte ---
+Inquisition
+Inquisitor
+Ordo Malleus
+Ordo Hereticus
+Ordo Xenos
+Grey Knights
+Officio Assassinorum
+
+# --- Psyker & Astropathie ---
+Adeptus Astra Telepathica
+Astropath
+Psyker
+
+# --- Navigatoren ---
+Navigator
+Navis Nobilite
+
+# --- Verwaltung & Recht ---
+Adeptus Arbites
+Adeptus Administratum
+Departmento Munitorum
+
+# --- Rogue Trader / Freihändler ---
+Rogue Trader
+Warrant of Trade
+
+# --- Necrons (Kampagnen-Subplot) ---
+Necrons
+C'tan
+Necron Lord
+Necron Dynasty
+
+# --- Aeldari / Eldar ---
+Eldar
+Craftworld
+Farseer
+Aspect Warrior
+Dark Eldar
+Commorragh
+Harlequins
+Ynnari
+
+# --- Tau ---
+Tau Empire
+Tau
+Ethereal Caste
+Fire Caste
+Kroot
+
+# --- Orks ---
+Orks
+Waaagh!
+
+# --- Tyraniden ---
+Tyranids
+Hive Mind
+Genestealer
+Genestealer Cults
+Hive Fleet
+
+# --- Welten & Geografie ---
+Hive World
+Forge World
+Agri-World
+Death World
+Segmentum Obscurus
+Cadia
+Indomitus Crusade
+
+# --- Wrath & Glory Setting ---
+Gilead System
