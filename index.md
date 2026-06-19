@@ -1,4 +1,4 @@
-# Index – Gilead Kampagne (Wrath & Glory 2e)
+    # Index – Gilead Kampagne (Wrath & Glory 2e)
 
 Dieser Index trackt die Ordnerstruktur und Inhalte des Workspace.
 
@@ -33,7 +33,8 @@ Aus dem [Lexicanum](https://wh40k.lexicanum.com) gescrapte Hintergrundartikel al
 
 Werkzeuge:
 - `_scrape_lexicanum.py` – Scraper (`python lore/_scrape_lexicanum.py articles.txt` oder `... "Artikel" ...`)
-- `articles.txt` – kuratierte Titelliste für Lauf 1 (Quelle der Wahrheit, welche Artikel geholt wurden)
+- `articles.txt` – kuratierte Titelliste für Lauf 1 (Top 100 Grundlagen)
+- `articles_run2.txt` – Lauf 2: Fokus Webway, Necron-Gruftwelten (Tomb World, Dolmen Gate), Drukhari-Enklaven (Haemonculi, Wych Cult, Kabal), Webway-Realms (Exodite, Crone World). Hinweis: eine eigenständige Eldar-„Black Library" gibt es auf Lexicanum nicht (im `Webway`-Artikel mitbehandelt).
 
 Inhaltliche Schwerpunkte (Auswahl): Imperium-Grundlagen (Imperium, Emperor of Mankind, High Lords, Great Crusade, Horus Heresy), Adeptus Astartes & Primarchen, Chaos & Chaosgötter, der Warp, Astra Militarum, Adeptus Mechanicus & Titanen, Adeptus Custodes & Sisters of Silence, Adepta Sororitas & Ecclesiarchy, Inquisition (inkl. Ordos & Grey Knights), Assassinorum, Astropathen/Psyker/Navigatoren, Arbites/Administratum/Munitorum, Rogue Trader, Necrons (inkl. C'tan), Aeldari & Drukhari, T'au, Orks, Tyraniden/Genestealer, Weltentypen sowie das kanonische **Gilead System** (W&G-Setting, nennt u.a. die Absolvers, Ul-Khari, Ostia, Primus).
 
