@@ -8,6 +8,7 @@
 """
 import os
 import re
+from urllib.parse import quote
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 IMG_DIR = os.path.dirname(HERE)            # ...\images
@@ -110,8 +111,9 @@ def main():
         lines.append("")
         for b in by_cat[c]:
             fn = b["FILE"]
+            src = quote(fn)
             lines.append(f"#### `Name/Ort: ____________________`")
-            lines.append(f"![](<{fn}>)")
+            lines.append(f'<img src="{src}" width="360" alt="{b["TYPE"]}">')
             lines.append("")
             lines.append(f"*{b['TYPE']}* — {b['DESC']}")
             lines.append("")
