@@ -28,7 +28,7 @@ awohl, dies ist die unabänderliche Wahrheit des Schicksals: Was ihr heute gewon
 
 E
 
-rster Pfad — der Pfad der tausend Tore: Reicht ihr die Hand den dekadenten Nachkommen der Diener unseres alten Feindes, und entreißt das zweite Bruchstück den Händlern der Qual, so verstummt das ketzerische Hämmern in den tiefen Kellern unter höllischer Hitze, die Maschine, die nach dem König der Seelenschmiede heult, bleibt kalt. Ein Volk wird nicht in Ketten verkauft, die Schmiedewelt fällt nicht ins Dunkel.
+rster Pfad — der Pfad der tausend Tore: Wenn das Schicksal gütig den Tod der letzten Götterschänderinnen belächelt und seine treue Dienerin die Hand eines Verlobten erringt, dann werden beide Hoffnungsträger eines neuen Königreiches, und nur dann mag das zweite Bruchstück den Händlern der Qual noch entrissen werden und es verstummt das ketzerische Hämmern in tiefen Kellern unter höllischer Hitze, die Maschine, die nach dem König der Seelenschmiede heult, bleibt kalt. Ein Volk wird nicht in Ketten verkauft, die Schmiedewelt fällt nicht ins Dunkel.
 
 D
 

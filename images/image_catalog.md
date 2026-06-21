@@ -24,10 +24,10 @@ Automatisch erzeugter Katalog aller 317 Bilder im `images/`-Ordner, thematisch g
 
 ## 1 · Adeptus Custodes
 
-#### `Name/Ort: ____________________`
+#### `Name/Ort: Hadriannus
 <img src="gosta7024_Movie_still_in_the_style_of_grimdark_40k_adeptus_cu_b33ce42a-509e-4188-a686-a4d9adbfb628_3.png" width="360" alt="Person">
 
-*Person* — Blonder, kräftiger Krieger in massiver goldener Rüstung mit Adler-Schädel-Emblem auf der Brust, vor goldenem Hintergrund. Klare Adeptus-Custodes-Anmutung, würdevoll und heroisch.
+*Person* — Blonder, kräftiger Adeptus Custodes in massiver Allarus Terminator Rüstung, würdevoll und heroisch.
 
 <sub>`gosta7024_Movie_still_in_the_style_of_grimdark_40k_adeptus_cu_b33ce42a-509e-4188-a686-a4d9adbfb628_3.png`</sub>
 
