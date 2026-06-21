@@ -33,6 +33,8 @@ Kreativ-Inhalte und Knowledge-Base der Kampagne. Word-Originale (`.docx`) und ko
 - `Necron-Pfad (geparkt)` – aus Abenteuer 5 herausgelöster Necron-Strang (für später)
 - `Abenteuer 5 - Pfad-Eröffnungen` – Szenen-Gerüst beider Pfade (A: Webway/Drukhari, B: Necron-Gruft)
 - `Abenteuer 5 - Fluff (Basar & Necron-Ankunft)` – 10 Basar-Vignetten + 3 Eröffnungstexte Necron-Gruft
+- `Abenteuer 5 - Fluff (Myravel-Szene)` – Matriarchin-Rede & Eistränen-Vorführung (Cegorach-Fluch)
+- `Handout - Hadriannus Historienrede` – Vorlese-Rede: die geheime 30k-Wahrheit (Webway/Goldener Thron)
 - `_convert_docx.py` – Skript zur Konvertierung der `.docx` nach Markdown
 
 ## lore/
@@ -42,6 +44,7 @@ Werkzeuge:
 - `_scrape_lexicanum.py` – Scraper (`python lore/_scrape_lexicanum.py articles.txt` oder `... "Artikel" ...`)
 - `articles.txt` – kuratierte Titelliste für Lauf 1 (Top 100 Grundlagen)
 - `articles_run2.txt` – Lauf 2: Fokus Webway, Necron-Gruftwelten (Tomb World, Dolmen Gate), Drukhari-Enklaven (Haemonculi, Wych Cult, Kabal), Webway-Realms (Exodite, Crone World). Hinweis: eine eigenständige Eldar-„Black Library" gibt es auf Lexicanum nicht (im `Webway`-Artikel mitbehandelt).
+- `articles_run3.txt` – Lauf 3: Häresie-Ära/30k (Imperial Truth, Council of Nikaea, Lectitio Divinitatus, Magnus, Horus Lupercal, Siege of Terra, Sanguinius, Golden Throne) – Grundlage für Hadriannus' Historienrede.
 
 Inhaltliche Schwerpunkte (Auswahl): Imperium-Grundlagen (Imperium, Emperor of Mankind, High Lords, Great Crusade, Horus Heresy), Adeptus Astartes & Primarchen, Chaos & Chaosgötter, der Warp, Astra Militarum, Adeptus Mechanicus & Titanen, Adeptus Custodes & Sisters of Silence, Adepta Sororitas & Ecclesiarchy, Inquisition (inkl. Ordos & Grey Knights), Assassinorum, Astropathen/Psyker/Navigatoren, Arbites/Administratum/Munitorum, Rogue Trader, Necrons (inkl. C'tan), Aeldari & Drukhari, T'au, Orks, Tyraniden/Genestealer, Weltentypen sowie das kanonische **Gilead System** (W&G-Setting, nennt u.a. die Absolvers, Ul-Khari, Ostia, Primus).
 
