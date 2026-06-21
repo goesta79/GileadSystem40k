@@ -35,6 +35,7 @@ Kreativ-Inhalte und Knowledge-Base der Kampagne. Word-Originale (`.docx`) und ko
 - `Abenteuer 5 - Fluff (Basar & Necron-Ankunft)` – 10 Basar-Vignetten + 3 Eröffnungstexte Necron-Gruft
 - `Abenteuer 5 - Fluff (Myravel-Szene)` – Matriarchin-Rede & Eistränen-Vorführung (Cegorach-Fluch)
 - `Handout - Hadriannus Historienrede` – Vorlese-Rede: die geheime 30k-Wahrheit (Webway/Goldener Thron)
+- `image_prompt` – Midjourney-V8.1-Arbeitsanweisung (Fotorealismus) + fertige NPC-/Orts-Prompts
 - `_convert_docx.py` – Skript zur Konvertierung der `.docx` nach Markdown
 
 ## lore/
