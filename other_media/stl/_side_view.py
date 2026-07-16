@@ -1,12 +1,15 @@
-# Seitenansichten + Querschnitte einer binaeren STL als PNG rendern (Selbstkontrolle).
-# Orthografische Projektion per Punktwolke (Vertices + Kantenmittelpunkte + Zentroide),
-# tiefen-schattiert; dazu duenne Querschnitts-Schnitte durch die Mitte.
+# Seitenansichten, Schraegsichten + Querschnitte einer binaeren STL als PNG rendern
+# (Selbstkontrolle der Relief-Skripte ohne Slicer).
+# Orthografische Projektion per dichter Punktwolke (Vertices + Kantenmittel + Zentroide),
+# tiefen-schattiert. Rote Linie = globale Maximalhoehe (macht zu niedrige Raender sichtbar).
 #
 # Aufruf:
 #   python _side_view.py datei.stl [weitere.stl ...] [--ppm 8] [--zx 1.0]
-# Ausgabe: <name>_side.png mit 4 Streifen:
-#   1) Ansicht von vorn (Blick entlang -Y)   2) Querschnitt Y-Mitte (Dicke ~1 mm)
-#   3) Ansicht von rechts (Blick entlang -X) 4) Querschnitt X-Mitte
+# Ausgabe:
+#   <name>_side.png    – 4 Streifen: Ansicht vorn, Schnitt Y-Mitte, Ansicht rechts,
+#                        Schnitt X-Mitte (mit roter Referenzlinie auf max. Hoehe)
+#   <name>_oblique.png – Schraegsichten-Raster: Zeilen = Blickrichtung 0/90/180/270 Grad,
+#                        Spalten = Elevation 22.5 / 45 Grad
 import argparse
 import os
 import sys
@@ -28,42 +31,86 @@ def densify(tris):
     ])
 
 
-def render_view(pts, ax_u, ax_z, ax_d, ppm, zx, section=None):
-    """Orthografische Ansicht: ax_u = Bild-x, ax_z = Hoehe, ax_d = Tiefe (Kamera bei -ax_d).
-    section=(mitte, dicke): nur Punkte im Schnittband rendern (weiss)."""
-    u, z, d = pts[:, ax_u], pts[:, ax_z], pts[:, ax_d]
-    if section is not None:
-        m = np.abs(d - section[0]) <= section[1]
-        u, z, d = u[m], z[m], d[m]
+def splat(u, z, d, ppm, zx, section=False):
+    """Punkte auf (u,z)-Ebene rastern; Schattierung nach Tiefe d (nah = hell)."""
     umin, zmin = u.min(), z.min()
     W = int(np.ceil((u.max() - umin) * ppm)) + 3
     Hpx = int(np.ceil((z.max() - zmin) * ppm * zx)) + 3
     px = np.clip(((u - umin) * ppm).astype(int) + 1, 0, W - 1)
     py = np.clip(Hpx - 2 - ((z - zmin) * ppm * zx).astype(int), 0, Hpx - 1)
-    img = np.zeros((Hpx, W), dtype=np.float32)
+    if section:
+        img = np.zeros((Hpx, W), dtype=np.uint8)
+        img[py, px] = 255
+        return img, zmin
+    depth = np.full(Hpx * W, np.inf, dtype=np.float64)
+    np.minimum.at(depth, py * W + px, d)
+    hit = np.isfinite(depth)
+    dn = depth[hit]
+    lo, hi = np.percentile(dn, 2), np.percentile(dn, 98)
+    shadev = 220 - 150 * np.clip((dn - lo) / max(hi - lo, 1e-9), 0, 1)
+    buf = np.zeros(Hpx * W, dtype=np.float32)
+    buf[hit] = shadev
+    return buf.reshape(Hpx, W).astype(np.uint8), zmin
+
+
+def to_rgb(img):
+    return np.repeat(img[:, :, None], 3, axis=2)
+
+
+def draw_zline(rgb, zline, zmin, ppm, zx, color=(255, 60, 60)):
+    """Horizontale Referenzlinie bei Hoehe zline einzeichnen."""
+    Hpx = rgb.shape[0]
+    row = Hpx - 2 - int((zline - zmin) * ppm * zx)
+    if 0 <= row < Hpx:
+        rgb[row, :, 0] = color[0]
+        rgb[row, :, 1] = color[1]
+        rgb[row, :, 2] = color[2]
+    return rgb
+
+
+def render_side(pts, a, up, b, ppm, zx, zref, section=None):
+    """Seitenansicht bzw. Querschnitt entlang Achse b, mit Referenzlinie."""
+    u, z, d = pts[:, a], pts[:, up], pts[:, b]
     if section is not None:
-        img[py, px] = 255.0
+        m = np.abs(d - section[0]) <= section[1]
+        img, zmin = splat(u[m], z[m], None, ppm, zx, section=True)
     else:
-        depth = np.full(Hpx * W, np.inf, dtype=np.float64)
-        np.minimum.at(depth, py * W + px, d)
-        hit = np.isfinite(depth)
-        dn = depth[hit]
-        lo, hi = np.percentile(dn, 2), np.percentile(dn, 98)
-        shadev = 220 - 150 * np.clip((dn - lo) / max(hi - lo, 1e-9), 0, 1)
-        buf = np.zeros(Hpx * W, dtype=np.float32)
-        buf[hit] = shadev
-        img = buf.reshape(Hpx, W)
-    return img.astype(np.uint8)
+        img, zmin = splat(u, z, d, ppm, zx)
+    return draw_zline(to_rgb(img), zref, zmin, ppm, zx)
 
 
-def stack(strips, gap=8):
-    W = max(s.shape[1] for s in strips)
-    total = sum(s.shape[0] for s in strips) + gap * (len(strips) - 1)
-    out = np.full((total, W), 30, dtype=np.uint8)
+def render_oblique(pts, a, b, up, phi_deg, elev_deg, ppm):
+    """Schraegsicht: Azimut phi (um Hochachse), dann Kippung elev (0=seitlich, 90=oben)."""
+    P = np.stack([pts[:, a], pts[:, b], pts[:, up]], axis=1)
+    P = P - P.mean(axis=0)
+    ph = np.deg2rad(phi_deg)
+    th = np.deg2rad(elev_deg)
+    Rz = np.array([[np.cos(ph), -np.sin(ph), 0], [np.sin(ph), np.cos(ph), 0], [0, 0, 1]])
+    Rx = np.array([[1, 0, 0], [0, np.cos(th), -np.sin(th)], [0, np.sin(th), np.cos(th)]])
+    Q = P @ Rz.T @ Rx.T
+    img, _ = splat(Q[:, 0], Q[:, 2], Q[:, 1], ppm, 1.0)
+    return to_rgb(img)
+
+
+def grid(cells, gap=8):
+    """Zellen [Zeile][Spalte] zu einem Bild zusammensetzen."""
+    rows = []
+    for row in cells:
+        h = max(c.shape[0] for c in row)
+        w = sum(c.shape[1] for c in row) + gap * (len(row) - 1)
+        strip = np.full((h, w, 3), 30, dtype=np.uint8)
+        xx = 0
+        for c in row:
+            strip[:c.shape[0], xx:xx + c.shape[1]] = c
+            xx += c.shape[1] + gap
+        rows.append(strip)
+    W = max(r.shape[1] for r in rows)
+    total = sum(r.shape[0] for r in rows) + gap * (len(rows) - 1)
+    out = np.full((total, W, 3), 30, dtype=np.uint8)
     yy = 0
-    for s in strips:
-        out[yy:yy + s.shape[0], :s.shape[1]] = s
-        yy += s.shape[0] + gap
+    for r in rows:
+        out[yy:yy + r.shape[0], :r.shape[1]] = r
+        yy += r.shape[0] + gap
     return out
 
 
@@ -74,25 +121,34 @@ def process(path, ppm, zx):
     dims = pts.max(axis=0) - pts.min(axis=0)
     up = int(np.argmin(dims))
     a, b = [ax for ax in range(3) if ax != up]
-    mid_b = (pts[:, b].max() + pts[:, b].min()) / 2
+    zref = pts[:, up].max()
     mid_a = (pts[:, a].max() + pts[:, a].min()) / 2
-    strips = [
-        render_view(pts, a, up, b, ppm, zx),
-        render_view(pts, a, up, b, ppm, zx, section=(mid_b, 0.6)),
-        render_view(pts, b, up, a, ppm, zx),
-        render_view(pts, b, up, a, ppm, zx, section=(mid_a, 0.6)),
-    ]
-    out_path = os.path.splitext(path)[0] + "_side.png"
-    Image.fromarray(stack(strips)).save(out_path)
-    print(f"{os.path.basename(path)}: {os.path.basename(out_path)} "
-          f"(BBox {dims[a]:.1f} x {dims[b]:.1f} x {dims[up]:.2f}, Ansicht+Schnitt je Achse)")
+    mid_b = (pts[:, b].max() + pts[:, b].min()) / 2
+
+    side = grid([
+        [render_side(pts, a, up, b, ppm, zx, zref)],
+        [render_side(pts, a, up, b, ppm, zx, zref, section=(mid_b, 0.6))],
+        [render_side(pts, b, up, a, ppm, zx, zref)],
+        [render_side(pts, b, up, a, ppm, zx, zref, section=(mid_a, 0.6))],
+    ])
+    side_path = os.path.splitext(path)[0] + "_side.png"
+    Image.fromarray(side).save(side_path)
+
+    ppm_o = ppm / 2  # Schraegsichten kompakter
+    cells = [[render_oblique(pts, a, b, up, phi, elev, ppm_o) for elev in (22.5, 45.0)]
+             for phi in (0, 90, 180, 270)]
+    obl_path = os.path.splitext(path)[0] + "_oblique.png"
+    Image.fromarray(grid(cells)).save(obl_path)
+
+    print(f"{os.path.basename(path)}: {os.path.basename(side_path)} + {os.path.basename(obl_path)} "
+          f"(BBox {dims[a]:.1f} x {dims[b]:.1f} x {dims[up]:.2f}; oblique: Zeilen=0/90/180/270 Grad, Spalten=22.5/45 Grad)")
 
 
 if __name__ == "__main__":
-    ap = argparse.ArgumentParser(description="Orthografische Seitenansichten/Querschnitte einer STL als PNG.")
+    ap = argparse.ArgumentParser(description="Seitenansichten, Schraegsichten und Querschnitte einer STL als PNG.")
     ap.add_argument("files", nargs="+", help="STL-Dateien")
     ap.add_argument("--ppm", type=float, default=8.0, help="Pixel pro mm horizontal (Default 8)")
-    ap.add_argument("--zx", type=float, default=1.0, help="Z-Ueberhoehung (Default 1.0 = massstabsgetreu)")
+    ap.add_argument("--zx", type=float, default=1.0, help="Z-Ueberhoehung der Seitenansichten (Default 1.0)")
     args = ap.parse_args()
     for p in args.files:
         process(p, args.ppm, args.zx)
