@@ -2,23 +2,29 @@
 # Detail-Normalisierung, Bas-Relief-Prinzip).
 #
 # Pipeline pro STL:
-#   1. Oberseiten-Heightmap H (512^2), Loecher/Rand per Naechster-Nachbar gefuellt.
-#   2. Basis B = Median-Filter (Fenster 2*--r-detail): folgt breiten Strukturen,
-#      schmale Grate UND schmale Gravuren wandern beide ins Detail D = H - B.
-#   3. Basis-Remap f(B): unter Hintergrund bg Identitaet, darueber tanh-Saettigung
-#      Richtung Plateau P -> mittlere Sockel werden ANGEHOBEN, hohe ABGESENKT.
-#   4. Detail-Normalisierung: lokale Detail-Maxima werden auf gemeinsame Amplitude
-#      --d-ceil skaliert (Auto-Gain, Kappung max 2x) -> alle Detailspitzen liegen
-#      koplanar bei P + d-ceil, Gravuren bleiben als Vertiefungen erhalten.
-#   5. Optional --img-detail: wo das Mesh kein Detail hat, wird Hochpass-Detail aus
-#      der PNG-Vorlage ins Plateau gepraegt (Orientierung per Kanten-Korrelation).
-#   6. Versatzfeld O spaltenweise auf die Vertices (bilinear), z-Rampe haelt
-#      Unterseite/Grundplatte fest. Keine Booleans -> Meshy-Topologie egal.
+#   1. Oberseiten-Heightmap H (512^2), Luecken per Naechster-Nachbar gefuellt.
+#   2. Basis B = Median-Filter (Fenster ~2*--r-detail) + Gauss-Glaettung: folgt
+#      breiten Strukturen; schmale Grate und Gravuren bleiben "Detail".
+#   3. Basis-Remap f(B): unter Hintergrund bg Identitaet, darueber Smoothstep --
+#      ab --sat der Basishoehe liegt die Basis EXAKT auf dem Plateau P
+#      (mittlere Sockel werden ANGEHOBEN, hohe ABGESENKT).
+#   4. Detail-Skalenfeld S: lokale Detail-Maxima (Dilation+Gauss-Envelope) werden
+#      auf gemeinsame Amplitude --d-ceil normiert (Auto-Gain, max 2x, Verstaerkung
+#      nur bei echtem Detail). Modus inset: Detailspitzen buendig mit P (Senkfeld).
+#   5. Optional --img-detail: Hochpass aus der PNG-Vorlage auf Plateauzonen ohne
+#      Mesh-Detail (Orientierung per Kanten-Korrelation).
+#   6. VERTEX-RELATIVE Transformation (entscheidend gegen Zacken-Artefakte):
+#         z >= B:  z' = fBeff + (z - B) * S        (Detail relativ zur Basis skaliert)
+#         z <  B:  z' = z + (fBeff - B) * ramp(z)  (weicher Uebergang, Boden fixiert)
+#      Es gehen NUR glatte Felder (B, fBeff, S) ein -- niemals die verrauschte
+#      per-Zelle-Detailkarte. Keine Booleans -> Meshy-Topologie egal.
+#
+# Kontrolle: _side_view.py rendert Seitenansichten/Querschnitte der Ergebnisse.
 #
 # Aufruf:
 #   python _relief_opt.py                        # alle *_cut2.stl, sucht <gott>.png daneben
-#   python _relief_opt.py slaanesh_cut2.stl --plateau 0.5 --d-ceil 1.0 --img-detail 0.4
-# Ausgabe: <name>_opt.stl + <name>_opt_preview.png (Schattierung vorher|nachher)
+#   python _relief_opt.py slaanesh_cut2.stl --mode inset --d-ceil 0.5
+# Ausgabe: <name>_opt.stl bzw. <name>_opt-inset.stl + *_preview.png (vorher|nachher)
 import argparse
 import glob
 import os
@@ -36,8 +42,8 @@ G = 512  # Heightmap-Aufloesung
 
 
 def heightfield(verts, up, axes, mn, dims):
-    """Max-z-Heightmap [x,y], Occupancy und Footprint-Maske; Werte ausserhalb der
-    Occupancy (auch ausserhalb des Footprints) per Naechster-Nachbar fortgesetzt."""
+    """Max-z-Heightmap [x,y], Occupancy und Footprint-Maske; Luecken (grosse
+    Dreiecke, ausserhalb) per Naechster-Nachbar fortgesetzt."""
     z = verts[:, up] - mn[up]
     ix = np.clip(((verts[:, axes[0]] - mn[axes[0]]) / dims[axes[0]] * (G - 1)).astype(int), 0, G - 1)
     iy = np.clip(((verts[:, axes[1]] - mn[axes[1]]) / dims[axes[1]] * (G - 1)).astype(int), 0, G - 1)
@@ -47,14 +53,14 @@ def heightfield(verts, up, axes, mn, dims):
     occ = np.isfinite(hm)
     fp = ndimage.binary_fill_holes(ndimage.binary_closing(occ, np.ones((5, 5))))
     _, idx = ndimage.distance_transform_edt(~occ, return_indices=True)
-    filled = hm[idx[0], idx[1]]  # ueberall definiert (auch ausserhalb fp fortgesetzt)
+    filled = hm[idx[0], idx[1]]
     return filled, occ, fp
 
 
 def median_base(H, r_px):
     """Median-Basis auf halbierter Aufloesung (Tempo), bilinear zurueckskaliert."""
     H2 = H[::2, ::2]
-    size = max(3, int(round(r_px)) | 1)  # Fenster ~2r auf halber Aufloesung
+    size = max(3, int(round(r_px)) | 1)
     B2 = ndimage.median_filter(H2, size=size, mode="nearest")
     B = ndimage.zoom(B2, (H.shape[0] / B2.shape[0], H.shape[1] / B2.shape[1]), order=1)
     return B[:H.shape[0], :H.shape[1]]
@@ -152,36 +158,35 @@ def process(path, args):
     hist, edges = np.histogram(lower, bins=max(8, int(np.ptp(lower) / 0.25)))
     bg = args.bg if args.bg is not None else float((edges[np.argmax(hist)] + edges[np.argmax(hist) + 1]) / 2)
 
-    # 2. Base/Detail-Zerlegung (Median-Basis)
+    # 2. Basis: Median + Glaettung (muss glatt sein: geht direkt in die Vertex-Transformation)
     B = median_base(H, args.r_detail * px_per_mm)
-    D = H - B
+    B = ndimage.gaussian_filter(B, args.smooth_mm * px_per_mm)
+    D = H - B  # nur fuer Envelope/Statistik, geht NICHT in die Vertex-Transformation
 
-    # 3. Basis-Remap: ab t >= --sat der Basishoehe liegt die Basis EXAKT auf dem
-    # Plateau (echte Ebene), darunter weicher Anstieg (Smoothstep)
+    # 3. Basis-Remap: ab --sat der Basishoehe exakt Plateau P
     Bmax = float(B[fp].max())
     P = args.plateau_mm if args.plateau_mm is not None else bg + args.plateau * (zmax - bg)
     t = (B - bg) / max(Bmax - bg, 1e-9)
     fB = np.where(B > bg, bg + (P - bg) * smoothstep(t / args.sat), B)
 
-    # 4. Detail-Normalisierung: lokale Maxima -> gemeinsame Amplitude d_ceil
+    # 4. Detail-Skalenfeld S (glatt): lokale Maxima -> gemeinsame Amplitude d_ceil
     dC = args.d_ceil
     env_px = max(3, int(round(args.r_detail * px_per_mm)) | 1)
     Dpos = np.maximum(D, 0)
     Dloc = ndimage.gaussian_filter(ndimage.grey_dilation(Dpos, size=(env_px, env_px)), env_px / 2.5)
-    Dloc = np.maximum(Dloc, Dpos)
-    scale = dC / np.maximum(Dloc, dC / 2.0)  # implizite Kappung: max 2x Verstaerkung
+    Dloc = np.maximum(Dloc, ndimage.gaussian_filter(Dpos, 1.5))
+    S = dC / np.maximum(Dloc, dC / 2.0)  # implizite Kappung: max 2x Verstaerkung
     # Verstaerkung (>1) nur wo echtes Detail vorliegt, sonst wuerde Rauschen verdoppelt
-    scale = 1.0 + (scale - 1.0) * np.where(scale > 1.0, smoothstep(Dloc / (0.5 * dC)), 1.0)
-    Dn = D * scale
+    S = 1.0 + (S - 1.0) * np.where(S > 1.0, smoothstep(Dloc / (0.5 * dC)), 1.0)
+    S = ndimage.gaussian_filter(S, 1.5)
 
-    O = (fB - B) + (Dn - D)
+    # 5. effektives Plateau-Feld (inset-Senkung, optionales Bilddetail)
+    FBe = fB.copy()
+    w_plateau = np.clip((fB - bg) / max(P - bg, 1e-9), 0, 1)
     if args.mode == "inset":
-        # Detail ins Plateau einlassen: lokale (normalisierte) Detailspitzen buendig
-        # mit P, Rest vertieft; Zonen ohne Detail bleiben unverschoben auf P
-        w_plateau = np.clip((fB - bg) / max(P - bg, 1e-9), 0, 1)
-        O -= np.clip(Dloc * scale, 0, dC) * w_plateau
+        # lokale (normalisierte) Detailspitzen buendig mit P, Rest vertieft
+        FBe -= np.clip(Dloc * S, 0, dC) * w_plateau
 
-    # 5. optional: Bilddetail ins Plateau praegen, wo das Mesh kaum Detail hat
     img_note = "kein Bild"
     png = args.png or re.sub(r"_cut\d*(_soft)?\.stl$", ".png", path)
     if os.path.exists(png):
@@ -194,28 +199,32 @@ def process(path, args):
             else:
                 Dimg = grid - ndimage.gaussian_filter(grid, args.img_sigma_mm * px_per_mm)
                 Dimg /= max(np.percentile(np.abs(Dimg[fp]), 95), 1e-9)  # -> ca. [-1..1]
-                w_plateau = np.clip((fB - bg) / max(P - bg, 1e-9), 0, 1)
                 w_gap = 1.0 - np.clip(Dloc / dC, 0, 1)  # nur wo Mesh-Detail fehlt
-                O += args.img_detail * np.clip(Dimg, -1.5, 1.5) * w_plateau * w_gap
+                FBe += args.img_detail * np.clip(Dimg, -1.5, 1.5) * w_plateau * w_gap
 
-    O = np.nan_to_num(O * fp)
-
-    # 6. Versatz auf Vertices anwenden, z-Rampe haelt Boden/Grundplatte fest
+    # 6. Vertex-relative Transformation (nur glatte Felder B, FBe, S)
     z = verts[:, up] - mn[up]
     x = (verts[:, axes[0]] - mn[axes[0]]) / dims[axes[0]] * (G - 1)
     y = (verts[:, axes[1]] - mn[axes[1]]) / dims[axes[1]] * (G - 1)
-    o = ndimage.map_coordinates(O, [x, y], order=1, mode="nearest")
-    z0, z1 = 0.35 * bg, bg + max(1.0, 0.1 * (zmax - bg))
-    w = smoothstep((z - z0) / max(z1 - z0, 1e-9))
-    verts[:, up] = mn[up] + z + w * o
+    bv = ndimage.map_coordinates(B, [x, y], order=1, mode="nearest")
+    fv = ndimage.map_coordinates(FBe, [x, y], order=1, mode="nearest")
+    sv = ndimage.map_coordinates(S, [x, y], order=1, mode="nearest")
+    zA = 0.35 * bg
+    t_low = (z - zA) / np.maximum(bv - zA, 1e-6)
+    znew = np.where(z >= bv,
+                    fv + (z - bv) * sv,
+                    z + (fv - bv) * smoothstep(t_low))
+    verts[:, up] = mn[up] + znew
 
     suffix = "_opt.stl" if args.mode == "raise" else "_opt-inset.stl"
     out_path = os.path.splitext(path)[0].replace("_cut2", "") + suffix
     write_binary_stl(out_path, verts.reshape(-1, 3, 3).astype(np.float32),
-                     f"relief-opt bg={bg:.2f} P={P:.2f} dC={dC}")
+                     f"relief-opt bg={bg:.2f} P={P:.2f} dC={dC} {args.mode}")
 
-    # Statistik + Vorschau
-    Hn = np.where(fp, H + O, H)
+    # Statistik + Vorschau (gleiche Transformation auf die Heightmap angewandt)
+    tH = (H - zA) / np.maximum(B - zA, 1e-6)
+    Hn = np.where(H >= B, FBe + (H - B) * S, H + (FBe - B) * smoothstep(tH))
+    Hn = np.where(fp, Hn, H)
     _, before = band_fracs(H[occ])
     zmax_n, after = band_fracs(Hn[occ])
     pv = np.concatenate([shade(H, fp, px_per_mm), shade(Hn, fp, px_per_mm)], axis=1)
@@ -224,7 +233,7 @@ def process(path, args):
 
     print(f"\n=== {name} -> {os.path.basename(out_path)} ===")
     print(f"  Hintergrund {bg:.2f} / Plateau {P:.2f} / r-detail {args.r_detail} mm / d-ceil {dC} mm / Bild: {img_note}")
-    print(f"  Hoehe (max): {zmax:.2f} -> {float(Hn[occ].max()):.2f}; Referenz P99.8: {zmax_n:.2f}")
+    print(f"  Hoehe (max): {zmax:.2f} -> {float(znew.max()):.2f}; Referenz P99.8: {zmax_n:.2f}")
     print(f"  Flaeche im Band unter Referenz (vorher -> nachher):")
     for d in (0.2, 0.5, 1.0):
         print(f"    {d:.1f}-Band: {before[d]:5.1f} % -> {after[d]:5.1f} %")
@@ -235,13 +244,14 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser(description="Adaptive Relief-Optimierung (Base/Detail + lokale Detail-Normalisierung).")
     ap.add_argument("files", nargs="*", help="STL-Dateien (Default: alle *_cut2.stl im Skriptordner)")
     ap.add_argument("--r-detail", type=float, default=5.0, help="Detail-Radius in mm: Schmaleres als ~2r ist Detail (Default 5)")
+    ap.add_argument("--smooth-mm", type=float, default=1.2, help="Glaettung der Basis in mm (Default 1.2)")
     ap.add_argument("--plateau", type=float, default=0.5, help="Plateau als Anteil der Reliefhoehe ueber Hintergrund (Default 0.5)")
     ap.add_argument("--plateau-mm", type=float, help="Plateau absolut in mm (ueberschreibt --plateau)")
     ap.add_argument("--sat", type=float, default=0.5, help="Basis-Anteil, ab dem exakt Plateauhoehe erreicht wird (Default 0.5)")
     ap.add_argument("--bg", type=float, help="Hintergrund-Niveau in mm (Default: automatisch)")
     ap.add_argument("--d-ceil", type=float, default=0.8, help="Ziel-Detailamplitude ueber dem Plateau in mm (Default 0.8)")
     ap.add_argument("--mode", choices=["raise", "inset"], default="raise",
-                    help="raise: Detail steht ueber dem Plateau (Kontakt = Detailspitzen). inset: Detail ins Plateau eingelassen (Kontakt = Plateauflaeche, maximale Auflage)")
+                    help="raise: Detail steht ueber dem Plateau. inset: Detail ins Plateau eingelassen (maximale Auflageflaeche)")
     ap.add_argument("--img-detail", type=float, default=0.0, help="Detail aus PNG-Vorlage in mm Amplitude einpraegen (Default 0 = aus)")
     ap.add_argument("--img-sigma-mm", type=float, default=1.5, help="Highpass-Radius fuer Bilddetail in mm (Default 1.5)")
     ap.add_argument("--png", help="Pfad zur Bildvorlage (Default: <gott>.png neben der STL)")
