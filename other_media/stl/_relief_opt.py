@@ -57,11 +57,24 @@ def heightfield(verts, up, axes, mn, dims):
     return filled, occ, fp
 
 
-def median_base(H, r_px):
-    """Median-Basis auf halbierter Aufloesung (Tempo), bilinear zurueckskaliert."""
+def _disk(r):
+    r = max(1, int(round(r)))
+    y, x = np.ogrid[-r:r + 1, -r:r + 1]
+    return (x * x + y * y) <= r * r
+
+
+def support_base(H, r_big_px, r_small_px):
+    """Stuetz-Basis: Opening mit grossem RUNDEM Fenster entfernt alles Schmale
+    (Ornamente, Grate, Spitzen) -> Basis folgt dem Untergrund; nur echte breite
+    Strukturen (Scheiben, Rahmen) bleiben in der Basis. Kleines Closing fuellt
+    schmale Gravur-Taeler. Runde Strukturelemente vermeiden achsenparallele
+    Artefaktkanten; gerechnet auf halber Aufloesung (Tempo)."""
     H2 = H[::2, ::2]
-    size = max(3, int(round(r_px)) | 1)
-    B2 = ndimage.median_filter(H2, size=size, mode="nearest")
+    fo, fc = _disk(r_big_px / 2), _disk(r_small_px / 2)
+    B2 = ndimage.grey_dilation(ndimage.grey_erosion(H2, footprint=fo, mode="nearest"),
+                               footprint=fo, mode="nearest")
+    B2 = ndimage.grey_erosion(ndimage.grey_dilation(B2, footprint=fc, mode="nearest"),
+                              footprint=fc, mode="nearest")
     B = ndimage.zoom(B2, (H.shape[0] / B2.shape[0], H.shape[1] / B2.shape[1]), order=1)
     return B[:H.shape[0], :H.shape[1]]
 
@@ -158,26 +171,48 @@ def process(path, args):
     hist, edges = np.histogram(lower, bins=max(8, int(np.ptp(lower) / 0.25)))
     bg = args.bg if args.bg is not None else float((edges[np.argmax(hist)] + edges[np.argmax(hist) + 1]) / 2)
 
-    # 2. Basis: Median + Glaettung (muss glatt sein: geht direkt in die Vertex-Transformation)
-    B = median_base(H, args.r_detail * px_per_mm)
+    # 2. Basis: Stuetzflaeche (Opening gross + Closing klein) + Glaettung
+    # (muss glatt sein: geht direkt in die Vertex-Transformation)
+    B = support_base(H, args.r_detail * px_per_mm, args.r_small * px_per_mm)
     B = ndimage.gaussian_filter(B, args.smooth_mm * px_per_mm)
     D = H - B  # nur fuer Envelope/Statistik, geht NICHT in die Vertex-Transformation
 
-    # 3. Basis-Remap: ab --sat der Basishoehe exakt Plateau P
-    Bmax = float(B[fp].max())
+    # 3. Basis-Remap: ab --sat der (robusten) Basishoehe exakt Plateau P;
+    # der Aussenrand (--rim-mm) wird, wo Struktur steht, explizit aufs Plateau gezogen
+    raised = B[fp][B[fp] > bg + 0.5]
+    B_hi = float(np.percentile(raised, 95)) if raised.size else float(B[fp].max())
     P = args.plateau_mm if args.plateau_mm is not None else bg + args.plateau * (zmax - bg)
-    t = (B - bg) / max(Bmax - bg, 1e-9)
-    fB = np.where(B > bg, bg + (P - bg) * smoothstep(t / args.sat), B)
+    t = (B - bg) / max(B_hi - bg, 1e-9)
+    wP_base = smoothstep(t / args.sat)
+    if args.rim_mm > 0:
+        dist_in = ndimage.distance_transform_edt(fp) / px_per_mm  # mm vom Aussenrand
+        w_rim = smoothstep((args.rim_mm + 2.0 - dist_in) / 2.0)
+        gate = smoothstep((ndimage.gaussian_filter(H, 1.2 * px_per_mm) - bg - 0.5) / 1.5)
+        wP_base = np.maximum(wP_base, w_rim * gate)
+    fB = bg + (P - bg) * wP_base
+    fB = np.where(B < bg, B, fB)  # unterhalb bg Identitaet
 
-    # 4. Detail-Skalenfeld S (glatt): lokale Maxima -> gemeinsame Amplitude d_ceil
+    # 4. Detail-Skalenfeld S (glatt): auf dem Plateau werden lokale Maxima auf
+    # d_ceil normiert (Auflageflaeche); auf dem Untergrund behalten Ornamente ihre
+    # Hoehe (nur gekappt, damit sie unter dem Plateau bleiben)
     dC = args.d_ceil
     env_px = max(3, int(round(args.r_detail * px_per_mm)) | 1)
-    Dpos = np.maximum(D, 0)
+    # Amplitude vor dem Envelope kappen: extreme Einzelspitzen wuerden sonst als
+    # harte (quadratische) Dilations-Schatten das Skalenfeld verzerren; Ausreisser
+    # faengt am Ende der weiche z-Clamp
+    Dpos = np.minimum(np.maximum(D, 0), 3.0 * dC)
     Dloc = ndimage.gaussian_filter(ndimage.grey_dilation(Dpos, size=(env_px, env_px)), env_px / 2.5)
     Dloc = np.maximum(Dloc, ndimage.gaussian_filter(Dpos, 1.5))
-    S = dC / np.maximum(Dloc, dC / 2.0)  # implizite Kappung: max 2x Verstaerkung
+    S_pl = dC / np.maximum(Dloc, dC / 2.0)  # implizite Kappung: max 2x Verstaerkung
     # Verstaerkung (>1) nur wo echtes Detail vorliegt, sonst wuerde Rauschen verdoppelt
-    S = 1.0 + (S - 1.0) * np.where(S > 1.0, smoothstep(Dloc / (0.5 * dC)), 1.0)
+    S_pl = 1.0 + (S_pl - 1.0) * np.where(S_pl > 1.0, smoothstep(Dloc / (0.5 * dC)), 1.0)
+    cap_bg = args.cap_bg * (P - bg)
+    S_bg = np.minimum(1.0, cap_bg / np.maximum(Dloc, 1e-6))
+    w_pl = np.clip((fB - bg) / max(P - bg, 1e-9), 0, 1)
+    S = S_bg + (S_pl - S_bg) * w_pl
+    # Deckel: Basis + Detail darf P + d_ceil nirgends ueberschreiten (Uebergangszonen!)
+    S = np.minimum(S, (P + dC - fB) / np.maximum(Dloc, 1e-6))
+    S = np.maximum(S, 0.0)
     S = ndimage.gaussian_filter(S, 1.5)
 
     # 5. effektives Plateau-Feld (inset-Senkung, optionales Bilddetail)
@@ -214,6 +249,10 @@ def process(path, args):
     znew = np.where(z >= bv,
                     fv + (z - bv) * sv,
                     z + (fv - bv) * smoothstep(t_low))
+    # letzte Sicherung: weicher z-Clamp auf die Ziel-Kontaktebene (monoton, global)
+    knee = P + (dC if args.mode == "raise" else 0.0) + 0.05
+    span = 0.2
+    znew = np.where(znew > knee, knee + span * np.tanh((znew - knee) / span), znew)
     verts[:, up] = mn[up] + znew
 
     suffix = "_opt.stl" if args.mode == "raise" else "_opt-inset.stl"
@@ -224,6 +263,7 @@ def process(path, args):
     # Statistik + Vorschau (gleiche Transformation auf die Heightmap angewandt)
     tH = (H - zA) / np.maximum(B - zA, 1e-6)
     Hn = np.where(H >= B, FBe + (H - B) * S, H + (FBe - B) * smoothstep(tH))
+    Hn = np.where(Hn > knee, knee + span * np.tanh((Hn - knee) / span), Hn)
     Hn = np.where(fp, Hn, H)
     _, before = band_fracs(H[occ])
     zmax_n, after = band_fracs(Hn[occ])
@@ -244,6 +284,9 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser(description="Adaptive Relief-Optimierung (Base/Detail + lokale Detail-Normalisierung).")
     ap.add_argument("files", nargs="*", help="STL-Dateien (Default: alle *_cut2.stl im Skriptordner)")
     ap.add_argument("--r-detail", type=float, default=5.0, help="Detail-Radius in mm: Schmaleres als ~2r ist Detail (Default 5)")
+    ap.add_argument("--r-small", type=float, default=3.0, help="Closing-Radius in mm: Gravuren bis ~2r bleiben Detail (Default 3)")
+    ap.add_argument("--rim-mm", type=float, default=6.0, help="Aussenrand-Zone in mm, die aufs Plateau gezogen wird (0 = aus, Default 6)")
+    ap.add_argument("--cap-bg", type=float, default=0.75, help="Max. Ornamenthoehe auf dem Untergrund als Anteil von (P-bg) (Default 0.75)")
     ap.add_argument("--smooth-mm", type=float, default=1.2, help="Glaettung der Basis in mm (Default 1.2)")
     ap.add_argument("--plateau", type=float, default=0.5, help="Plateau als Anteil der Reliefhoehe ueber Hintergrund (Default 0.5)")
     ap.add_argument("--plateau-mm", type=float, help="Plateau absolut in mm (ueberschreibt --plateau)")
