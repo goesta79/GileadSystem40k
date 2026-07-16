@@ -32,18 +32,21 @@ def densify(tris):
 
 
 def splat(u, z, d, ppm, zx, section=False):
-    """Punkte auf (u,z)-Ebene rastern; Schattierung nach Tiefe d (nah = hell)."""
+    """Punkte auf (u,z)-Ebene rastern (2x2-Splat gegen Loecher);
+    Schattierung nach Tiefe d (nah = hell)."""
     umin, zmin = u.min(), z.min()
-    W = int(np.ceil((u.max() - umin) * ppm)) + 3
-    Hpx = int(np.ceil((z.max() - zmin) * ppm * zx)) + 3
-    px = np.clip(((u - umin) * ppm).astype(int) + 1, 0, W - 1)
-    py = np.clip(Hpx - 2 - ((z - zmin) * ppm * zx).astype(int), 0, Hpx - 1)
+    W = int(np.ceil((u.max() - umin) * ppm)) + 4
+    Hpx = int(np.ceil((z.max() - zmin) * ppm * zx)) + 4
+    px = np.clip(((u - umin) * ppm).astype(int) + 1, 0, W - 2)
+    py = np.clip(Hpx - 3 - ((z - zmin) * ppm * zx).astype(int), 0, Hpx - 2)
     if section:
         img = np.zeros((Hpx, W), dtype=np.uint8)
         img[py, px] = 255
         return img, zmin
     depth = np.full(Hpx * W, np.inf, dtype=np.float64)
-    np.minimum.at(depth, py * W + px, d)
+    for dy in (0, 1):
+        for dx in (0, 1):
+            np.minimum.at(depth, (py + dy) * W + (px + dx), d)
     hit = np.isfinite(depth)
     dn = depth[hit]
     lo, hi = np.percentile(dn, 2), np.percentile(dn, 98)
@@ -134,14 +137,19 @@ def process(path, ppm, zx):
     side_path = os.path.splitext(path)[0] + "_side.png"
     Image.fromarray(side).save(side_path)
 
-    ppm_o = ppm / 2  # Schraegsichten kompakter
-    cells = [[render_oblique(pts, a, b, up, phi, elev, ppm_o) for elev in (22.5, 45.0)]
-             for phi in (0, 90, 180, 270)]
-    obl_path = os.path.splitext(path)[0] + "_oblique.png"
-    Image.fromarray(grid(cells)).save(obl_path)
+    # Schraegsichten als EINZELNE grosse Dateien (im Kachel-Raster waren Defekte
+    # wie ein lueckenhafter Rand nicht erkennbar)
+    stem = os.path.splitext(path)[0]
+    obl_paths = []
+    for phi in (0, 90, 180, 270):
+        for elev in (22.5, 45.0):
+            img = render_oblique(pts, a, b, up, phi, elev, ppm)
+            p = f"{stem}_ob_az{phi:03d}_e{int(elev)}.png"
+            Image.fromarray(img).save(p)
+            obl_paths.append(os.path.basename(p))
 
-    print(f"{os.path.basename(path)}: {os.path.basename(side_path)} + {os.path.basename(obl_path)} "
-          f"(BBox {dims[a]:.1f} x {dims[b]:.1f} x {dims[up]:.2f}; oblique: Zeilen=0/90/180/270 Grad, Spalten=22.5/45 Grad)")
+    print(f"{os.path.basename(path)}: {os.path.basename(side_path)} + {len(obl_paths)} Schraegsichten "
+          f"({obl_paths[0]} ... az=Blickrichtung, e=Elevation; BBox {dims[a]:.1f} x {dims[b]:.1f} x {dims[up]:.2f})")
 
 
 if __name__ == "__main__":
