@@ -59,3 +59,5 @@ Bild- und Referenzmaterial (KI-generierte Porträts, Orte, Szenen). **317 Bilder
 
 ## other_media/
 Weiteres Medienmaterial.
+- `stl/` – Chaos-Götter-Symbole als STL (Meshy-generiert: `khorne/nurgle/slaanesh/tzeentch_cut2.stl`, Ø 120 mm) für 3D-gedruckte Untersetzer; `old/` ältere Varianten.
+- `stl/_analyze_z.py` – Analyse-Skript: vermisst Z-Profil/Heightmap der Oberseiten (Untersetzer-Tauglichkeit, Plateau-Schnitthöhen). Aufruf: `python other_media/stl/_analyze_z.py [datei.stl ...]` (braucht numpy, im `.venv` installiert).
