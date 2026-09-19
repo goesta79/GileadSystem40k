@@ -34,7 +34,7 @@ Kreativ-Inhalte und Knowledge-Base der Kampagne. Word-Originale (`.docx`) und ko
 - `Abenteuer 5 - Pfad-Eröffnungen` – Szenen-Gerüst beider Pfade (A: Webway/Drukhari, B: Necron-Gruft)
 - `Abenteuer 5 - Fluff (Basar & Necron-Ankunft)` – 10 Basar-Vignetten + 3 Eröffnungstexte Necron-Gruft
 - `Abenteuer 5 - Myravels Ende und Antrag` – Fluff Myravel-Szene: Myrissaines Rede & Vorführung der Eistränen (Antrag an Alvanan)
-- `Abenteuer 6 - Der Imperator beschützt` – SPOILER, Hintergrund Abenteuer 6 (Webway-Basar): Mutter Sahl = heiliggesprochene Sororitas-Oberin Katharina Sahl mit Amnesie; Herr des Basars = zum Halb-Drukhari umgebauter White-Scars-Marine; Bogen für Solomons Glaubenskrise
+- `Abenteuer 6 - Der Imperator beschützt` – SPOILER, Hintergrund Abenteuer 6 (Webway-Basar): Mutter Sahl = heiliggesprochene Sororitas-Oberin Katharina Sahl mit Amnesie; Herr des Basars = zum Halb-Drukhari umgebauter White-Scars-Marine; Bogen für Solomons Glaubenskrise. Plus KI-Ausarbeitung: Namen (Xaerath Vyle, Temur Borchu, Skethryx Vhol), Stille Kammer, goldene Erinnerungs-Asche, Faith-Gimmick für Solomon, 5-Szenen-Struktur
 - `Handout - Hadriannus Historienrede` – Vorlese-Rede: die geheime 30k-Wahrheit (Webway/Goldener Thron)
 - `image_prompt` – Midjourney-V8.1-Arbeitsanweisung (Fotorealismus) + fertige NPC-/Orts-Prompts
 - `_convert_docx.py` – Skript zur Konvertierung der `.docx` nach Markdown
