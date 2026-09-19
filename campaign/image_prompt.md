@@ -107,6 +107,18 @@ Erzeuge zuerst **ein** Bild, dessen Grimdark-Look dir gefällt, kopiere dessen *
 
 ---
 
+### C) Abenteuer 6 – Der Imperator beschützt
+
+*Farbschema Orden vom Geheiligten Schild (Eigenfestlegung, im Kanon nicht definiert): knochenweiße Rüstung, stahlblaue Roben, Emblem in Gold/Flammenrot = Schädel mit Fleur-de-Lis auf flammenumkränztem Schild. Wiedererkennungsmerkmal Katharina: **Narbe durch die linke Augenbraue** (identisch bei Mutter Sahl und auf dem Siegel-Relief) – in allen Katharina-Prompts wortgleich lassen.*
+
+**Abenteuer 6 — Katharina Sahl als Seraphim (Porträt)** *(junge Jahre, vor ihrer Zeit als Oberin)*
+> cinematic film still, photorealistic portrait of a young female Adepta Sororitas Seraphim battle sister in her late twenties, stern devout face, short-cropped platinum white bob haircut, a thin old scar cutting through her left eyebrow, steel-grey eyes, visible pores and fine skin texture, ornate bone-white ceramite power armour with chipped edges and soot, dark steel-blue tabard and sleeves, gold fleur-de-lis on the chestplate, shoulder pauldron bearing a skull with a fleur-de-lis on a shield wreathed in flames, a bulky twin-turbine jump pack with angelic wing vanes rising behind her shoulders, a bolt pistol held in each gauntlet crossed over her chest, red wax purity seals with parchment strips, standing in a candle-lit gothic cathedral nave with incense haze, warm candle glow from below against cold blue window light as rim, shot on Hasselblad X2D, 90mm f/2.0, solemn and resolute, grimdark Warhammer 40k atmosphere, muted desaturated palette --ar 1:1 --style raw --s 85 --v 8.1
+
+**Abenteuer 6 — Katharina Sahl als Seraphim (Action)** *(im Sprung, für Rückblende/Heiligenbild)*
+> cinematic film still, a female Adepta Sororitas Seraphim battle sister descending from the air on a roaring twin-turbine jump pack with angelic wing vanes, short-cropped platinum white bob haircut, a thin old scar cutting through her left eyebrow, fierce devout expression, battle-worn bone-white ceramite power armour, dark steel-blue tabard whipping in the jet wash, gold fleur-de-lis on the chestplate, shoulder pauldron bearing a skull with a fleur-de-lis on a shield wreathed in flames, firing a bolt pistol from each hand with bright muzzle flashes, spent casings tumbling, purity seals and parchment streaming behind her, smoke-filled ruined shrine with shattered stained glass, shafts of golden light breaking through the smoke from above like a halo, shot on RED Komodo, 35mm f/2.8, fast shutter frozen motion with slight heat shimmer from the turbines, wrathful and angelic, grimdark Warhammer 40k atmosphere, muted desaturated palette --ar 1:1 --style raw --s 85 --v 8.1
+
+---
+
 ## TEIL 3 – Workflow-Empfehlung
 1. **Stil festnageln:** einen Establisher (z.B. den Basar-Ort) erzeugen, besten Look behalten, dessen `--sref`-Code oben eintragen.
 2. **NPC-Serie:** jeden NPC-Prompt mit demselben `--sref`-Code laufen lassen → einheitliche Galerie.
