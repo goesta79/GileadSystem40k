@@ -120,6 +120,25 @@ Erzeuge zuerst **ein** Bild, dessen Grimdark-Look dir gefällt, kopiere dessen *
 **Abenteuer 6 — Wappen des Ordens vom Geheiligten Schild** *(für Handouts/Siegel)*
 > photorealistic still life of a gothic heraldic heater shield, dark midnight-blue enamelled field with worn scratches, pale-gold bone-coloured metal rim studded with small fleur-de-lis ornaments, a large sculpted pale-gold fleur-de-lis in the centre, a human skull with the roman numeral I engraved on its forehead set within a silver laurel wreath at the heart of the fleur-de-lis, a straight sword mounted diagonally behind the shield, a red braided cord looped around it, a red wax purity seal with aged parchment strips hanging from the lower left, a white ribbon banner, lying on a weathered stone altar, soft overcast window light from upper right, shot on Hasselblad X2D, 80mm f/5.6, reverent and austere, grimdark Warhammer 40k atmosphere, muted desaturated palette --ar 1:1 --style raw --s 85 --v 8.1
 
+#### Kompakt-Prompts – Basar-NPCs für Abenteuer 6
+
+*Kurzfassungen (ein Subjekt, ein Licht, eine Kamera) – weniger Text lässt dem `--p`-Profil mehr Raum. Die ausführlichen Varianten der Basar-NPCs stehen in Abschnitt B.*
+
+**Abenteuer 6 — Die Maskenlose** *(Harlekin ohne Maske, Sprachrohr des Wirts)*
+> cinematic film still, portrait of an unmasked female Aeldari harlequin, beautiful blank face like an unwritten page, iridescent diamond-pattern costume, empty mask held in her hand, blurred bazaar crowd behind, cool soft light, 85mm f/1.4, eerie stillness, grimdark Warhammer 40k --ar 1:1 --style raw --s 85 --v 8.1
+
+**Abenteuer 6 — Der Reliquienhändler** *(abgesetzter Ministorum-Ablasshändler)*
+> cinematic film still, portrait of a defrocked middle-aged Ecclesiarchy preacher turned relic pedlar, faded threadbare purple robes, sweaty nervous charming smile, holding up a saint's finger bone, fake relics on dark velvet, warm lantern light, 50mm f/2.0, shabby and fervent, grimdark Warhammer 40k --ar 1:1 --style raw --s 85 --v 8.1
+
+**Abenteuer 6 — Großmutter Ix** *(uralte Voidborn-Hausiererin)*
+> cinematic film still, portrait of a tiny ancient voidborn woman, paper-pale skin that never saw a sun, sharp sly eyes, patched many-pocketed coat hung with trinkets, perched on a crate in a bazaar nook, warm lantern light, 35mm f/2.0, cunning and kind, grimdark Warhammer 40k --ar 1:1 --style raw --s 85 --v 8.1
+
+**Abenteuer 6 — Der Lehrling des Schmerzes** *(junger Drukhari, Vhols Lehrling)*
+> cinematic film still, portrait of a young Drukhari flesh-surgeon apprentice, pale gaunt face, shy polite smile, blood-crusted leather apron, fine cruel scalpels and glowing vials, a heavy curtain behind him, low red key light, 50mm f/1.8, quietly horrifying, grimdark Warhammer 40k --ar 1:1 --style raw --s 85 --v 8.1
+
+**Abenteuer 6 — Meister Skethryx Vhol, „der Veredler"** *(Haemonculus, Temurs Schöpfer)*
+> cinematic film still, portrait of an ancient Drukhari haemonculus, emaciated elongated body, parchment skin stretched over a skull-like face, exposed extended spine with syringe vials, extra grafted surgical arms, stitched black leather robes, connoisseur's thin smile, dim flesh-workshop, cold green underlight, 50mm f/2.0, refined and monstrous, grimdark Warhammer 40k --ar 1:1 --style raw --s 85 --v 8.1
+
 ---
 
 ## TEIL 3 – Workflow-Empfehlung
