@@ -74,6 +74,21 @@ Mit dem Sturz des Sklavenhändlers ist auch Mutter Sahl faktisch frei – nur ha
 | Sein Gladiatorenhalter | **Meister Skethryx Vhol, „der Veredler"** | Haemonculus. Temur ist sein unvollendetes Meisterwerk: der Beweis, dass sich Astartes-Gensaat und Aeldari-Fleisch „versöhnen" lassen. Er will ihn zurück. |
 | Katharinas Orden | **Orden vom Geheiligten Schild** (*Order of the Sanctified Shield*) | Der kanonische Gilead-Orden (`Core`). Damit ist sie eine **Heilige aus Gilead** – das Siegel kommt aus der Heimat der Helden. |
 
+#### Basar-NPCs – festgelegte Namen *(Entscheidung SL, 2026-09-20)*
+
+*Vignetten-Nummern beziehen sich auf `Abenteuer 5 - Weggabelung`, Teil 1.*
+
+| Name | Rolle | Vignette | Funktion in Abenteuer 6 |
+|---|---|---|---|
+| **Ilyrae Nimmerlarve** („die Maskenlose") | Ehemalige Harlekin-Mimin | 8 | Sprachrohr des Wirts, vermittelt die Audienz (Szene 2) |
+| **Hochwürden Lazlo Venk** | Reliquienhändler | 3 | Quelle des echten Reinheitssiegels; weiß, woher es kam |
+| **Großmutter Ix** | Dienerin und Tagelöhnerin | 9 | Tonias Verbündete; Hinweis auf den Aschesammler (Szene 1), Hilfe in Szene 4 |
+| **Ysmael Vhol-Eleve** („der Lehrling des Schmerzes") | Drukhari-Haemonculus-Anwärter | 10 | Beobachtet die Gruppe; nimmt Mutter Sahl als Druckmittel (Szene 4) |
+| **Meister Skethryx Vhol, „der Veredler"** | Drukhari-Haemonculus und Gladiatoren-Trainer | 10 (hinter dem Vorhang) | Antagonist; will den Wirt zurück |
+| **Osric Vantz** | Händler für Psi-Kuriositäten („Käfig aus Glas") | 6 | Ware summt beim Splitter → Frühwarnung vor Szene 4 |
+| **Thessaly Moor** | Botaniker und freischaffender Gärtner („der Wandelnde Garten") | 7 | Farbtupfer; hilft in Szene 4, wem er gewogen ist |
+| **Ahkra Prok, „der Vielgeschmeckte"** | Kroot-Koch (Garküche „Langes Gedächtnis") | 4 | Farbtupfer; hilft in Szene 4, wem er gewogen ist |
+
 **Das Reinheitssiegel** (Wortlaut-Vorschlag für ein Handout):
 > *„Im Namen der Heiligen Katharina vom Zerbrochenen Tor, Oberin des Ordens vom Geheiligten Schild, die allein stand, wo keine Mauer war. Ihr Leib blieb jenseits, ihr Licht kehrte heim. Geweiht zu ihrem Festtag, im dritten Jahr ihrer Erhebung. Der Imperator beschützt."*
 
