@@ -143,6 +143,15 @@ Erzeuge zuerst **ein** Bild, dessen Grimdark-Look dir gefällt, kopiere dessen *
 **Abenteuer 6 — Meister Skethryx Vhol, „der Veredler"** *(Haemonculus, Temurs Schöpfer)*
 > movie still in the style of grimdark 40k, portrait of an ancient Drukhari haemonculus, emaciated elongated body, parchment skin stretched over a skull-like face, exposed extended spine with syringe vials, extra grafted surgical arms, stitched black leather robes, connoisseur's thin smile, dim flesh-workshop, cold green underlight, 50mm f/2.0, refined and monstrous --ar 1:1 --style raw --s 85 --v 8.1
 
+**Abenteuer 6 — Der Kroot-Shaper** *(Garküche „Langes Gedächtnis")*
+> movie still in the style of grimdark 40k, portrait of a lean Kroot shaper, tall avian reptilian alien, beaked face, crest of long quills, leathery olive skin, bone fetishes on a hide harness, turning strange meat on a skewer over green flame, knowing hungry eyes, smoke and embers, green fire underlight, 50mm f/2.0, exotic and ominous --ar 1:1 --style raw --s 85 --v 8.1
+
+**Abenteuer 6 — Der Verkäufer vom Käfig aus Glas** *(Psi-Kuriositäten, drei Schutzbrillen)*
+> movie still in the style of grimdark 40k, portrait of a twitchy gaunt human trader wearing three pairs of tinted goggles strapped over each other, padded insulated coat, nervous hunched posture, flinching back from the viewer, glass cages of softly glowing gemstones and crystal shards around him, cold blue gem glow on his face, 50mm f/2.0, paranoid and fragile --ar 1:1 --style raw --s 85 --v 8.1
+
+**Abenteuer 6 — Der Wandelnde Garten** *(vermummte Gestalt mit Glaskuppel)*
+> movie still in the style of grimdark 40k, a heavily cloaked faceless figure carrying a large glass dome on its back like a backpack, inside the dome a lush overgrown garden of impossible alien plants, pale luminous blossoms and ferns pressing against the glass, condensation droplets, walking slowly through a dark bazaar alley, soft green glow from the dome as only light, 35mm f/2.8, gentle and melancholic --ar 1:1 --style raw --s 85 --v 8.1
+
 ---
 
 ## TEIL 3 – Workflow-Empfehlung
